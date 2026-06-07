@@ -1,0 +1,31 @@
+Cabbage relaxed primer-mm1 amplicon summary
+==========================================
+
+Full-length <=1 mismatch primer hits: 11651
+Unique primers with full-length <=1 mismatch hits: 1582
+Unique markers with at least one relaxed primer hit: 1115
+Candidate amplicons found: 485
+Markers with at least one candidate amplicon: 441
+Markers with exactly one candidate amplicon: 415
+Maximum allowed amplicon length: 1000 bp
+
+Unique amplicons by total mismatch:
+total_mismatch
+0    347
+1     61
+2      7
+
+Unique amplicons by marker type:
+marker_type
+SSR    414
+SNP      1
+
+Amplicon length summary:
+count    415.000000
+mean     224.556627
+std       82.066728
+min       81.000000
+25%      170.500000
+50%      221.000000
+75%      262.000000
+max      704.000000

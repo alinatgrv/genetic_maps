@@ -1,0 +1,46 @@
+Cabbage relaxed primer-mm1 map filtering summary
+================================================
+
+Input relaxed markers: 415
+Markers on chromosome-level CM accessions: 393
+Markers on scaffold/contig accessions excluded: 22
+LG/ref_seq conflict markers excluded: 32
+Clean markers after chromosome and LG filtering: 361
+Duplicate-position rows in clean map: 24
+Final unique chr-pos-cM rows: 337
+
+Clean markers by chromosome:
+chr
+1    35
+2    28
+3    58
+4    39
+5    36
+6    37
+7    43
+8    59
+9    26
+
+Final unique markers by chromosome:
+chr
+1    33
+2    25
+3    52
+4    39
+5    36
+6    32
+7    39
+8    55
+9    26
+
+Clean markers by total mismatch:
+total_mismatch
+0    310
+1     48
+2      3
+
+Final unique markers by total mismatch:
+total_mismatch
+0    293
+1     41
+2      3

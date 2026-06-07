@@ -1,0 +1,36 @@
+Cabbage strict amplicon mapping summary
+======================================
+
+BLAST perfect hits: 7078
+Markers in metadata: 1227
+Markers with at least one perfect primer hit: 1052
+Candidate amplicons found: 394
+Markers with at least one candidate amplicon: 371
+Strict markers with exactly one candidate amplicon: 353
+Maximum allowed amplicon length: 1000 bp
+
+Amplicon length summary for strict markers:
+count    353.000000
+mean     225.362606
+std       79.661528
+min       91.000000
+25%      174.000000
+50%      224.000000
+75%      264.000000
+max      704.000000
+
+Strict markers by linkage group:
+linkage_group
+C01    35
+C02    30
+C03    50
+C04    44
+C05    34
+C06    36
+C07    45
+C08    54
+C09    25
+
+Strict markers by marker type:
+marker_type
+SSR    353

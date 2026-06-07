@@ -1,0 +1,15 @@
+name: genetic_maps
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - xlrd
+  - openpyxl
+  - biopython
+  - seqkit
+  - minimap2
+  - samtools
+  - blast
+  - ncbi-datasets-cli

@@ -1,0 +1,45 @@
+Cabbage strict map filtering summary
+===================================
+
+Input strict markers: 353
+Markers on chromosome-level CM accessions: 336
+Markers on scaffold/contig accessions excluded: 17
+LG/ref_seq conflict markers excluded: 21
+Clean markers after chromosome and LG filtering: 315
+Duplicate-position rows in clean map: 19
+Final unique chr-pos-cM rows: 296
+
+Clean markers by chromosome:
+chr
+1    32
+2    26
+3    47
+4    34
+5    32
+6    30
+7    41
+8    48
+9    25
+
+Final unique markers by chromosome:
+chr
+1    28
+2    23
+3    41
+4    34
+5    32
+6    30
+7    37
+8    46
+9    25
+
+RefSeq accession to chromosome mapping used:
+gb|CM031006.1|	chr1	C01
+gb|CM031007.1|	chr2	C02
+gb|CM031008.1|	chr3	C03
+gb|CM031009.1|	chr4	C04
+gb|CM031010.1|	chr5	C05
+gb|CM031011.1|	chr6	C06
+gb|CM031012.1|	chr7	C07
+gb|CM031013.1|	chr8	C08
+gb|CM031014.1|	chr9	C09

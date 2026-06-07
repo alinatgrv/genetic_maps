@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Reference genomes and genome archives
+**/data/ref/
+*.fna
+*.fa
+*.fasta
+*.fna.gz
+*.fa.gz
+*.fasta.gz
+*.zip
+
+# BLAST databases and large alignment outputs
+*.ndb
+*.nhr
+*.nin
+*.njs
+*.nog
+*.nos
+*.not
+*.nsq
+*.ntf
+*.nto
+*.blast.tsv
+*.perfect.tsv
+*.full_length_mm1.tsv
+
+# BAM/SAM and indexes
+*.sam
+*.bam
+*.bai
+*.mmi
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Old local working structure
+archive_old_structure/
