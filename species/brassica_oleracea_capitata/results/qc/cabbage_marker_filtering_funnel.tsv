@@ -1,0 +1,18 @@
+strategy	stage_order	stage	n	note
+input	1	source_markers	1227	Исходные маркеры из supplementary-таблицы
+input	2	source_primers	2454	Forward + reverse primers
+primer_alignment	3	primers_with_any_blast_hit	2454	Праймер имеет хотя бы одно BLAST-попадание
+primer_alignment	4	primers_with_full_length_perfect_hit	1435	Полное идеальное попадание: full-length, mismatch=0, gapopen=0
+primer_alignment	5	primers_with_full_length_mm1_hit	1582	Полное попадание с mismatch <= 1, gapopen=0
+strict	10	markers_with_both_primers_perfect	383	Оба праймера имеют full-length perfect hit
+strict	11	candidate_amplicons	394	Файл: archive_old_structure/results/cabbage/cabbage_amplicons.strict.tsv
+strict	12	markers_with_candidate_amplicon	371	Файл: archive_old_structure/results/cabbage/cabbage_amplicons.strict.tsv
+strict	13	markers_with_exactly_one_candidate_amplicon	353	Однозначный strict-ампликон
+strict	14	strict_clean_unique	296	После удаления scaffolds, LG/ref conflicts и duplicate positions
+strict	15	strict_high_confidence_collinear	196	Финальная strict high-confidence карта
+relaxed_mm1	20	markers_with_both_primers_mm1	467	Оба праймера имеют full-length hit с mismatch <= 1
+relaxed_mm1	21	candidate_amplicons	485	Файл: archive_old_structure/results/cabbage/cabbage_amplicons.relaxed_primer_mm1.tsv
+relaxed_mm1	22	markers_with_candidate_amplicon	441	Файл: archive_old_structure/results/cabbage/cabbage_amplicons.relaxed_primer_mm1.tsv
+relaxed_mm1	23	markers_with_exactly_one_candidate_amplicon	415	Однозначный relaxed mm1 ампликон
+relaxed_mm1	24	relaxed_clean_unique	337	После удаления scaffolds, LG/ref conflicts и duplicate positions
+relaxed_mm1	25	relaxed_mm1_collinear	222	Финальная relaxed mm1 collinear карта
