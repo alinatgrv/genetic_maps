@@ -1,0 +1,43 @@
+Sunflower PLOS ONE Dataset S6 summary
+=====================================
+
+Input file: species/helianthus_annuus/data/raw/pone.0051360.s006.xlsx
+Total feature rows: 67846
+Unique feature IDs: 67846
+Unique sequences: 66606
+Unique unigenes: 22487
+Bad sequences: 0
+
+Sequence length distribution:
+25	67846
+
+Features by linkage group:
+LG1	3388
+LG2	2082
+LG3	4400
+LG4	4083
+LG5	5239
+LG6	1997
+LG7	1896
+LG8	4625
+LG9	5047
+LG10	6662
+LG11	3576
+LG12	4019
+LG13	4880
+LG14	4070
+LG15	3095
+LG16	3645
+LG17	5142
+
+Mis-matches to template distribution:
+0	6871
+1	8251
+2	9301
+3	10236
+4	11113
+5	10557
+6	7711
+7	3322
+8	448
+9	36

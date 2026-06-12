@@ -1,0 +1,30 @@
+Start: Tue 09 Jun 2026 02:21:21 PM UTC
+Host: novaplant1
+Threads: 8
+Reference: /mnt/reference/genomes/heliantus_annuus/GCF_002127325.2/GCF_002127325.2_HanXRQr2.0-SUNRISE_genomic.unmasked.fna
+Query: species/helianthus_annuus/data/markers/sunflower_features_25bp.fasta
+
+Running bwa aln exact...
+[bwa_aln_core] calculate SA coordinate... 0.62 sec
+[bwa_aln_core] write to the disk... 0.01 sec
+[bwa_aln_core] 67846 sequences have been processed.
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa aln -n 0 -o 0 -l 25 -t 8 /mnt/reference/genomes/heliantus_annuus/GCF_002127325.2/GCF_002127325.2_HanXRQr2.0-SUNRISE_genomic.unmasked.fna species/helianthus_annuus/data/markers/sunflower_features_25bp.fasta
+[main] Real time: 2.204 sec; CPU: 2.741 sec
+
+Running bwa samse...
+[bwa_aln_core] convert to sequence coordinate... 3.40 sec
+[bwa_aln_core] refine gapped alignments... 0.61 sec
+[bwa_aln_core] print alignments... 0.07 sec
+[bwa_aln_core] 67846 sequences have been processed.
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa samse /mnt/reference/genomes/heliantus_annuus/GCF_002127325.2/GCF_002127325.2_HanXRQr2.0-SUNRISE_genomic.unmasked.fna species/helianthus_annuus/results/intermediate/sunflower_features_25bp.bwa_exact.sai species/helianthus_annuus/data/markers/sunflower_features_25bp.fasta
+[main] Real time: 4.120 sec; CPU: 4.121 sec
+
+Done: Tue 09 Jun 2026 02:21:27 PM UTC
+SAI:
+-rw-rw-r-- 1 tagirovaa tagirovaa 1.1M Jun  9 14:21 species/helianthus_annuus/results/intermediate/sunflower_features_25bp.bwa_exact.sai
+SAM:
+-rw-rw-r-- 1 tagirovaa tagirovaa 6.8M Jun  9 14:21 species/helianthus_annuus/results/intermediate/sunflower_features_25bp.bwa_exact.sam
+SAM alignment rows:
+67846
