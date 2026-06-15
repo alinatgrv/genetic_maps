@@ -27,7 +27,6 @@ chr    pos    cM
 ~~~text
 genetic_maps_test_task/
 ├── README.md
-├── report.md
 └── species/
     ├── zea_mays/
     ├── helianthus_annuus/
