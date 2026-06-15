@@ -1,0 +1,43 @@
+MaizeGDB Genetic 1 -> NAM-5.0 genetic map summary
+=================================================
+
+Input directory: /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/data/raw/maizegdb_map_1203637/map_text_browser
+Input files: 10
+Target assembly columns: Zm-B73-REFERENCE-NAM-5.0
+
+All parsed MaizeGDB rows: 23683
+Rows with numeric cM: 23683
+Rows with NAM-5.0 chr/start/end/cM: 21355
+Final unique chr-pos-cM rows: 21288
+
+Rows by source map id / linkage group:
+ map_id  linkage_group  size
+1203637              1  3689
+1203638              2  2861
+1203639              3  2512
+1203640              4  2438
+1203641              5  2616
+1203642              6  2015
+1203643              7  1868
+1203644              8  2046
+1203645              9  1847
+1203646             10  1791
+
+Valid NAM-5.0 rows by chromosome:
+ chr  markers  unique_loci  unique_positions  min_pos   max_pos  min_cM  max_cM
+   1     3387         3387              3374    37410 308322690    0.00  285.80
+   2     2580         2578              2570    98554 243484148    0.00  181.80
+   3     2277         2275              2262   253579 237761286    0.05  208.40
+   4     2180         2179              2169   139714 250060058    0.02  187.27
+   5     2384         2383              2367   287408 226247164    0.10  171.00
+   6     1785         1783              1776  5533063 181183029    0.50  137.82
+   7     1686         1686              1677   182044 185796199    0.01  156.02
+   8     1913         1913              1893   265045 182260656    0.01  159.00
+   9     1614         1614              1607  1797399 162885841    0.00  160.17
+  10     1549         1548              1536   132371 152286072    0.10  135.99
+
+Output files:
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/intermediate/maizegdb_genetic1_all_parsed_rows.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/intermediate/maizegdb_genetic1_nam5_with_positions.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/final/zea_mays_genetic_map.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/qc/maize_marker_counts_by_chr.tsv

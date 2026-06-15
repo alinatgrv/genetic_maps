@@ -1,0 +1,59 @@
+Maize NAM-5.0 map QC summary
+============================
+
+Intermediate file: /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/intermediate/maizegdb_genetic1_nam5_with_positions.tsv
+Final file: /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/final/zea_mays_genetic_map.tsv
+
+Rows in intermediate table: 23683
+Rows with valid NAM-5.0 position: 21355
+Rows without valid NAM-5.0 position: 2328
+Rows in final chr-pos-cM table: 21288
+
+Final map rows by chromosome:
+chr
+1     3381
+2     2575
+3     2266
+4     2173
+5     2373
+6     1781
+7     1681
+8     1904
+9     1611
+10    1543
+
+Duplicate chr-pos rows before final deduplication:
+230 rows
+
+Chromosome vs linkage group crosstab:
+linkage_group    1     2     3     4     5     6     7     8     9     10
+chr                                                                      
+1              3387     0     0     0     0     0     0     0     0     0
+2                 0  2580     0     0     0     0     0     0     0     0
+3                 0     0  2277     0     0     0     0     0     0     0
+4                 0     0     0  2180     0     0     0     0     0     0
+5                 0     0     0     0  2384     0     0     0     0     0
+6                 0     0     0     0     0  1785     0     0     0     0
+7                 0     0     0     0     0     0  1686     0     0     0
+8                 0     0     0     0     0     0     0  1913     0     0
+9                 0     0     0     0     0     0     0     0  1614     0
+10                0     0     0     0     0     0     0     0     0  1549
+
+Physical vs genetic coordinate correlation:
+ chr    n  spearman_pos_cM  pearson_pos_cM  cM_decreases_after_sort_by_pos  min_pos   max_pos  min_cM  max_cM
+   1 3387         0.999997        0.977622                              20    37410 308322690    0.00  285.80
+   2 2580         0.998497        0.922790                              19    98554 243484148    0.00  181.80
+   3 2277         0.999984        0.926421                              15   253579 237761286    0.05  208.40
+   4 2180         0.999790        0.948532                              15   139714 250060058    0.02  187.27
+   5 2384         1.000000        0.934080                              15   287408 226247164    0.10  171.00
+   6 1785         0.999999        0.922471                              10  5533063 181183029    0.50  137.82
+   7 1686         0.999999        0.929199                               6   182044 185796199    0.01  156.02
+   8 1913         0.999997        0.956073                              19   265045 182260656    0.01  159.00
+   9 1614         0.999999        0.895474                              10  1797399 162885841    0.00  160.17
+  10 1549         0.996949        0.899748                              10   132371 152286072    0.10  135.99
+
+QC output files:
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/qc/maize_nam5_duplicate_chr_pos.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/qc/maize_nam5_chr_vs_linkage_group.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/qc/maize_nam5_rows_without_valid_position.tsv
+- /Users/ima/Desktop/genetic_maps_test_task/species/zea_mays/results/qc/maize_nam5_physical_vs_genetic_correlation.tsv
