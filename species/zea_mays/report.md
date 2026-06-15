@@ -271,18 +271,17 @@ species/zea_mays/results/figures/maize_marker_density_10cM.svg
 ~~~
 
 ### `maize_genetic_map_coverage.svg`
-![Maize genetic map coverage](species/zea_mays/results/figures/maize_genetic_map_coverage.svg)
+![Maize genetic map coverage](results/figures/maize_genetic_map_coverage.svg)
 
 Показывает покрытие каждой хромосомы маркерами по генетической координате `cM`.
 
 ### `maize_physical_map_coverage.svg`
-![Maize physical map coverage](species/zea_mays/results/figures/maize_physical_map_coverage.svg)
+![Maize physical map coverage](results/figures/maize_physical_map_coverage.svg)
 
 Показывает распределение маркеров по физической координате на сборке NAM-5.0.
 
 ### `maize_marker_density_10cM.svg`
-![Maize marker density 10cM](species/zea_mays/results/maize_marker_density_10cM.svg)
-
+![Maize marker density 10cM](results/figures/maize_marker_density_10cM.svg)
 Показывает плотность маркеров в интервалах по 10 cM.
 
 Также была сохранена таблица плотности маркеров:
