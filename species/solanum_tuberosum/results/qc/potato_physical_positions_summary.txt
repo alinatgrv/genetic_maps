@@ -1,0 +1,49 @@
+Potato physical SNP positions on DM v6.1
+=============================================
+
+Input rows total: 86115
+Unique-position rows, MULTIMAP == N: 81711
+Strict exact rows, MULTIMAP == N and NUM_MISMATCH == 0: 45462
+Duplicated marker_id among MULTIMAP == N rows: 0
+
+Rows by source:
+source
+potvar        14864
+solcap_69k    71251
+
+Rows by source and multimap:
+source      multimap
+potvar      N           14763
+            Y             101
+solcap_69k  N           66948
+            Y            4303
+
+Rows by source and num_mismatch:
+source      num_mismatch
+potvar      0               14844
+            1                  12
+            2                   2
+            3                   2
+            4                   4
+solcap_69k  0               32759
+            1               21127
+            2               10465
+            3                4325
+            4                1863
+            5                 712
+
+Unique-position rows by chromosome:
+chr
+chr01    10213
+chr02     9466
+chr03     8123
+chr04     7427
+chr05     6962
+chr06     5995
+chr07     6554
+chr08     5536
+chr09     5844
+chr10     4641
+chr11     5549
+chr12     5401
+

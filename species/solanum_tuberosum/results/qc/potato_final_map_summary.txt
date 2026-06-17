@@ -1,0 +1,32 @@
+Potato final genetic map
+===================================
+
+Target reference: DM_1-3_516_R44_potato.v6.1
+Genetic source: Sharma et al. 2013 TableS4
+Physical source: SpudDB SolCAP 69K SNP positions on DM v6.1
+
+Final chr-pos-cM rows: 313
+Chromosomes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+Final map file: species/solanum_tuberosum/results/final/potato_genetic_map.tsv
+Trace file with marker IDs: species/solanum_tuberosum/results/final/potato_genetic_map.with_markers.tsv
+QC by chromosome: species/solanum_tuberosum/results/qc/potato_final_map_qc_by_chr.tsv
+
+Markers per chromosome:
+chr
+1     38
+10    24
+11    26
+12    10
+2     34
+3     18
+4     44
+5     11
+6     30
+7     27
+8     20
+9     31
+
+Mismatch distribution for included markers:
+num_mismatch
+0    313
+

@@ -1,0 +1,66 @@
+Potato Sharma et al. 2013 TableS4 genetic map parsing
+============================================================
+
+Input TableS4 file: species/solanum_tuberosum/data/raw/pgsc_sharma_2013/TableS4.tsv
+Parsed genetic map rows: 1730
+Parsed SolCAP rows: 313
+Physical DM v6.1 unique-position rows: 81711
+
+Direct marker_id overlap with physical v6.1: 0
+Normalized marker_id overlap with physical v6.1: 313
+Merged rows after normalized marker_id join: 313
+Merged rows with genetic_chr == physical chr: 313
+Preliminary final chr-pos-cM rows: 313
+
+Marker types in parsed genetic map:
+marker_type
+DArT_marker      1305
+SNP               313
+repeat_region      80
+match              32
+
+Parsed genetic rows by chromosome:
+genetic_chr
+chr01    220
+chr02    236
+chr03    158
+chr04    108
+chr05    110
+chr06    139
+chr07     96
+chr08    198
+chr09    155
+chr10    132
+chr11     92
+chr12     86
+
+Merged rows by physical chromosome:
+chr
+chr01    38
+chr02    34
+chr03    18
+chr04    44
+chr05    11
+chr06    30
+chr07    27
+chr08    20
+chr09    31
+chr10    24
+chr11    26
+chr12    10
+
+Merged rows with chromosome agreement by chromosome:
+chr
+chr01    38
+chr02    34
+chr03    18
+chr04    44
+chr05    11
+chr06    30
+chr07    27
+chr08    20
+chr09    31
+chr10    24
+chr11    26
+chr12    10
+
