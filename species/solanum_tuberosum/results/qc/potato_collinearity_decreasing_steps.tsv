@@ -1,0 +1,738 @@
+map_name	chr	prev_pos	prev_cM	prev_marker_id	prev_marker_type	prev_source_mode	curr_pos	curr_cM	curr_marker_id	curr_marker_type	curr_source_mode	delta_pos	delta_cM
+strict_direct_solcap	1	3694828	15.768	solcap_snp_c1_6110	SNP		4644404	15.567	solcap_snp_c1_15142	SNP		949576	-0.2010000000000005
+strict_direct_solcap	1	64336038	35.392	solcap_snp_c1_12109	SNP		65627217	34.892	solcap_snp_c1_13685	SNP		1291179	-0.5
+strict_direct_solcap	1	66757200	42.021	solcap_snp_c1_4402	SNP		67271838	41.733	solcap_snp_c1_4710	SNP		514638	-0.2880000000000038
+strict_direct_solcap	1	67271838	41.733	solcap_snp_c1_4710	SNP		67733812	38.902	solcap_snp_c1_4754	SNP		461974	-2.830999999999996
+strict_direct_solcap	1	73928936	59.934	solcap_snp_c1_6269	SNP		74448862	56.522	solcap_snp_c1_6295	SNP		519926	-3.411999999999999
+strict_direct_solcap	1	74794275	62.3	solcap_snp_c1_14093	SNP		74921059	57.545	solcap_snp_c1_15573	SNP		126784	-4.7549999999999955
+strict_direct_solcap	1	75196506	61.635	solcap_snp_c1_4604	SNP		75266586	61.148	solcap_snp_c1_4607	SNP		70080	-0.48699999999999477
+strict_direct_solcap	1	81517833	81.408	solcap_snp_c1_3297	SNP		82100630	78.463	solcap_snp_c1_3281	SNP		582797	-2.9450000000000074
+strict_direct_solcap	1	83987313	82.021	solcap_snp_c1_1731	SNP		84095795	82.017	solcap_snp_c1_1748	SNP		108482	-0.0040000000000048885
+strict_direct_solcap	2	18485069	17.27	solcap_snp_c1_9122	SNP		19873304	9.702	solcap_snp_c1_5749	SNP		1388235	-7.568
+strict_direct_solcap	2	21788784	20.452	solcap_snp_c1_9725	SNP		21808866	20.269	solcap_snp_c1_9732	SNP		20082	-0.18300000000000338
+strict_direct_solcap	2	21808866	20.269	solcap_snp_c1_9732	SNP		21965487	18.876	solcap_snp_c1_16347	SNP		156621	-1.3929999999999971
+strict_direct_solcap	2	23885399	22.668	solcap_snp_c1_15404	SNP		25017414	22.273	solcap_snp_c1_11486	SNP		1132015	-0.3949999999999996
+strict_direct_solcap	2	27527543	29.406	solcap_snp_c1_5078	SNP		27620643	28.867	solcap_snp_c1_16340	SNP		93100	-0.5389999999999979
+strict_direct_solcap	2	27620643	28.867	solcap_snp_c1_16340	SNP		27646352	27.157	solcap_snp_c1_16341	SNP		25709	-1.7100000000000009
+strict_direct_solcap	2	28460955	30.435	solcap_snp_c1_13929	SNP		28582692	30.371	solcap_snp_c1_13914	SNP		121737	-0.06400000000000006
+strict_direct_solcap	2	34661319	49.569	solcap_snp_c1_5850	SNP		35334126	47.129	solcap_snp_c1_12377	SNP		672807	-2.440000000000005
+strict_direct_solcap	2	35334126	47.129	solcap_snp_c1_12377	SNP		35468438	46.584	solcap_snp_c1_16172	SNP		134312	-0.5449999999999946
+strict_direct_solcap	2	41878492	66.529	solcap_snp_c1_8464	SNP		42131765	65.395	solcap_snp_c1_8485	SNP		253273	-1.1340000000000003
+strict_direct_solcap	3	2647267	5.423	solcap_snp_c1_14813	SNP		2851481	5.21	solcap_snp_c1_13889	SNP		204214	-0.21300000000000008
+strict_direct_solcap	3	52594978	61.505	solcap_snp_c1_14158	SNP		52713842	60.839	solcap_snp_c1_14161	SNP		118864	-0.6660000000000039
+strict_direct_solcap	3	56912914	71.847	solcap_snp_c1_59	SNP		57127483	71.2	solcap_snp_c1_27	SNP		214569	-0.6469999999999914
+strict_direct_solcap	3	57326019	71.514	solcap_snp_c1_155	SNP		57408932	71.008	solcap_snp_c1_152	SNP		82913	-0.5060000000000002
+strict_direct_solcap	4	7094613	19.481	solcap_snp_c1_3745	SNP		7127130	19.381	solcap_snp_c1_3731	SNP		32517	-0.10000000000000142
+strict_direct_solcap	4	7824438	28.251	solcap_snp_c1_3704	SNP		8195239	20.794	solcap_snp_c1_14449	SNP		370801	-7.457000000000001
+strict_direct_solcap	4	12644502	38.503	solcap_snp_c1_11135	SNP		19302965	36.725	solcap_snp_c1_12827	SNP		6658463	-1.7779999999999987
+strict_direct_solcap	4	43447691	40.204	solcap_snp_c1_3442	SNP		43525521	40.2	solcap_snp_c1_14569	SNP		77830	-0.003999999999997783
+strict_direct_solcap	4	55814875	53.409	solcap_snp_c1_10454	SNP		55864113	53.406	solcap_snp_c1_10441	SNP		49238	-0.0030000000000001137
+strict_direct_solcap	4	60379241	64.567	solcap_snp_c1_9742	SNP		61042106	62.407	solcap_snp_c1_11669	SNP		662865	-2.1599999999999966
+strict_direct_solcap	4	65513708	84.498	solcap_snp_c1_3168	SNP		65797678	82.372	solcap_snp_c1_13085	SNP		283970	-2.1260000000000048
+strict_direct_solcap	4	66783619	88.566	solcap_snp_c1_4111	SNP		66814329	87.999	solcap_snp_c1_4179	SNP		30710	-0.5670000000000073
+strict_direct_solcap	4	66981576	88.867	solcap_snp_c1_10207	SNP		67037168	88.718	solcap_snp_c1_10218	SNP		55592	-0.1490000000000009
+strict_direct_solcap	4	67527578	91.264	solcap_snp_c1_13350	SNP		67538822	90.601	solcap_snp_c1_10710	SNP		11244	-0.6629999999999967
+strict_direct_solcap	5	8024295	30.434	solcap_snp_c1_11256	SNP		8385142	29.911	solcap_snp_c1_11075	SNP		360847	-0.5229999999999997
+strict_direct_solcap	5	51470172	56.967	solcap_snp_c1_3413	SNP		52206315	55.528	solcap_snp_c1_12486	SNP		736143	-1.439
+strict_direct_solcap	6	2349513	5.93	solcap_snp_c1_15546	SNP		2429309	3.779	solcap_snp_c1_13631	SNP		79796	-2.151
+strict_direct_solcap	6	31603941	14.191	solcap_snp_c1_3692	SNP		32505188	13.254	solcap_snp_c1_9854	SNP		901247	-0.9370000000000012
+strict_direct_solcap	6	54680829	62.481	solcap_snp_c1_7681	SNP		54781274	62.205	solcap_snp_c1_7690	SNP		100445	-0.27600000000000335
+strict_direct_solcap	6	56749446	65.401	solcap_snp_c1_14920	SNP		56910485	65.312	solcap_snp_c1_14796	SNP		161039	-0.08899999999999864
+strict_direct_solcap	6	56970498	65.335	solcap_snp_c1_12101	SNP		57097701	65.327	solcap_snp_c1_12088	SNP		127203	-0.007999999999995566
+strict_direct_solcap	7	687291	2.659	solcap_snp_c1_13671	SNP		707517	0.0	solcap_snp_c1_11523	SNP		20226	-2.659
+strict_direct_solcap	7	3303107	9.087	solcap_snp_c1_10959	SNP		3407150	8.738	solcap_snp_c1_10985	SNP		104043	-0.3490000000000002
+strict_direct_solcap	7	3407150	8.738	solcap_snp_c1_10985	SNP		3960282	8.714	solcap_snp_c1_13776	SNP		553132	-0.023999999999999133
+strict_direct_solcap	7	36788141	17.964	solcap_snp_c1_2672	SNP		37737782	17.66	solcap_snp_c1_513	SNP		949641	-0.3039999999999985
+strict_direct_solcap	7	37737782	17.66	solcap_snp_c1_513	SNP		38834428	17.656	solcap_snp_c1_480	SNP		1096646	-0.004000000000001336
+strict_direct_solcap	7	40931544	20.081	solcap_snp_c1_1547	SNP		41802263	20.061	solcap_snp_c1_15703	SNP		870719	-0.019999999999999574
+strict_direct_solcap	7	43596257	26.686	solcap_snp_c1_7505	SNP		44340304	26.06	solcap_snp_c1_7378	SNP		744047	-0.6260000000000012
+strict_direct_solcap	8	38300248	25.921	solcap_snp_c1_9821	SNP		38961474	25.817	solcap_snp_c1_11720	SNP		661226	-0.1039999999999992
+strict_direct_solcap	8	57690192	64.687	solcap_snp_c1_5605	SNP		57771519	64.377	solcap_snp_c1_5612	SNP		81327	-0.3100000000000023
+strict_direct_solcap	9	34137871	39.625	solcap_snp_c1_2319	SNP		46801848	39.514	solcap_snp_c1_8209	SNP		12663977	-0.1109999999999971
+strict_direct_solcap	9	55353103	56.142	solcap_snp_c1_13519	SNP		56104281	50.736	solcap_snp_c1_16459	SNP		751178	-5.406000000000006
+strict_direct_solcap	9	58413779	61.264	solcap_snp_c1_1401	SNP		58912293	60.697	solcap_snp_c1_12054	SNP		498514	-0.5670000000000002
+strict_direct_solcap	9	61110298	66.79	solcap_snp_c1_6949	SNP		61762534	66.664	solcap_snp_c1_8939	SNP		652236	-0.12600000000000477
+strict_direct_solcap	9	66777078	87.866	solcap_snp_c1_10580	SNP		66778416	86.542	solcap_snp_c1_10582	SNP		1338	-1.323999999999998
+strict_direct_solcap	10	1826253	9.56	solcap_snp_c1_272	SNP		2346214	8.962	solcap_snp_c1_289	SNP		519961	-0.5980000000000008
+strict_direct_solcap	10	6642729	22.556	solcap_snp_c1_14047	SNP		29688859	20.137	solcap_snp_c1_1	SNP		23046130	-2.4190000000000005
+strict_direct_solcap	10	35603439	25.672	solcap_snp_c1_3057	SNP		36968160	23.048	solcap_snp_c1_3055	SNP		1364721	-2.6240000000000023
+strict_direct_solcap	10	44301243	26.728	solcap_snp_c1_11408	SNP		45867762	26.604	solcap_snp_c1_14465	SNP		1566519	-0.12400000000000233
+strict_direct_solcap	10	57342715	57.701	solcap_snp_c1_9069	SNP		57502157	57.235	solcap_snp_c1_12656	SNP		159442	-0.4660000000000011
+strict_direct_solcap	11	675706	7.188	solcap_snp_c1_4358	SNP		2579325	0.759	solcap_snp_c1_11111	SNP		1903619	-6.428999999999999
+strict_direct_solcap	11	3575362	12.567	solcap_snp_c1_2132	SNP		3695457	4.712	solcap_snp_c1_2311	SNP		120095	-7.855
+strict_direct_solcap	11	4000873	15.715	solcap_snp_c1_2254	SNP		4242408	5.452	solcap_snp_c1_2221	SNP		241535	-10.263
+strict_direct_solcap	11	5321940	17.585	solcap_snp_c1_16309	SNP		6166561	8.301	solcap_snp_c1_6633	SNP		844621	-9.284
+strict_direct_solcap	11	16224599	37.27	solcap_snp_c1_872	SNP		37615241	36.859	solcap_snp_c1_4359	SNP		21390642	-0.41100000000000136
+strict_direct_solcap	11	40806074	48.053	solcap_snp_c1_1300	SNP		42186332	47.372	solcap_snp_c1_6959	SNP		1380258	-0.6809999999999974
+strict_direct_solcap	11	42273649	50.616	solcap_snp_c1_6967	SNP		42408537	47.907	solcap_snp_c1_6971	SNP		134888	-2.709000000000003
+strict_direct_solcap	11	43727992	53.878	solcap_snp_c1_4911	SNP		43731390	53.049	solcap_snp_c1_4908	SNP		3398	-0.8290000000000006
+strict_direct_solcap	12	261416	69.698	solcap_snp_c1_16130	SNP		568082	69.512	solcap_snp_c1_1958	SNP		306666	-0.18599999999999284
+strict_direct_solcap	12	568082	69.512	solcap_snp_c1_1958	SNP		1781003	66.841	solcap_snp_c1_1948	SNP		1212921	-2.6710000000000065
+strict_direct_solcap	12	1781003	66.841	solcap_snp_c1_1948	SNP		3430218	60.796	solcap_snp_c1_2775	SNP		1649215	-6.044999999999995
+strict_direct_solcap	12	3663191	60.994	solcap_snp_c1_2733	SNP		4098875	50.571	solcap_snp_c1_2713	SNP		435684	-10.423000000000002
+strict_direct_solcap	12	4098875	50.571	solcap_snp_c1_2713	SNP		6017006	40.012	solcap_snp_c1_9741	SNP		1918131	-10.558999999999997
+strict_direct_solcap	12	7297924	44.555	solcap_snp_c1_7491	SNP		49357724	27.502	solcap_snp_c1_8495	SNP		42059800	-17.053
+liftover_extended_cigar	1	2818203	10.169	PM0117	repeat_region		2967161	8.698	solcap_stsnp_c1_6704	SNP		148958	-1.471
+liftover_extended_cigar	1	3694828	15.768	solcap_stsnp_c1_6110	SNP		4644404	15.567	solcap_stsnp_c1_15142	SNP		949576	-0.2010000000000005
+liftover_extended_cigar	1	4644404	15.567	solcap_stsnp_c1_15142	SNP		5019507	13.291	pPt-470842	DArT_marker		375103	-2.276
+liftover_extended_cigar	1	14815802	23.548	toPt-440099	DArT_marker		19690776	0.0	PM1119	repeat_region		4874974	-23.548
+liftover_extended_cigar	1	28146217	24.847	pPt-653070	DArT_marker		30619387	24.797	PM0531	repeat_region		2473170	-0.05000000000000071
+liftover_extended_cigar	1	30900854	25.789	pPt-533936	DArT_marker		34774889	23.267	solcap_stsnp_c1_15714	SNP		3874035	-2.522000000000002
+liftover_extended_cigar	1	58507121	31.025	pPt-657377	DArT_marker		60207942	27.828	solcap_stsnp_c1_806	SNP		1700821	-3.196999999999999
+liftover_extended_cigar	1	60207942	27.828	solcap_stsnp_c1_806	SNP		60877545	23.926	pPt-538302	DArT_marker		669603	-3.902000000000001
+liftover_extended_cigar	1	60877545	23.926	pPt-654213	DArT_marker		60877687	23.783	pPt-655709	DArT_marker		142	-0.14299999999999713
+liftover_extended_cigar	1	65028487	38.564	pPt-656762	DArT_marker		65182850	36.587	pPt-653459	DArT_marker		154363	-1.9769999999999968
+liftover_extended_cigar	1	65182850	36.587	pPt-653459	DArT_marker		65627217	34.892	solcap_stsnp_c1_13685	SNP		444367	-1.6950000000000003
+liftover_extended_cigar	1	65854890	38.926	solcap_stsnp_c1_14297	SNP		66053547	28.479	toPt-441265	DArT_marker		198657	-10.447000000000003
+liftover_extended_cigar	1	66053547	28.479	toPt-441265	DArT_marker		66053672	28.291	pPt-651042	DArT_marker		125	-0.18799999999999883
+liftover_extended_cigar	1	66615373	42.286	pPt-651270	DArT_marker		66757200	42.021	solcap_stsnp_c1_4402	SNP		141827	-0.26500000000000057
+liftover_extended_cigar	1	66757200	42.021	solcap_stsnp_c1_4402	SNP		66897180	37.928	MICRO.8112.C1_325	match		139980	-4.0930000000000035
+liftover_extended_cigar	1	67001953	42.933	pPt-472755	DArT_marker		67271838	41.733	solcap_stsnp_c1_4710	SNP		269885	-1.2000000000000028
+liftover_extended_cigar	1	67276340	43.333	pPt-652517	DArT_marker		67305393	43.294	pPt-654672	DArT_marker		29053	-0.03900000000000148
+liftover_extended_cigar	1	67305393	43.294	pPt-654672	DArT_marker		67733812	38.902	solcap_stsnp_c1_4754	SNP		428419	-4.391999999999996
+liftover_extended_cigar	1	67821222	40.069	pPt-539066	DArT_marker		67821419	40.067	pPt-459313	DArT_marker		197	-0.0020000000000024443
+liftover_extended_cigar	1	72006329	50.278	pPt-534179	DArT_marker		72006529	50.123	toPt-440576	DArT_marker		200	-0.15500000000000114
+liftover_extended_cigar	1	73928936	59.934	solcap_stsnp_c1_6269	SNP		74448862	56.522	solcap_stsnp_c1_6295	SNP		519926	-3.411999999999999
+liftover_extended_cigar	1	74794275	62.3	solcap_stsnp_c1_14093	SNP		74921059	57.545	solcap_stsnp_c1_15573	SNP		126784	-4.7549999999999955
+liftover_extended_cigar	1	75196506	61.635	solcap_stsnp_c1_4604	SNP		75266586	61.148	solcap_stsnp_c1_4607	SNP		70080	-0.48699999999999477
+liftover_extended_cigar	1	75266586	61.148	solcap_stsnp_c1_4607	SNP		75565740	60.081	pPt-650108	DArT_marker		299154	-1.0670000000000002
+liftover_extended_cigar	1	77039028	63.763	solcap_stsnp_c1_15429	SNP		77072312	63.434	MICRO.10124.C1_261	match		33284	-0.3290000000000006
+liftover_extended_cigar	1	79768729	75.842	pPt-654743	DArT_marker		79880009	75.174	solcap_stsnp_c1_2501	SNP		111280	-0.6679999999999922
+liftover_extended_cigar	1	79946769	76.723	pPt-538971	DArT_marker		80095734	76.519	solcap_stsnp_c1_2517	SNP		148965	-0.20399999999999352
+liftover_extended_cigar	1	81813679	81.493	pPt-653453	DArT_marker		82100630	78.463	solcap_stsnp_c1_3281	SNP		286951	-3.030000000000001
+liftover_extended_cigar	1	83987313	82.021	solcap_stsnp_c1_1731	SNP		84095795	82.017	solcap_stsnp_c1_1748	SNP		108482	-0.0040000000000048885
+liftover_extended_cigar	1	84651365	82.355	pPt-534579	DArT_marker		84755311	81.766	pPt-456654	DArT_marker		103946	-0.5889999999999986
+liftover_extended_cigar	1	85233404	85.393	STI0009	repeat_region		85589930	83.267	solcap_stsnp_c1_23	SNP		356526	-2.1260000000000048
+liftover_extended_cigar	1	85968224	83.922	pPt-457687	DArT_marker		86427944	83.724	pPt-533874	DArT_marker		459720	-0.1979999999999933
+liftover_extended_cigar	1	86427944	85.105	pPt-473287	DArT_marker		86449536	83.709	solcap_stsnp_c1_14689	SNP		21592	-1.3960000000000008
+liftover_extended_cigar	1	87140214	89.665	pPt-651049	DArT_marker		87140660	89.438	pPt-552373	DArT_marker		446	-0.22700000000000387
+liftover_extended_cigar	1	87140660	90.022	pPt-534481	DArT_marker		87140661	89.553	pPt-537128	DArT_marker		1	-0.4690000000000083
+liftover_extended_cigar	1	87140661	92.181	pPt-537048	DArT_marker		87140672	89.515	pPt-471907	DArT_marker		11	-2.665999999999997
+liftover_extended_cigar	1	87140672	92.982	pPt-650685	DArT_marker		87459417	88.624	pPt-654259	DArT_marker		318745	-4.358000000000004
+liftover_extended_cigar	1	87459417	88.624	pPt-654259	DArT_marker		87509482	87.967	pPt-457982	DArT_marker		50065	-0.6569999999999965
+liftover_extended_cigar	1	87509482	90.603	pPt-458685	DArT_marker		87946251	86.917	pPt-655410	DArT_marker		436769	-3.685999999999993
+liftover_extended_cigar	1	88088812	86.948	pPt-474103	DArT_marker		88093670	86.923	pPt-533911	DArT_marker		4858	-0.024999999999991473
+liftover_extended_cigar	1	88093670	86.923	pPt-533911	DArT_marker		88280205	86.481	pPt-654697	DArT_marker		186535	-0.4420000000000073
+liftover_extended_cigar	2	4202319	14.378	PM1368	repeat_region		4694333	11.734	PM1293	repeat_region		492014	-2.644
+liftover_extended_cigar	2	10911355	13.575	pPt-558945	DArT_marker		10911356	13.54	toPt-441360	DArT_marker		1	-0.03500000000000014
+liftover_extended_cigar	2	10911358	13.54	pPt-538192	DArT_marker		10911360	12.988	toPt-439285	DArT_marker		2	-0.5519999999999996
+liftover_extended_cigar	2	10911360	13.843	toPt-440363	DArT_marker		13256806	13.29	pPt-456775	DArT_marker		2345446	-0.5530000000000008
+liftover_extended_cigar	2	13914404	15.263	pPt-536293	DArT_marker		14121419	13.665	pPt-650691	DArT_marker		207015	-1.5980000000000008
+liftover_extended_cigar	2	14671637	14.663	toPt-439915	DArT_marker		14671640	14.625	pPt-458624	DArT_marker		3	-0.038000000000000256
+liftover_extended_cigar	2	14671640	14.633	pPt-458041	DArT_marker		15571371	6.462	pPt-540344	DArT_marker		899731	-8.171
+liftover_extended_cigar	2	18485069	17.27	solcap_stsnp_c1_9122	SNP		19406545	8.218	MICRO.7351.C1_583	match		921476	-9.052
+liftover_extended_cigar	2	19921687	19.714	pPt-654515	DArT_marker		19934163	9.818	pPt-456492	DArT_marker		12476	-9.895999999999999
+liftover_extended_cigar	2	21787827	20.226	pPt-652662	DArT_marker		21787829	20.205	pPt-472525	DArT_marker		2	-0.021000000000000796
+liftover_extended_cigar	2	21787829	20.782	toPt-763794	DArT_marker		21788784	20.452	solcap_stsnp_c1_9725	SNP		955	-0.3299999999999983
+liftover_extended_cigar	2	21788784	20.452	solcap_stsnp_c1_9725	SNP		21808866	20.269	solcap_stsnp_c1_9732	SNP		20082	-0.18300000000000338
+liftover_extended_cigar	2	21808866	20.269	solcap_stsnp_c1_9732	SNP		21965487	18.876	solcap_stsnp_c1_16347	SNP		156621	-1.3929999999999971
+liftover_extended_cigar	2	23885399	22.668	solcap_stsnp_c1_15404	SNP		25017414	22.273	solcap_stsnp_c1_11486	SNP		1132015	-0.3949999999999996
+liftover_extended_cigar	2	25999493	26.967	solcap_stsnp_c1_13468	SNP		26349683	26.33	pPt-534957	DArT_marker		350190	-0.6370000000000005
+liftover_extended_cigar	2	27276114	27.361	pPt-657436	DArT_marker		27276127	27.36	toPt-439196	DArT_marker		13	-0.0010000000000012221
+liftover_extended_cigar	2	27345592	29.172	pPt-657053	DArT_marker		27451374	28.327	PM1332	repeat_region		105782	-0.8449999999999989
+liftover_extended_cigar	2	27527543	29.406	solcap_stsnp_c1_5078	SNP		27569702	27.835	pPt-536176	DArT_marker		42159	-1.570999999999998
+liftover_extended_cigar	2	27620643	28.867	solcap_stsnp_c1_16340	SNP		27646352	27.157	solcap_stsnp_c1_16341	SNP		25709	-1.7100000000000009
+liftover_extended_cigar	2	28460955	30.435	solcap_stsnp_c1_13929	SNP		28477644	29.713	pPt-653009	DArT_marker		16689	-0.7219999999999978
+liftover_extended_cigar	2	28924425	33.115	pPt-653576	DArT_marker		28925922	31.488	pPt-537833	DArT_marker		1497	-1.6270000000000024
+liftover_extended_cigar	2	29489666	33.796	pPt-472441	DArT_marker		29568246	32.097	pPt-650762	DArT_marker		78580	-1.698999999999998
+liftover_extended_cigar	2	29568246	36.173	pPt-651609	DArT_marker		29643643	34.422	pPt-473662	DArT_marker		75397	-1.7510000000000048
+liftover_extended_cigar	2	29643643	34.422	pPt-473662	DArT_marker		29734369	32.524	pPt-652571	DArT_marker		90726	-1.8979999999999961
+liftover_extended_cigar	2	29779831	36.843	pPt-655073	DArT_marker		30080945	35.092	solcap_stsnp_c1_13234	SNP		301114	-1.7510000000000048
+liftover_extended_cigar	2	30080945	35.092	solcap_stsnp_c1_13234	SNP		30096020	34.375	pPt-652302	DArT_marker		15075	-0.7169999999999987
+liftover_extended_cigar	2	30220615	36.467	pPt-473017	DArT_marker		30264125	34.856	STI0036	repeat_region		43510	-1.610999999999997
+liftover_extended_cigar	2	30450017	35.561	solcap_stsnp_c1_11588	SNP		30473947	34.232	pPt-535744	DArT_marker		23930	-1.3290000000000006
+liftover_extended_cigar	2	30473947	35.283	pPt-535985	DArT_marker		30564337	34.658	pPt-458651	DArT_marker		90390	-0.625
+liftover_extended_cigar	2	30564337	34.679	pPt-471714	DArT_marker		30564343	34.658	pPt-534861	DArT_marker		6	-0.021000000000000796
+liftover_extended_cigar	2	34661319	49.569	solcap_stsnp_c1_5850	SNP		35334126	47.129	solcap_stsnp_c1_12377	SNP		672807	-2.440000000000005
+liftover_extended_cigar	2	35334126	47.129	solcap_stsnp_c1_12377	SNP		35468438	46.584	solcap_stsnp_c1_16172	SNP		134312	-0.5449999999999946
+liftover_extended_cigar	2	37223835	52.624	STM5114	repeat_region		37554578	49.869	pPt-654889	DArT_marker		330743	-2.7550000000000026
+liftover_extended_cigar	2	38533031	56.587	pPt-538916	DArT_marker		38576610	56.372	MICRO.7848.C1_786	match		43579	-0.2150000000000034
+liftover_extended_cigar	2	38857937	60.474	pPt-534555	DArT_marker		39157665	59.058	solcap_stsnp_c1_7931	SNP		299728	-1.4159999999999968
+liftover_extended_cigar	2	40296554	63.435	solcap_stsnp_c1_7346	SNP		40424964	63.429	st_11672	repeat_region		128410	-0.006000000000000227
+liftover_extended_cigar	2	40424964	63.429	st_11672	repeat_region		40466543	20.212	pPt-537723	DArT_marker		41579	-43.217
+liftover_extended_cigar	2	40707520	67.5	toPt-437942	DArT_marker		40707550	67.493	pPt-471945	DArT_marker		30	-0.007000000000005002
+liftover_extended_cigar	2	40707550	67.497	pPt-652964	DArT_marker		41240921	64.916	solcap_stsnp_c1_8429	SNP		533371	-2.581000000000003
+liftover_extended_cigar	2	41258971	64.931	pPt-654915	DArT_marker		41493084	64.924	pPt-653043	DArT_marker		234113	-0.006999999999990791
+liftover_extended_cigar	2	41493084	64.924	pPt-653043	DArT_marker		41493216	64.911	toPt-437191	DArT_marker		132	-0.01300000000000523
+liftover_extended_cigar	2	41493216	65.612	toPt-438776	DArT_marker		41493238	64.924	pPt-655780	DArT_marker		22	-0.6879999999999882
+liftover_extended_cigar	2	41878492	66.529	solcap_stsnp_c1_8464	SNP		41893405	64.911	pPt-535437	DArT_marker		14913	-1.617999999999995
+liftover_extended_cigar	2	41893545	64.927	pPt-653627	DArT_marker		41893640	64.922	pPt-459203	DArT_marker		95	-0.005000000000009663
+liftover_extended_cigar	2	44550044	74.981	st_2696	repeat_region		44564163	69.531	pPt-657174	DArT_marker		14119	-5.449999999999989
+liftover_extended_cigar	2	44564163	69.531	pPt-657174	DArT_marker		45008494	69.354	pPt-458738	DArT_marker		444331	-0.1770000000000067
+liftover_extended_cigar	2	45028521	74.22	pPt-538521	DArT_marker		45046071	73.462	solcap_stsnp_c1_10633	SNP		17550	-0.7579999999999956
+liftover_extended_cigar	2	45993314	76.036	pPt-655621	DArT_marker		45993317	75.948	pPt-651715	DArT_marker		3	-0.08800000000000807
+liftover_extended_cigar	3	405443	19.33	capPt-706966	DArT_marker		405461	16.717	pPt-539952	DArT_marker		18	-2.6129999999999995
+liftover_extended_cigar	3	405461	19.274	pPt-559430	DArT_marker		560044	15.536	PM1287	repeat_region		154583	-3.7380000000000013
+liftover_extended_cigar	3	560044	15.536	PM1287	repeat_region		1181780	2.066	pPt-653222	DArT_marker		621736	-13.469999999999999
+liftover_extended_cigar	3	2647267	5.423	solcap_stsnp_c1_14813	SNP		2851481	5.21	solcap_stsnp_c1_13889	SNP		204214	-0.21300000000000008
+liftover_extended_cigar	3	44060272	40.788	solcap_stsnp_c1_6307	SNP		45443059	40.659	toPt-437726	DArT_marker		1382787	-0.12899999999999778
+liftover_extended_cigar	3	45536119	40.742	toPt-437061	DArT_marker		45681640	40.739	pPt-473188	DArT_marker		145521	-0.0030000000000001137
+liftover_extended_cigar	3	49544130	42.759	pPt-539261	DArT_marker		49974935	40.166	pPt-651011	DArT_marker		430805	-2.5930000000000035
+liftover_extended_cigar	3	50132450	41.925	pPt-657192	DArT_marker		50132471	41.024	pPt-655189	DArT_marker		21	-0.9009999999999962
+liftover_extended_cigar	3	52547092	50.278	pPt-471162	DArT_marker		52548334	49.929	solcap_stsnp_c1_4565	SNP		1242	-0.34899999999999665
+liftover_extended_cigar	3	52594978	61.505	solcap_stsnp_c1_14158	SNP		52661197	60.637	MICRO.8012.C1_335	match		66219	-0.8680000000000021
+liftover_extended_cigar	3	52713842	60.839	solcap_stsnp_c1_14161	SNP		52945574	60.345	MICRO.8582.C1_613	match		231732	-0.4939999999999998
+liftover_extended_cigar	3	53054120	62.36	solcap_stsnp_c1_7093	SNP		53120835	62.141	st_6851	repeat_region		66715	-0.2190000000000012
+liftover_extended_cigar	3	53120835	62.141	st_6851	repeat_region		54206466	58.868	pPt-656781	DArT_marker		1085631	-3.272999999999996
+liftover_extended_cigar	3	54206466	58.868	pPt-656781	DArT_marker		54206470	58.794	pPt-655434	DArT_marker		4	-0.07400000000000517
+liftover_extended_cigar	3	54206473	58.868	pPt-534739	DArT_marker		54206642	58.827	toPt-438413	DArT_marker		169	-0.04100000000000392
+liftover_extended_cigar	3	55741820	75.418	PM0022	repeat_region		55788821	74.668	STM5115	repeat_region		47001	-0.75
+liftover_extended_cigar	3	55788821	74.668	STM5115	repeat_region		56160724	69.526	pPt-651952	DArT_marker		371903	-5.14200000000001
+liftover_extended_cigar	3	56160724	69.526	pPt-651952	DArT_marker		56239009	69.368	pPt-473898	DArT_marker		78285	-0.15800000000000125
+liftover_extended_cigar	3	56239009	69.526	pPt-653762	DArT_marker		56427199	69.398	solcap_stsnp_c1_86	SNP		188190	-0.1280000000000001
+liftover_extended_cigar	3	56912914	71.847	solcap_stsnp_c1_59	SNP		57127483	71.2	solcap_stsnp_c1_27	SNP		214569	-0.6469999999999914
+liftover_extended_cigar	3	57226145	73.737	pPt-534133	DArT_marker		57226214	71.601	toPt-439697	DArT_marker		69	-2.1359999999999957
+liftover_extended_cigar	3	57226214	73.093	toPt-439764	DArT_marker		57325451	70.154	pPt-657473	DArT_marker		99237	-2.939000000000007
+liftover_extended_cigar	3	57325451	71.623	pPt-657007	DArT_marker		57325471	71.382	toPt-440042	DArT_marker		20	-0.24099999999999966
+liftover_extended_cigar	3	57325471	71.598	toPt-437008	DArT_marker		57326019	71.514	solcap_stsnp_c1_155	SNP		548	-0.08400000000000318
+liftover_extended_cigar	3	57326019	71.514	solcap_stsnp_c1_155	SNP		57408932	71.008	solcap_stsnp_c1_152	SNP		82913	-0.5060000000000002
+liftover_extended_cigar	3	57691004	72.212	pPt-539409	DArT_marker		57780537	71.095	toPt-439349	DArT_marker		89533	-1.1170000000000044
+liftover_extended_cigar	3	59115146	89.435	pPt-458799	DArT_marker		59115426	67.721	pPt-654031	DArT_marker		280	-21.714
+liftover_extended_cigar	4	5758565	14.584	pPt-552669	DArT_marker		5985321	11.354	pPt-654865	DArT_marker		226756	-3.2300000000000004
+liftover_extended_cigar	4	6433647	25.755	CTG237LGIV	match		7094613	19.481	solcap_stsnp_c1_3745	SNP		660966	-6.273999999999997
+liftover_extended_cigar	4	7094613	19.481	solcap_stsnp_c1_3745	SNP		7127130	19.381	solcap_stsnp_c1_3731	SNP		32517	-0.10000000000000142
+liftover_extended_cigar	4	7824438	28.251	solcap_stsnp_c1_3704	SNP		8195239	20.794	solcap_stsnp_c1_14449	SNP		370801	-7.457000000000001
+liftover_extended_cigar	4	8703882	22.411	solcap_stsnp_c1_11722	SNP		8910901	21.903	MICRO.4670.C1_254	match		207019	-0.5080000000000027
+liftover_extended_cigar	4	10723513	33.524	pPt-652727	DArT_marker		11091062	26.59	pPt-472050	DArT_marker		367549	-6.934000000000001
+liftover_extended_cigar	4	12644502	38.503	solcap_stsnp_c1_11135	SNP		15552387	35.851	PM0529	repeat_region		2907885	-2.652000000000001
+liftover_extended_cigar	4	15552387	35.851	PM0529	repeat_region		15719975	29.548	PM1316	repeat_region		167588	-6.303000000000001
+liftover_extended_cigar	4	49914181	43.765	toPt-437326	DArT_marker		49914261	43.76	pPt-457943	DArT_marker		80	-0.005000000000002558
+liftover_extended_cigar	4	49914261	43.76	pPt-457943	DArT_marker		50227241	43.118	solcap_stsnp_c1_15760	SNP		312980	-0.6419999999999959
+liftover_extended_cigar	4	53560088	55.323	pPt-473312	DArT_marker		55346958	50.792	pPt-473463	DArT_marker		1786870	-4.530999999999999
+liftover_extended_cigar	4	55346958	50.792	pPt-473463	DArT_marker		55620892	39.546	pPt-657518	DArT_marker		273934	-11.246000000000002
+liftover_extended_cigar	4	55814875	53.409	solcap_stsnp_c1_10454	SNP		55864113	53.406	solcap_stsnp_c1_10441	SNP		49238	-0.0030000000000001137
+liftover_extended_cigar	4	58823229	58.849	solcap_stsnp_c1_11352	SNP		59195814	58.662	pPt-559556	DArT_marker		372585	-0.1869999999999976
+liftover_extended_cigar	4	60379368	64.968	MICRO.327.C2_896	match		61042106	62.407	solcap_stsnp_c1_11669	SNP		662738	-2.561000000000007
+liftover_extended_cigar	4	65204794	84.544	pPt-656860	DArT_marker		65513708	84.498	solcap_stsnp_c1_3168	SNP		308914	-0.04599999999999227
+liftover_extended_cigar	4	65513708	84.498	solcap_stsnp_c1_3168	SNP		65797678	82.372	solcap_stsnp_c1_13085	SNP		283970	-2.1260000000000048
+liftover_extended_cigar	4	66783619	88.566	solcap_stsnp_c1_4111	SNP		66814329	87.999	solcap_stsnp_c1_4179	SNP		30710	-0.5670000000000073
+liftover_extended_cigar	4	67014289	89.282	pPt-471909	DArT_marker		67037168	88.718	solcap_stsnp_c1_10218	SNP		22879	-0.563999999999993
+liftover_extended_cigar	4	67140935	89.856	pPt-458171	DArT_marker		67383618	69.8	solcap_stsnp_c1_6748	SNP		242683	-20.055999999999997
+liftover_extended_cigar	4	67495185	91.432	pPt-456750	DArT_marker		67527578	91.264	solcap_stsnp_c1_13350	SNP		32393	-0.16800000000000637
+liftover_extended_cigar	4	67527578	91.264	solcap_stsnp_c1_13350	SNP		67538822	90.601	solcap_stsnp_c1_10710	SNP		11244	-0.6629999999999967
+liftover_extended_cigar	4	67727483	92.379	pPt-457992	DArT_marker		67782718	92.286	solcap_stsnp_c1_10675	SNP		55235	-0.09300000000000352
+liftover_extended_cigar	4	68210423	95.613	solcap_stsnp_c1_3567	SNP		68365308	93.842	pPt-652167	DArT_marker		154885	-1.7710000000000008
+liftover_extended_cigar	4	68685699	99.402	toPt-438080	DArT_marker		68848251	98.338	pPt-458464	DArT_marker		162552	-1.0640000000000072
+liftover_extended_cigar	5	639346	2.77	pPt-655590	DArT_marker		1135681	0.0	solcap_stsnp_c1_15684	SNP		496335	-2.77
+liftover_extended_cigar	5	4235715	15.191	PM0371	repeat_region		4389823	14.666	solcap_stsnp_c1_7354	SNP		154108	-0.5250000000000004
+liftover_extended_cigar	5	7316844	25.697	solcap_stsnp_c1_15785	SNP		7431667	25.559	pPt-459286	DArT_marker		114823	-0.13799999999999812
+liftover_extended_cigar	5	7431822	25.855	toPt-440648	DArT_marker		7432544	25.559	pPt-536549	DArT_marker		722	-0.2959999999999994
+liftover_extended_cigar	5	8024295	30.434	solcap_stsnp_c1_11256	SNP		8024571	24.559	pPt-473272	DArT_marker		276	-5.875
+liftover_extended_cigar	5	8602330	30.653	solcap_stsnp_c1_11084	SNP		9449720	21.774	pPt-651169	DArT_marker		847390	-8.878999999999998
+liftover_extended_cigar	5	9450228	34.87	pPt-651584	DArT_marker		9567990	32.615	pPt-655797	DArT_marker		117762	-2.2549999999999955
+liftover_extended_cigar	5	9567990	32.615	pPt-655797	DArT_marker		9567992	32.552	pPt-655778	DArT_marker		2	-0.06300000000000239
+liftover_extended_cigar	5	10378317	35.646	pPt-539614	DArT_marker		11180796	34.424	pPt-650026	DArT_marker		802479	-1.2220000000000013
+liftover_extended_cigar	5	19193259	43.725	pPt-654394	DArT_marker		19583215	41.173	solcap_stsnp_c1_6338	SNP		389956	-2.5519999999999996
+liftover_extended_cigar	5	19645498	43.685	pPt-655798	DArT_marker		21950637	41.224	pPt-651016	DArT_marker		2305139	-2.4610000000000056
+liftover_extended_cigar	5	46729149	44.911	pPt-657402	DArT_marker		46729168	44.896	pPt-652574	DArT_marker		19	-0.015000000000000568
+liftover_extended_cigar	5	46729168	45.168	toPt-439314	DArT_marker		46729171	44.896	pPt-653617	DArT_marker		3	-0.27199999999999847
+liftover_extended_cigar	5	48957667	49.452	toPt-763812	DArT_marker		49352371	48.365	pPt-654254	DArT_marker		394704	-1.0869999999999962
+liftover_extended_cigar	5	51470172	56.967	solcap_stsnp_c1_3413	SNP		51816472	56.434	PM0333	repeat_region		346300	-0.5330000000000013
+liftover_extended_cigar	5	51816472	56.434	PM0333	repeat_region		52067622	56.012	pPt-458238	DArT_marker		251150	-0.42199999999999704
+liftover_extended_cigar	5	52067622	56.012	pPt-458238	DArT_marker		52206315	55.528	solcap_stsnp_c1_12486	SNP		138693	-0.48400000000000176
+liftover_extended_cigar	5	54704835	63.803	toPt-438407	DArT_marker		54704901	63.759	pPt-535674	DArT_marker		66	-0.04399999999999693
+liftover_extended_cigar	5	54704901	64.138	pPt-459311	DArT_marker		55169241	61.677	solcap_stsnp_c1_1199	SNP		464340	-2.4610000000000056
+liftover_extended_cigar	6	657165	2.632	pPt-540411	DArT_marker		952101	1.564	solcap_stsnp_c1_9246	SNP		294936	-1.068
+liftover_extended_cigar	6	2349513	5.93	solcap_stsnp_c1_15546	SNP		2429309	3.779	solcap_stsnp_c1_13631	SNP		79796	-2.151
+liftover_extended_cigar	6	15797597	14.488	PM0329	repeat_region		22311521	10.048	solcap_stsnp_c1_16621	SNP		6513924	-4.4399999999999995
+liftover_extended_cigar	6	31603941	14.191	solcap_stsnp_c1_3692	SNP		32505188	13.254	solcap_stsnp_c1_9854	SNP		901247	-0.9370000000000012
+liftover_extended_cigar	6	38149442	19.842	MICRO.669.C3_729	match		38373978	18.79	solcap_stsnp_c1_12691	SNP		224536	-1.0519999999999996
+liftover_extended_cigar	6	46359572	34.322	pPt-655645	DArT_marker		46359578	34.293	toPt-440683	DArT_marker		6	-0.029000000000003467
+liftover_extended_cigar	6	47466211	36.353	pPt-473454	DArT_marker		47661512	35.296	pPt-471807	DArT_marker		195301	-1.0570000000000022
+liftover_extended_cigar	6	49075146	41.998	solcap_stsnp_c1_14891	SNP		49254652	41.191	pPt-536932	DArT_marker		179506	-0.806999999999995
+liftover_extended_cigar	6	50154057	47.364	MICRO.2094.C3_1290	match		50445762	47.03	solcap_stsnp_c1_2059	SNP		291705	-0.3339999999999961
+liftover_extended_cigar	6	52623052	56.733	solcap_stsnp_c1_3007	SNP		52789918	56.51	pPt-538867	DArT_marker		166866	-0.22299999999999898
+liftover_extended_cigar	6	52789918	56.872	toPt-763749	DArT_marker		52818057	56.512	pPt-537569	DArT_marker		28139	-0.35999999999999943
+liftover_extended_cigar	6	52818160	57.181	pPt-473433	DArT_marker		52818203	56.512	pPt-552171	DArT_marker		43	-0.6689999999999969
+liftover_extended_cigar	6	52818378	56.52	pPt-537183	DArT_marker		52936397	55.805	pPt-474058	DArT_marker		118019	-0.7150000000000034
+liftover_extended_cigar	6	53214964	59.125	pPt-472490	DArT_marker		53508393	58.876	pPt-655572	DArT_marker		293429	-0.24900000000000233
+liftover_extended_cigar	6	53508393	58.876	toPt-437058	DArT_marker		53705309	57.158	pPt-653838	DArT_marker		196916	-1.7179999999999964
+liftover_extended_cigar	6	54428165	59.274	toPt-437131	DArT_marker		54454794	59.255	pPt-471879	DArT_marker		26629	-0.01899999999999835
+liftover_extended_cigar	6	54680829	62.481	solcap_stsnp_c1_7681	SNP		54781274	62.205	solcap_stsnp_c1_7690	SNP		100445	-0.27600000000000335
+liftover_extended_cigar	6	56749446	65.401	solcap_stsnp_c1_14920	SNP		56910485	65.312	solcap_stsnp_c1_14796	SNP		161039	-0.08899999999999864
+liftover_extended_cigar	6	56970498	65.335	solcap_stsnp_c1_12101	SNP		57097701	65.327	solcap_stsnp_c1_12088	SNP		127203	-0.007999999999995566
+liftover_extended_cigar	6	57561751	69.041	solcap_stsnp_c1_3130	SNP		57940708	67.158	pPt-654600	DArT_marker		378957	-1.8829999999999956
+liftover_extended_cigar	6	57940757	68.584	pPt-652880	DArT_marker		57940764	68.338	pPt-651057	DArT_marker		7	-0.24600000000000932
+liftover_extended_cigar	6	58017580	70.516	solcap_stsnp_c1_3091	SNP		58861652	69.772	pPt-559151	DArT_marker		844072	-0.7439999999999998
+liftover_extended_cigar	7	687291	2.659	solcap_stsnp_c1_13671	SNP		707517	0.0	solcap_stsnp_c1_11523	SNP		20226	-2.659
+liftover_extended_cigar	7	3303107	9.087	solcap_stsnp_c1_10959	SNP		3407150	8.738	solcap_stsnp_c1_10985	SNP		104043	-0.3490000000000002
+liftover_extended_cigar	7	3407150	8.738	solcap_stsnp_c1_10985	SNP		3960282	8.714	solcap_stsnp_c1_13776	SNP		553132	-0.023999999999999133
+liftover_extended_cigar	7	36788141	17.964	solcap_stsnp_c1_2672	SNP		37737782	17.66	solcap_stsnp_c1_513	SNP		949641	-0.3039999999999985
+liftover_extended_cigar	7	37737782	17.66	solcap_stsnp_c1_513	SNP		38834428	17.656	solcap_stsnp_c1_480	SNP		1096646	-0.004000000000001336
+liftover_extended_cigar	7	40931544	20.081	solcap_stsnp_c1_1547	SNP		41028350	16.133	pPt-653774	DArT_marker		96806	-3.9480000000000004
+liftover_extended_cigar	7	42816299	23.806	pPt-654638	DArT_marker		42905909	21.748	pPt-650032	DArT_marker		89610	-2.058
+liftover_extended_cigar	7	43596257	26.686	solcap_stsnp_c1_7505	SNP		43818233	26.662	PM1300	repeat_region		221976	-0.02400000000000091
+liftover_extended_cigar	7	44206993	28.701	toPt-439283	DArT_marker		44340304	26.06	solcap_stsnp_c1_7378	SNP		133311	-2.641000000000002
+liftover_extended_cigar	7	45551001	30.844	pPt-458625	DArT_marker		45551032	30.71	pPt-458072	DArT_marker		31	-0.13400000000000034
+liftover_extended_cigar	7	46503550	34.276	MICRO.1442.C1_559	match		46645602	32.819	pPt-456752	DArT_marker		142052	-1.4570000000000007
+liftover_extended_cigar	7	48420904	43.89	MICRO.381.C1_1588	match		48569615	42.701	pPt-456702	DArT_marker		148711	-1.189
+liftover_extended_cigar	7	52065648	49.701	pPt-559458	DArT_marker		52065657	49.662	pPt-538032	DArT_marker		9	-0.03900000000000148
+liftover_extended_cigar	7	54633421	59.44	toPt-437358	DArT_marker		54633422	58.595	pPt-657441	DArT_marker		1	-0.8449999999999989
+liftover_extended_cigar	7	54633569	58.601	pPt-651978	DArT_marker		54699766	57.539	pPt-650152	DArT_marker		66197	-1.0619999999999976
+liftover_extended_cigar	7	55702706	62.16	pPt-654556	DArT_marker		55767754	62.093	pPt-459335	DArT_marker		65048	-0.06699999999999307
+liftover_extended_cigar	7	56166710	63.438	pPt-457779	DArT_marker		56384329	62.711	pPt-537071	DArT_marker		217619	-0.7270000000000039
+liftover_extended_cigar	7	56384329	62.737	pPt-535925	DArT_marker		56445834	61.66	pPt-652491	DArT_marker		61505	-1.0770000000000053
+liftover_extended_cigar	7	56651862	63.806	solcap_stsnp_c1_8815	SNP		56801943	62.715	pPt-653355	DArT_marker		150081	-1.090999999999994
+liftover_extended_cigar	7	57383958	67.064	STM3009	repeat_region		57433724	66.796	MICRO.1437.C1_390	match		49766	-0.26799999999998647
+liftover_extended_cigar	8	2404959	12.681	pPt-650234	DArT_marker		3532796	11.852	pPt-536257	DArT_marker		1127837	-0.8289999999999988
+liftover_extended_cigar	8	3532796	11.974	pPt-650705	DArT_marker		4399786	10.679	solcap_stsnp_c1_7740	SNP		866990	-1.295
+liftover_extended_cigar	8	5692745	15.705	pPt-539822	DArT_marker		6321786	15.476	solcap_stsnp_c1_8381	SNP		629041	-0.2289999999999992
+liftover_extended_cigar	8	6621353	17.641	pPt-654824	DArT_marker		6621355	16.622	toPt-441100	DArT_marker		2	-1.0189999999999984
+liftover_extended_cigar	8	6621355	17.641	pPt-657575	DArT_marker		6846144	16.231	pPt-540163	DArT_marker		224789	-1.4099999999999966
+liftover_extended_cigar	8	6846218	16.254	pPt-535564	DArT_marker		6846221	16.249	pPt-540053	DArT_marker		3	-0.005000000000002558
+liftover_extended_cigar	8	7332182	17.641	pPt-653216	DArT_marker		8091997	16.102	solcap_stsnp_c1_15451	SNP		759815	-1.538999999999998
+liftover_extended_cigar	8	38300248	25.921	solcap_stsnp_c1_9821	SNP		38684199	25.783	PM0495	repeat_region		383951	-0.13799999999999812
+liftover_extended_cigar	8	40872159	29.947	pPt-650709	DArT_marker		40872315	29.939	pPt-457647	DArT_marker		156	-0.007999999999999119
+liftover_extended_cigar	8	40872315	29.962	pPt-653294	DArT_marker		40872318	29.947	pPt-559585	DArT_marker		3	-0.015000000000000568
+liftover_extended_cigar	8	40872318	29.947	pPt-559585	DArT_marker		42826029	26.91	pPt-653036	DArT_marker		1953711	-3.036999999999999
+liftover_extended_cigar	8	42826029	26.91	pPt-653036	DArT_marker		42826030	26.294	pPt-536995	DArT_marker		1	-0.6159999999999997
+liftover_extended_cigar	8	47850822	55.508	pPt-539116	DArT_marker		49096599	40.105	pPt-458325	DArT_marker		1245777	-15.403000000000006
+liftover_extended_cigar	8	49097136	40.171	pPt-470707	DArT_marker		49097627	38.768	pPt-538788	DArT_marker		491	-1.4029999999999987
+liftover_extended_cigar	8	49097627	41.175	pPt-540454	DArT_marker		49098091	39.358	pPt-654934	DArT_marker		464	-1.8170000000000002
+liftover_extended_cigar	8	50132511	48.691	pPt-471414	DArT_marker		50559167	47.864	pPt-652927	DArT_marker		426656	-0.8270000000000053
+liftover_extended_cigar	8	50559167	47.864	pPt-652927	DArT_marker		51291201	45.063	pPt-536535	DArT_marker		732034	-2.800999999999995
+liftover_extended_cigar	8	51291201	45.286	pPt-537377	DArT_marker		51453176	42.436	pPt-540363	DArT_marker		161975	-2.8500000000000014
+liftover_extended_cigar	8	52622373	56.619	pPt-472750	DArT_marker		53103373	55.508	pPt-457562	DArT_marker		481000	-1.110999999999997
+liftover_extended_cigar	8	53149549	56.128	pPt-653213	DArT_marker		53301457	55.99	pPt-653413	DArT_marker		151908	-0.13799999999999812
+liftover_extended_cigar	8	53440117	55.99	pPt-552409	DArT_marker		53440159	55.985	pPt-539475	DArT_marker		42	-0.005000000000002558
+liftover_extended_cigar	8	55027732	60.448	PM1350	repeat_region		56271396	59.685	solcap_stsnp_c1_8296	SNP		1243664	-0.7629999999999981
+liftover_extended_cigar	8	57178514	62.649	pPt-534465	DArT_marker		57274863	62.253	solcap_stsnp_c1_5509	SNP		96349	-0.3960000000000008
+liftover_extended_cigar	8	57358335	63.404	solcap_stsnp_c1_5532	SNP		57510401	63.222	pPt-472859	DArT_marker		152066	-0.18200000000000216
+liftover_extended_cigar	8	57690192	64.687	solcap_stsnp_c1_5605	SNP		57771519	64.377	solcap_stsnp_c1_5612	SNP		81327	-0.3100000000000023
+liftover_extended_cigar	8	57771519	64.377	solcap_stsnp_c1_5612	SNP		57947606	63.83	pPt-534657	DArT_marker		176087	-0.546999999999997
+liftover_extended_cigar	8	57947606	63.831	pPt-537356	DArT_marker		57947687	63.741	pPt-456511	DArT_marker		81	-0.09000000000000341
+liftover_extended_cigar	8	57962958	65.034	pPt-471848	DArT_marker		58072885	63.683	toPt-438550	DArT_marker		109927	-1.3510000000000062
+liftover_extended_cigar	8	58604496	66.412	pPt-651323	DArT_marker		58624649	65.997	PM0024	repeat_region		20153	-0.41500000000000625
+liftover_extended_cigar	8	58764444	67.791	pPt-457615	DArT_marker		58764544	65.62	pPt-536343	DArT_marker		100	-2.1709999999999923
+liftover_extended_cigar	8	59147191	66.946	STGBSS	repeat_region		59147419	66.376	STM1105	repeat_region		228	-0.5699999999999932
+liftover_extended_cigar	9	2345796	15.594	toPt-439769	DArT_marker		2345959	15.561	pPt-535215	DArT_marker		163	-0.032999999999999474
+liftover_extended_cigar	9	2345959	15.594	pPt-536424	DArT_marker		2544553	15.584	pPt-654939	DArT_marker		198594	-0.009999999999999787
+liftover_extended_cigar	9	12397029	40.061	PM1307	repeat_region		18288931	39.474	pPt-472210	DArT_marker		5891902	-0.5870000000000033
+liftover_extended_cigar	9	34137870	39.625	solcap_stsnp_c1_2319	SNP		43274545	39.59	pPt-651168	DArT_marker		9136675	-0.03499999999999659
+liftover_extended_cigar	9	43274545	39.59	pPt-651168	DArT_marker		43807359	39.406	st_2663	repeat_region		532814	-0.1840000000000046
+liftover_extended_cigar	9	51505710	40.858	pPt-657361	DArT_marker		52227267	38.757	toPt-439232	DArT_marker		721557	-2.100999999999999
+liftover_extended_cigar	9	53488920	48.091	pPt-535745	DArT_marker		54181202	45.609	solcap_stsnp_c1_12794	SNP		692282	-2.4819999999999993
+liftover_extended_cigar	9	54406078	49.282	MICRO.637.C1_809	match		54716891	46.308	MICRO.1131.C1_434	match		310813	-2.9739999999999966
+liftover_extended_cigar	9	55353103	56.142	solcap_stsnp_c1_13519	SNP		56104281	50.736	solcap_stsnp_c1_16459	SNP		751178	-5.406000000000006
+liftover_extended_cigar	9	58413779	61.264	solcap_stsnp_c1_1401	SNP		58912293	60.697	solcap_stsnp_c1_12054	SNP		498514	-0.5670000000000002
+liftover_extended_cigar	9	59431706	62.809	pPt-538179	DArT_marker		59431737	62.792	toPt-439913	DArT_marker		31	-0.016999999999995907
+liftover_extended_cigar	9	59431737	62.792	toPt-439913	DArT_marker		59431742	62.727	pPt-539594	DArT_marker		5	-0.06500000000000483
+liftover_extended_cigar	9	59431742	63.059	pPt-535743	DArT_marker		59431743	62.809	pPt-535726	DArT_marker		1	-0.25
+liftover_extended_cigar	9	59431743	62.809	pPt-539293	DArT_marker		59431745	62.801	toPt-438737	DArT_marker		2	-0.007999999999995566
+liftover_extended_cigar	9	59431745	62.809	toPt-763864	DArT_marker		59431846	62.784	toPt-438644	DArT_marker		101	-0.02499999999999858
+liftover_extended_cigar	9	59440240	62.801	pPt-653066	DArT_marker		59596669	62.151	pPt-473763	DArT_marker		156429	-0.6499999999999986
+liftover_extended_cigar	9	59596669	62.151	pPt-473763	DArT_marker		59826894	60.865	toPt-437854	DArT_marker		230225	-1.2860000000000014
+liftover_extended_cigar	9	59918955	64.076	pPt-559613	DArT_marker		59920002	60.46	pPt-656850	DArT_marker		1047	-3.6159999999999926
+liftover_extended_cigar	9	61680912	69.522	pPt-457457	DArT_marker		61680990	68.99	toPt-763577	DArT_marker		78	-0.5320000000000107
+liftover_extended_cigar	9	61680990	68.99	toPt-763577	DArT_marker		61762534	66.664	solcap_stsnp_c1_8939	SNP		81544	-2.3259999999999934
+liftover_extended_cigar	9	62033713	70.956	solcap_stsnp_c1_8955	SNP		62320987	70.016	pPt-536054	DArT_marker		287274	-0.9399999999999977
+liftover_extended_cigar	9	63001833	72.979	pPt-535101	DArT_marker		63001885	72.719	capPt-672308	DArT_marker		52	-0.2600000000000051
+liftover_extended_cigar	9	63339315	73.536	pPt-536181	DArT_marker		63339316	73.514	pPt-540196	DArT_marker		1	-0.02200000000000557
+liftover_extended_cigar	9	63987925	76.288	toPt-441141	DArT_marker		64007875	75.748	solcap_stsnp_c1_12726	SNP		19950	-0.539999999999992
+liftover_extended_cigar	9	65556720	80.766	pPt-654857	DArT_marker		65658883	80.749	pPt-535814	DArT_marker		102163	-0.017000000000010118
+liftover_extended_cigar	9	66777078	87.866	solcap_stsnp_c1_10580	SNP		66778416	86.542	solcap_stsnp_c1_10582	SNP		1338	-1.323999999999998
+liftover_extended_cigar	10	675172	4.383	pPt-650953	DArT_marker		920818	4.183	st_15123	repeat_region		245646	-0.20000000000000018
+liftover_extended_cigar	10	965693	7.902	pPt-456767	DArT_marker		1480102	0.0	PM0417	repeat_region		514409	-7.902
+liftover_extended_cigar	10	1826253	9.56	solcap_stsnp_c1_272	SNP		2034738	7.58	pPt-473086	DArT_marker		208485	-1.9800000000000004
+liftover_extended_cigar	10	2034836	7.609	pPt-656726	DArT_marker		2034837	7.569	pPt-537963	DArT_marker		1	-0.040000000000000036
+liftover_extended_cigar	10	2034837	7.657	pPt-655039	DArT_marker		2034840	7.609	pPt-540164	DArT_marker		3	-0.04800000000000004
+liftover_extended_cigar	10	3132180	12.624	pPt-652078	DArT_marker		3132266	12.432	pPt-457178	DArT_marker		86	-0.19200000000000017
+liftover_extended_cigar	10	6642729	22.556	solcap_stsnp_c1_14047	SNP		7780322	21.884	PM0126	repeat_region		1137593	-0.6720000000000006
+liftover_extended_cigar	10	7780322	21.884	PM0126	repeat_region		10737387	18.531	pPt-473173	DArT_marker		2957065	-3.3530000000000015
+liftover_extended_cigar	10	10753815	19.435	STM0051	repeat_region		11815345	18.998	PM1302	repeat_region		1061530	-0.4369999999999976
+liftover_extended_cigar	10	17962311	42.04	pPt-653258	DArT_marker		17967322	21.197	pPt-471094	DArT_marker		5011	-20.843
+liftover_extended_cigar	10	17967834	21.197	pPt-538467	DArT_marker		21865280	20.867	pPt-535392	DArT_marker		3897446	-0.3299999999999983
+liftover_extended_cigar	10	29044920	21.796	PM1358	repeat_region		29677960	20.137	solcap_stsnp_c1_1	SNP		633040	-1.658999999999999
+liftover_extended_cigar	10	35603439	25.672	solcap_stsnp_c1_3057	SNP		36968160	23.048	solcap_stsnp_c1_3055	SNP		1364721	-2.6240000000000023
+liftover_extended_cigar	10	44301243	26.728	solcap_stsnp_c1_11408	SNP		45867762	26.604	solcap_stsnp_c1_14465	SNP		1566519	-0.12400000000000233
+liftover_extended_cigar	10	47804246	36.402	pPt-552174	DArT_marker		48174762	36.298	solcap_stsnp_c1_16004	SNP		370516	-0.1039999999999992
+liftover_extended_cigar	10	48174762	36.298	solcap_stsnp_c1_16004	SNP		49042701	34.53	toPt-440832	DArT_marker		867939	-1.7680000000000007
+liftover_extended_cigar	10	52898453	46.385	pPt-539509	DArT_marker		52898639	46.379	pPt-653677	DArT_marker		186	-0.006000000000000227
+liftover_extended_cigar	10	52898641	46.383	pPt-652127	DArT_marker		52898643	45.911	toPt-440308	DArT_marker		2	-0.4720000000000013
+liftover_extended_cigar	10	52898643	46.724	pPt-458465	DArT_marker		52898816	46.295	capPt-673116	DArT_marker		173	-0.42899999999999494
+liftover_extended_cigar	10	52898816	46.313	capPt-672993	DArT_marker		53051560	46.077	solcap_stsnp_c1_15222	SNP		152744	-0.2360000000000042
+liftover_extended_cigar	10	55214380	49.827	pPt-459092	DArT_marker		55214381	49.755	pPt-458475	DArT_marker		1	-0.07199999999999562
+liftover_extended_cigar	10	55254858	50.273	solcap_stsnp_c1_10324	SNP		55257906	49.769	pPt-652171	DArT_marker		3048	-0.5040000000000049
+liftover_extended_cigar	10	57342715	57.701	solcap_stsnp_c1_9069	SNP		57502157	57.235	solcap_stsnp_c1_12656	SNP		159442	-0.4660000000000011
+liftover_extended_cigar	10	57561186	59.216	pPt-458108	DArT_marker		57586970	58.919	solcap_stsnp_c1_12614	SNP		25784	-0.29700000000000415
+liftover_extended_cigar	10	59248708	68.865	solcap_stsnp_c1_8814	SNP		59277472	67.349	toPt-437377	DArT_marker		28764	-1.5159999999999911
+liftover_extended_cigar	11	1414041	10.24	pPt-652437	DArT_marker		2579325	0.759	solcap_stsnp_c1_11111	SNP		1165284	-9.481
+liftover_extended_cigar	11	2822788	2.25	pPt-470834	DArT_marker		2830372	1.658	pPt-534589	DArT_marker		7584	-0.5920000000000001
+liftover_extended_cigar	11	2830372	2.25	pPt-536761	DArT_marker		2830392	2.216	pPt-653767	DArT_marker		20	-0.03399999999999981
+liftover_extended_cigar	11	3575362	12.567	solcap_stsnp_c1_2132	SNP		3695457	4.712	solcap_stsnp_c1_2311	SNP		120095	-7.855
+liftover_extended_cigar	11	4000873	15.715	solcap_stsnp_c1_2254	SNP		4002920	15.429	capPt-673113	DArT_marker		2047	-0.2859999999999996
+liftover_extended_cigar	11	4002920	15.429	capPt-673113	DArT_marker		4242408	5.452	solcap_stsnp_c1_2221	SNP		239488	-9.977
+liftover_extended_cigar	11	5952475	18.836	toPt-436913	DArT_marker		6166561	8.301	solcap_stsnp_c1_6633	SNP		214086	-10.534999999999998
+liftover_extended_cigar	11	9491422	27.637	solcap_stsnp_c1_3996	SNP		9529080	27.499	toPt-437239	DArT_marker		37658	-0.13800000000000168
+liftover_extended_cigar	11	9529123	27.698	toPt-438852	DArT_marker		9529226	27.499	pPt-650908	DArT_marker		103	-0.19900000000000162
+liftover_extended_cigar	11	9529226	27.499	pPt-655824	DArT_marker		10088223	22.701	toPt-437706	DArT_marker		558997	-4.797999999999998
+liftover_extended_cigar	11	17854808	37.27	solcap_stsnp_c1_872	SNP		27165202	34.197	PM1319	repeat_region		9310394	-3.0730000000000004
+liftover_extended_cigar	11	27165202	34.197	PM1319	repeat_region		27218620	15.236	pPt-657037	DArT_marker		53418	-18.961000000000002
+liftover_extended_cigar	11	30013065	35.081	pPt-536357	DArT_marker		32900636	33.402	MICRO.10953.C1_310	match		2887571	-1.679000000000002
+liftover_extended_cigar	11	36524120	36.999	toPt-440455	DArT_marker		36955055	36.63	pPt-651955	DArT_marker		430935	-0.3689999999999998
+liftover_extended_cigar	11	36955055	38.047	pPt-457986	DArT_marker		37615241	36.859	solcap_stsnp_c1_4359	SNP		660186	-1.1879999999999953
+liftover_extended_cigar	11	40806074	48.053	solcap_stsnp_c1_1300	SNP		40969800	46.082	pPt-653469	DArT_marker		163726	-1.9709999999999965
+liftover_extended_cigar	11	40969800	46.082	pPt-653469	DArT_marker		41045136	45.74	pPt-458167	DArT_marker		75336	-0.34199999999999875
+liftover_extended_cigar	11	41045136	49.375	pPt-457758	DArT_marker		41200951	46.192	toPt-437761	DArT_marker		155815	-3.183
+liftover_extended_cigar	11	41200951	46.238	toPt-437421	DArT_marker		41708288	42.971	MICRO.2270.C1_388	match		507337	-3.267000000000003
+liftover_extended_cigar	11	42273649	50.616	solcap_stsnp_c1_6967	SNP		42408537	47.907	solcap_stsnp_c1_6971	SNP		134888	-2.709000000000003
+liftover_extended_cigar	11	43727992	53.878	solcap_stsnp_c1_4911	SNP		43731390	53.049	solcap_stsnp_c1_4908	SNP		3398	-0.8290000000000006
+liftover_extended_cigar	11	44455736	57.204	pPt-656631	DArT_marker		44479312	55.172	pPt-656960	DArT_marker		23576	-2.0320000000000036
+liftover_extended_cigar	12	261556	69.698	solcap_stsnp_c1_16130	SNP		568082	69.512	solcap_stsnp_c1_1958	SNP		306526	-0.18599999999999284
+liftover_extended_cigar	12	568082	69.512	solcap_stsnp_c1_1958	SNP		1055654	63.238	pPt-650534	DArT_marker		487572	-6.274000000000001
+liftover_extended_cigar	12	1294480	75.166	toPt-439120	DArT_marker		1294811	71.722	pPt-651410	DArT_marker		331	-3.4440000000000026
+liftover_extended_cigar	12	1294811	71.722	pPt-651410	DArT_marker		1379657	68.531	STM0003	repeat_region		84846	-3.1909999999999883
+liftover_extended_cigar	12	1379657	68.531	STM0003	repeat_region		1727004	67.548	toPt-441245	DArT_marker		347347	-0.9830000000000041
+liftover_extended_cigar	12	1727004	67.548	toPt-441245	DArT_marker		1781062	66.841	solcap_stsnp_c1_1948	SNP		54058	-0.7070000000000078
+liftover_extended_cigar	12	1781062	66.841	solcap_stsnp_c1_1948	SNP		1904970	66.684	pPt-535005	DArT_marker		123908	-0.15699999999999648
+liftover_extended_cigar	12	1904970	66.684	pPt-535005	DArT_marker		3217727	61.988	pPt-651467	DArT_marker		1312757	-4.695999999999998
+liftover_extended_cigar	12	3217727	61.99	pPt-651742	DArT_marker		3428243	60.796	solcap_stsnp_c1_2775	SNP		210516	-1.1940000000000026
+liftover_extended_cigar	12	3663466	60.994	solcap_stsnp_c1_2733	SNP		4100592	50.571	solcap_stsnp_c1_2713	SNP		437126	-10.423000000000002
+liftover_extended_cigar	12	4100592	50.571	solcap_stsnp_c1_2713	SNP		5220235	48.624	pPt-655869	DArT_marker		1119643	-1.9469999999999956
+liftover_extended_cigar	12	5220235	48.624	pPt-655869	DArT_marker		6016931	40.012	solcap_stsnp_c1_9741	SNP		796696	-8.612000000000002
+liftover_extended_cigar	12	7296871	44.555	solcap_stsnp_c1_7491	SNP		7339777	44.104	PM1295	repeat_region		42906	-0.4510000000000005
+liftover_extended_cigar	12	7339777	44.104	PM1295	repeat_region		9186104	41.248	pPt-472737	DArT_marker		1846327	-2.8560000000000016
+liftover_extended_cigar	12	9186109	41.258	pPt-471864	DArT_marker		10054710	38.396	pPt-651561	DArT_marker		868601	-2.862000000000002
+liftover_extended_cigar	12	10054710	38.396	pPt-651561	DArT_marker		10569816	33.693	pPt-650660	DArT_marker		515106	-4.703000000000003
+liftover_extended_cigar	12	10569816	33.693	pPt-650660	DArT_marker		11124977	33.392	pPt-459526	DArT_marker		555161	-0.3009999999999948
+liftover_extended_cigar	12	11125054	34.702	pPt-456687	DArT_marker		11672516	31.439	STI0030	repeat_region		547462	-3.262999999999998
+liftover_extended_cigar	12	11672516	31.439	STI0030	repeat_region		12294109	29.089	pPt-651796	DArT_marker		621593	-2.3500000000000014
+liftover_extended_cigar	12	12294109	29.089	pPt-651796	DArT_marker		48402334	26.618	pPt-652236	DArT_marker		36108225	-2.471
+liftover_extended_cigar	12	50680489	28.975	solcap_stsnp_c1_14454	SNP		51331911	28.228	pPt-656291	DArT_marker		651422	-0.7469999999999999
+liftover_extended_cigar	12	51331911	28.436	pPt-537662	DArT_marker		51331912	28.245	pPt-537219	DArT_marker		1	-0.19099999999999895
+liftover_extended_cigar	12	51331912	28.245	pPt-537219	DArT_marker		53043716	20.153	pPt-652539	DArT_marker		1711804	-8.092000000000002
+liftover_extended_cigar	12	53043716	20.153	pPt-657374	DArT_marker		53805487	18.494	pPt-471963	DArT_marker		761771	-1.658999999999999
+liftover_extended_cigar	12	53805487	18.573	pPt-654400	DArT_marker		54445536	17.718	PM1351	repeat_region		640049	-0.8550000000000004
+liftover_extended_cigar	12	54445536	17.718	PM1351	repeat_region		56281284	7.7	toPt-440819	DArT_marker		1835748	-10.018
+liftover_extended_cigar	12	56281284	7.7	toPt-440819	DArT_marker		57195889	0.807	pPt-457978	DArT_marker		914605	-6.893
+liftover_extended_cigar	12	58521659	6.428	pPt-656633	DArT_marker		59294379	4.693	toPt-438817	DArT_marker		772720	-1.7350000000000003
+liftover_extended_cigar	12	59294379	4.706	toPt-438939	DArT_marker		59294388	4.693	toPt-441368	DArT_marker		9	-0.013000000000000789
+liftover_extended_cigar	12	59294388	4.736	toPt-441263	DArT_marker		59573113	0.0	PM0459	repeat_region		278725	-4.736
+hybrid_high_confidence	1	2818203	10.169	PM0117	repeat_region	cigar_liftover_v403_to_v61	2967161	8.698	solcap_snp_c1_6704	SNP	direct_spuddb_dm_v6_1	148958	-1.471
+hybrid_high_confidence	1	3694828	15.768	solcap_snp_c1_6110	SNP	direct_spuddb_dm_v6_1	4644404	15.567	solcap_snp_c1_15142	SNP	direct_spuddb_dm_v6_1	949576	-0.2010000000000005
+hybrid_high_confidence	1	4644404	15.567	solcap_snp_c1_15142	SNP	direct_spuddb_dm_v6_1	5019507	13.291	pPt-470842	DArT_marker	cigar_liftover_v403_to_v61	375103	-2.276
+hybrid_high_confidence	1	14815802	23.548	toPt-440099	DArT_marker	cigar_liftover_v403_to_v61	19690776	0.0	PM1119	repeat_region	cigar_liftover_v403_to_v61	4874974	-23.548
+hybrid_high_confidence	1	28146217	24.847	pPt-653070	DArT_marker	cigar_liftover_v403_to_v61	30619387	24.797	PM0531	repeat_region	cigar_liftover_v403_to_v61	2473170	-0.05000000000000071
+hybrid_high_confidence	1	30900854	25.789	pPt-533936	DArT_marker	cigar_liftover_v403_to_v61	34774889	23.267	solcap_snp_c1_15714	SNP	direct_spuddb_dm_v6_1	3874035	-2.522000000000002
+hybrid_high_confidence	1	58507121	31.025	pPt-657377	DArT_marker	cigar_liftover_v403_to_v61	60207942	27.828	solcap_snp_c1_806	SNP	direct_spuddb_dm_v6_1	1700821	-3.196999999999999
+hybrid_high_confidence	1	60207942	27.828	solcap_snp_c1_806	SNP	direct_spuddb_dm_v6_1	60877545	23.926	pPt-538302	DArT_marker	cigar_liftover_v403_to_v61	669603	-3.902000000000001
+hybrid_high_confidence	1	60877545	23.926	pPt-654213	DArT_marker	cigar_liftover_v403_to_v61	60877687	23.783	pPt-655709	DArT_marker	cigar_liftover_v403_to_v61	142	-0.14299999999999713
+hybrid_high_confidence	1	61848057	28.945	pPt-538424	DArT_marker	cigar_liftover_v403_to_v61	62731262	28.149	solcap_snp_c1_6607	SNP	direct_spuddb_dm_v6_1	883205	-0.7959999999999994
+hybrid_high_confidence	1	65028487	38.564	pPt-656762	DArT_marker	cigar_liftover_v403_to_v61	65182850	36.587	pPt-653459	DArT_marker	cigar_liftover_v403_to_v61	154363	-1.9769999999999968
+hybrid_high_confidence	1	65182850	36.587	pPt-653459	DArT_marker	cigar_liftover_v403_to_v61	65627217	34.892	solcap_snp_c1_13685	SNP	direct_spuddb_dm_v6_1	444367	-1.6950000000000003
+hybrid_high_confidence	1	65854890	38.926	solcap_snp_c1_14297	SNP	direct_spuddb_dm_v6_1	66053547	28.479	toPt-441265	DArT_marker	cigar_liftover_v403_to_v61	198657	-10.447000000000003
+hybrid_high_confidence	1	66053547	28.479	toPt-441265	DArT_marker	cigar_liftover_v403_to_v61	66053672	28.291	pPt-651042	DArT_marker	cigar_liftover_v403_to_v61	125	-0.18799999999999883
+hybrid_high_confidence	1	66615373	42.286	pPt-651270	DArT_marker	cigar_liftover_v403_to_v61	66757200	42.021	solcap_snp_c1_4402	SNP	direct_spuddb_dm_v6_1	141827	-0.26500000000000057
+hybrid_high_confidence	1	66757200	42.021	solcap_snp_c1_4402	SNP	direct_spuddb_dm_v6_1	66897180	37.928	MICRO.8112.C1_325	match	cigar_liftover_v403_to_v61	139980	-4.0930000000000035
+hybrid_high_confidence	1	67001953	42.933	pPt-472755	DArT_marker	cigar_liftover_v403_to_v61	67271838	41.733	solcap_snp_c1_4710	SNP	direct_spuddb_dm_v6_1	269885	-1.2000000000000028
+hybrid_high_confidence	1	67276340	43.333	pPt-652517	DArT_marker	cigar_liftover_v403_to_v61	67305393	43.294	pPt-654672	DArT_marker	cigar_liftover_v403_to_v61	29053	-0.03900000000000148
+hybrid_high_confidence	1	67305393	43.294	pPt-654672	DArT_marker	cigar_liftover_v403_to_v61	67733812	38.902	solcap_snp_c1_4754	SNP	direct_spuddb_dm_v6_1	428419	-4.391999999999996
+hybrid_high_confidence	1	67821222	40.069	pPt-539066	DArT_marker	cigar_liftover_v403_to_v61	67821419	40.067	pPt-459313	DArT_marker	cigar_liftover_v403_to_v61	197	-0.0020000000000024443
+hybrid_high_confidence	1	72006329	50.278	pPt-534179	DArT_marker	cigar_liftover_v403_to_v61	72006529	50.123	toPt-440576	DArT_marker	cigar_liftover_v403_to_v61	200	-0.15500000000000114
+hybrid_high_confidence	1	73928936	59.934	solcap_snp_c1_6269	SNP	direct_spuddb_dm_v6_1	74448862	56.522	solcap_snp_c1_6295	SNP	direct_spuddb_dm_v6_1	519926	-3.411999999999999
+hybrid_high_confidence	1	74794275	62.3	solcap_snp_c1_14093	SNP	direct_spuddb_dm_v6_1	74921059	57.545	solcap_snp_c1_15573	SNP	direct_spuddb_dm_v6_1	126784	-4.7549999999999955
+hybrid_high_confidence	1	75196506	61.635	solcap_snp_c1_4604	SNP	direct_spuddb_dm_v6_1	75266586	61.148	solcap_snp_c1_4607	SNP	direct_spuddb_dm_v6_1	70080	-0.48699999999999477
+hybrid_high_confidence	1	75266586	61.148	solcap_snp_c1_4607	SNP	direct_spuddb_dm_v6_1	75565740	60.081	pPt-650108	DArT_marker	cigar_liftover_v403_to_v61	299154	-1.0670000000000002
+hybrid_high_confidence	1	77039028	63.763	solcap_snp_c1_15429	SNP	direct_spuddb_dm_v6_1	77072312	63.434	MICRO.10124.C1_261	match	cigar_liftover_v403_to_v61	33284	-0.3290000000000006
+hybrid_high_confidence	1	79768729	75.842	pPt-654743	DArT_marker	cigar_liftover_v403_to_v61	79880009	75.174	solcap_snp_c1_2501	SNP	direct_spuddb_dm_v6_1	111280	-0.6679999999999922
+hybrid_high_confidence	1	79946769	76.723	pPt-538971	DArT_marker	cigar_liftover_v403_to_v61	80095734	76.519	solcap_snp_c1_2517	SNP	direct_spuddb_dm_v6_1	148965	-0.20399999999999352
+hybrid_high_confidence	1	81813679	81.493	pPt-653453	DArT_marker	cigar_liftover_v403_to_v61	82100630	78.463	solcap_snp_c1_3281	SNP	direct_spuddb_dm_v6_1	286951	-3.030000000000001
+hybrid_high_confidence	1	83987313	82.021	solcap_snp_c1_1731	SNP	direct_spuddb_dm_v6_1	84095795	82.017	solcap_snp_c1_1748	SNP	direct_spuddb_dm_v6_1	108482	-0.0040000000000048885
+hybrid_high_confidence	1	84651365	82.355	pPt-534579	DArT_marker	cigar_liftover_v403_to_v61	84755311	81.766	pPt-456654	DArT_marker	cigar_liftover_v403_to_v61	103946	-0.5889999999999986
+hybrid_high_confidence	1	85233404	85.393	STI0009	repeat_region	cigar_liftover_v403_to_v61	85589930	83.267	solcap_snp_c1_23	SNP	direct_spuddb_dm_v6_1	356526	-2.1260000000000048
+hybrid_high_confidence	1	85968224	83.922	pPt-457687	DArT_marker	cigar_liftover_v403_to_v61	86449536	83.709	solcap_snp_c1_14689	SNP	direct_spuddb_dm_v6_1	481312	-0.21299999999999386
+hybrid_high_confidence	1	87140214	89.665	pPt-651049	DArT_marker	cigar_liftover_v403_to_v61	87140660	89.438	pPt-552373	DArT_marker	cigar_liftover_v403_to_v61	446	-0.22700000000000387
+hybrid_high_confidence	1	87140660	90.022	pPt-534481	DArT_marker	cigar_liftover_v403_to_v61	87140661	89.553	pPt-537128	DArT_marker	cigar_liftover_v403_to_v61	1	-0.4690000000000083
+hybrid_high_confidence	1	87140661	92.181	pPt-537048	DArT_marker	cigar_liftover_v403_to_v61	87140672	89.515	pPt-471907	DArT_marker	cigar_liftover_v403_to_v61	11	-2.665999999999997
+hybrid_high_confidence	1	87140672	92.982	pPt-650685	DArT_marker	cigar_liftover_v403_to_v61	87459417	88.624	pPt-654259	DArT_marker	cigar_liftover_v403_to_v61	318745	-4.358000000000004
+hybrid_high_confidence	1	87459417	88.624	pPt-654259	DArT_marker	cigar_liftover_v403_to_v61	87509482	87.967	pPt-457982	DArT_marker	cigar_liftover_v403_to_v61	50065	-0.6569999999999965
+hybrid_high_confidence	1	87509482	90.603	pPt-458685	DArT_marker	cigar_liftover_v403_to_v61	87946251	86.917	pPt-655410	DArT_marker	cigar_liftover_v403_to_v61	436769	-3.685999999999993
+hybrid_high_confidence	1	88088812	86.948	pPt-474103	DArT_marker	cigar_liftover_v403_to_v61	88093670	86.923	pPt-533911	DArT_marker	cigar_liftover_v403_to_v61	4858	-0.024999999999991473
+hybrid_high_confidence	1	88093670	86.923	pPt-533911	DArT_marker	cigar_liftover_v403_to_v61	88280205	86.481	pPt-654697	DArT_marker	cigar_liftover_v403_to_v61	186535	-0.4420000000000073
+hybrid_high_confidence	2	4202319	14.378	PM1368	repeat_region	cigar_liftover_v403_to_v61	4694333	11.734	PM1293	repeat_region	cigar_liftover_v403_to_v61	492014	-2.644
+hybrid_high_confidence	2	10911355	13.575	pPt-558945	DArT_marker	cigar_liftover_v403_to_v61	10911356	13.54	toPt-441360	DArT_marker	cigar_liftover_v403_to_v61	1	-0.03500000000000014
+hybrid_high_confidence	2	10911358	13.54	pPt-538192	DArT_marker	cigar_liftover_v403_to_v61	10911360	12.988	toPt-439285	DArT_marker	cigar_liftover_v403_to_v61	2	-0.5519999999999996
+hybrid_high_confidence	2	10911360	13.843	toPt-440363	DArT_marker	cigar_liftover_v403_to_v61	13256806	13.29	pPt-456775	DArT_marker	cigar_liftover_v403_to_v61	2345446	-0.5530000000000008
+hybrid_high_confidence	2	13914404	15.263	pPt-536293	DArT_marker	cigar_liftover_v403_to_v61	14671637	14.595	toPt-437809	DArT_marker	cigar_liftover_v403_to_v61	757233	-0.6679999999999993
+hybrid_high_confidence	2	14671637	14.663	toPt-439915	DArT_marker	cigar_liftover_v403_to_v61	14671640	14.625	pPt-458624	DArT_marker	cigar_liftover_v403_to_v61	3	-0.038000000000000256
+hybrid_high_confidence	2	14671640	14.633	pPt-458041	DArT_marker	cigar_liftover_v403_to_v61	15571371	6.462	pPt-540344	DArT_marker	cigar_liftover_v403_to_v61	899731	-8.171
+hybrid_high_confidence	2	18485069	17.27	solcap_snp_c1_9122	SNP	direct_spuddb_dm_v6_1	19406545	8.218	MICRO.7351.C1_583	match	cigar_liftover_v403_to_v61	921476	-9.052
+hybrid_high_confidence	2	19921687	19.714	pPt-654515	DArT_marker	cigar_liftover_v403_to_v61	19934163	9.818	pPt-456492	DArT_marker	cigar_liftover_v403_to_v61	12476	-9.895999999999999
+hybrid_high_confidence	2	21787827	20.226	pPt-652662	DArT_marker	cigar_liftover_v403_to_v61	21787829	20.205	pPt-472525	DArT_marker	cigar_liftover_v403_to_v61	2	-0.021000000000000796
+hybrid_high_confidence	2	21787829	20.782	toPt-763794	DArT_marker	cigar_liftover_v403_to_v61	21788784	20.452	solcap_snp_c1_9725	SNP	direct_spuddb_dm_v6_1	955	-0.3299999999999983
+hybrid_high_confidence	2	21788784	20.452	solcap_snp_c1_9725	SNP	direct_spuddb_dm_v6_1	21808866	20.269	solcap_snp_c1_9732	SNP	direct_spuddb_dm_v6_1	20082	-0.18300000000000338
+hybrid_high_confidence	2	21808866	20.269	solcap_snp_c1_9732	SNP	direct_spuddb_dm_v6_1	21965487	18.876	solcap_snp_c1_16347	SNP	direct_spuddb_dm_v6_1	156621	-1.3929999999999971
+hybrid_high_confidence	2	23885399	22.668	solcap_snp_c1_15404	SNP	direct_spuddb_dm_v6_1	25017414	22.273	solcap_snp_c1_11486	SNP	direct_spuddb_dm_v6_1	1132015	-0.3949999999999996
+hybrid_high_confidence	2	25999493	26.967	solcap_snp_c1_13468	SNP	direct_spuddb_dm_v6_1	26349683	26.33	pPt-534957	DArT_marker	cigar_liftover_v403_to_v61	350190	-0.6370000000000005
+hybrid_high_confidence	2	27276114	27.361	pPt-657436	DArT_marker	cigar_liftover_v403_to_v61	27276127	27.36	toPt-439196	DArT_marker	cigar_liftover_v403_to_v61	13	-0.0010000000000012221
+hybrid_high_confidence	2	27345592	29.172	pPt-657053	DArT_marker	cigar_liftover_v403_to_v61	27451374	28.327	PM1332	repeat_region	cigar_liftover_v403_to_v61	105782	-0.8449999999999989
+hybrid_high_confidence	2	27527543	29.406	solcap_snp_c1_5078	SNP	direct_spuddb_dm_v6_1	27569702	27.835	pPt-536176	DArT_marker	cigar_liftover_v403_to_v61	42159	-1.570999999999998
+hybrid_high_confidence	2	27620643	28.867	solcap_snp_c1_16340	SNP	direct_spuddb_dm_v6_1	27646352	27.157	solcap_snp_c1_16341	SNP	direct_spuddb_dm_v6_1	25709	-1.7100000000000009
+hybrid_high_confidence	2	28460955	30.435	solcap_snp_c1_13929	SNP	direct_spuddb_dm_v6_1	28477644	29.713	pPt-653009	DArT_marker	cigar_liftover_v403_to_v61	16689	-0.7219999999999978
+hybrid_high_confidence	2	28924425	33.115	pPt-653576	DArT_marker	cigar_liftover_v403_to_v61	28925922	31.488	pPt-537833	DArT_marker	cigar_liftover_v403_to_v61	1497	-1.6270000000000024
+hybrid_high_confidence	2	29489666	33.796	pPt-472441	DArT_marker	cigar_liftover_v403_to_v61	29568246	32.097	pPt-650762	DArT_marker	cigar_liftover_v403_to_v61	78580	-1.698999999999998
+hybrid_high_confidence	2	29568246	36.173	pPt-651609	DArT_marker	cigar_liftover_v403_to_v61	29643643	34.422	pPt-473662	DArT_marker	cigar_liftover_v403_to_v61	75397	-1.7510000000000048
+hybrid_high_confidence	2	29643643	34.422	pPt-473662	DArT_marker	cigar_liftover_v403_to_v61	29734369	32.524	pPt-652571	DArT_marker	cigar_liftover_v403_to_v61	90726	-1.8979999999999961
+hybrid_high_confidence	2	30080945	35.092	solcap_snp_c1_13234	SNP	direct_spuddb_dm_v6_1	30096020	34.375	pPt-652302	DArT_marker	cigar_liftover_v403_to_v61	15075	-0.7169999999999987
+hybrid_high_confidence	2	30220615	36.467	pPt-473017	DArT_marker	cigar_liftover_v403_to_v61	30264125	34.856	STI0036	repeat_region	cigar_liftover_v403_to_v61	43510	-1.610999999999997
+hybrid_high_confidence	2	30450017	35.561	solcap_snp_c1_11588	SNP	direct_spuddb_dm_v6_1	30473947	34.232	pPt-535744	DArT_marker	cigar_liftover_v403_to_v61	23930	-1.3290000000000006
+hybrid_high_confidence	2	30473947	35.283	pPt-535985	DArT_marker	cigar_liftover_v403_to_v61	30564337	34.658	pPt-458651	DArT_marker	cigar_liftover_v403_to_v61	90390	-0.625
+hybrid_high_confidence	2	30564337	34.679	pPt-471714	DArT_marker	cigar_liftover_v403_to_v61	30564343	34.658	pPt-534861	DArT_marker	cigar_liftover_v403_to_v61	6	-0.021000000000000796
+hybrid_high_confidence	2	34661319	49.569	solcap_snp_c1_5850	SNP	direct_spuddb_dm_v6_1	35334126	47.129	solcap_snp_c1_12377	SNP	direct_spuddb_dm_v6_1	672807	-2.440000000000005
+hybrid_high_confidence	2	35334126	47.129	solcap_snp_c1_12377	SNP	direct_spuddb_dm_v6_1	35468438	46.584	solcap_snp_c1_16172	SNP	direct_spuddb_dm_v6_1	134312	-0.5449999999999946
+hybrid_high_confidence	2	37223835	52.624	STM5114	repeat_region	cigar_liftover_v403_to_v61	37554578	49.869	pPt-654889	DArT_marker	cigar_liftover_v403_to_v61	330743	-2.7550000000000026
+hybrid_high_confidence	2	38479345	59.058	solcap_snp_c1_7931	SNP	direct_spuddb_dm_v6_1	38533031	56.587	pPt-538916	DArT_marker	cigar_liftover_v403_to_v61	53686	-2.4709999999999965
+hybrid_high_confidence	2	38533031	56.587	pPt-538916	DArT_marker	cigar_liftover_v403_to_v61	38576610	56.372	MICRO.7848.C1_786	match	cigar_liftover_v403_to_v61	43579	-0.2150000000000034
+hybrid_high_confidence	2	40296554	63.435	solcap_snp_c1_7346	SNP	direct_spuddb_dm_v6_1	40424964	63.429	st_11672	repeat_region	cigar_liftover_v403_to_v61	128410	-0.006000000000000227
+hybrid_high_confidence	2	40424964	63.429	st_11672	repeat_region	cigar_liftover_v403_to_v61	40466543	20.212	pPt-537723	DArT_marker	cigar_liftover_v403_to_v61	41579	-43.217
+hybrid_high_confidence	2	40707520	67.5	toPt-437942	DArT_marker	cigar_liftover_v403_to_v61	40707550	67.493	pPt-471945	DArT_marker	cigar_liftover_v403_to_v61	30	-0.007000000000005002
+hybrid_high_confidence	2	40707550	67.497	pPt-652964	DArT_marker	cigar_liftover_v403_to_v61	41240921	64.916	solcap_snp_c1_8429	SNP	direct_spuddb_dm_v6_1	533371	-2.581000000000003
+hybrid_high_confidence	2	41258971	64.931	pPt-654915	DArT_marker	cigar_liftover_v403_to_v61	41493084	64.924	pPt-653043	DArT_marker	cigar_liftover_v403_to_v61	234113	-0.006999999999990791
+hybrid_high_confidence	2	41493084	64.924	pPt-653043	DArT_marker	cigar_liftover_v403_to_v61	41493216	64.911	toPt-437191	DArT_marker	cigar_liftover_v403_to_v61	132	-0.01300000000000523
+hybrid_high_confidence	2	41493216	65.612	toPt-438776	DArT_marker	cigar_liftover_v403_to_v61	41493238	64.924	pPt-655780	DArT_marker	cigar_liftover_v403_to_v61	22	-0.6879999999999882
+hybrid_high_confidence	2	41878492	66.529	solcap_snp_c1_8464	SNP	direct_spuddb_dm_v6_1	41893405	64.911	pPt-535437	DArT_marker	cigar_liftover_v403_to_v61	14913	-1.617999999999995
+hybrid_high_confidence	2	41893545	64.927	pPt-653627	DArT_marker	cigar_liftover_v403_to_v61	41893640	64.922	pPt-459203	DArT_marker	cigar_liftover_v403_to_v61	95	-0.005000000000009663
+hybrid_high_confidence	2	44550044	74.981	st_2696	repeat_region	cigar_liftover_v403_to_v61	44564163	69.531	pPt-657174	DArT_marker	cigar_liftover_v403_to_v61	14119	-5.449999999999989
+hybrid_high_confidence	2	44564163	69.531	pPt-657174	DArT_marker	cigar_liftover_v403_to_v61	45008494	69.354	pPt-458738	DArT_marker	cigar_liftover_v403_to_v61	444331	-0.1770000000000067
+hybrid_high_confidence	2	45028521	74.22	pPt-538521	DArT_marker	cigar_liftover_v403_to_v61	45046071	73.462	solcap_snp_c1_10633	SNP	direct_spuddb_dm_v6_1	17550	-0.7579999999999956
+hybrid_high_confidence	2	45993314	76.036	pPt-655621	DArT_marker	cigar_liftover_v403_to_v61	45993317	75.948	pPt-651715	DArT_marker	cigar_liftover_v403_to_v61	3	-0.08800000000000807
+hybrid_high_confidence	3	405443	19.33	capPt-706966	DArT_marker	cigar_liftover_v403_to_v61	405461	16.717	pPt-539952	DArT_marker	cigar_liftover_v403_to_v61	18	-2.6129999999999995
+hybrid_high_confidence	3	405461	19.274	pPt-559430	DArT_marker	cigar_liftover_v403_to_v61	560044	15.536	PM1287	repeat_region	cigar_liftover_v403_to_v61	154583	-3.7380000000000013
+hybrid_high_confidence	3	560044	15.536	PM1287	repeat_region	cigar_liftover_v403_to_v61	1181780	2.066	pPt-653222	DArT_marker	cigar_liftover_v403_to_v61	621736	-13.469999999999999
+hybrid_high_confidence	3	2647267	5.423	solcap_snp_c1_14813	SNP	direct_spuddb_dm_v6_1	2851481	5.21	solcap_snp_c1_13889	SNP	direct_spuddb_dm_v6_1	204214	-0.21300000000000008
+hybrid_high_confidence	3	44060650	40.788	solcap_snp_c1_6307	SNP	direct_spuddb_dm_v6_1	45536119	40.742	toPt-437061	DArT_marker	cigar_liftover_v403_to_v61	1475469	-0.045999999999999375
+hybrid_high_confidence	3	45536119	40.742	toPt-437061	DArT_marker	cigar_liftover_v403_to_v61	45681640	40.739	pPt-473188	DArT_marker	cigar_liftover_v403_to_v61	145521	-0.0030000000000001137
+hybrid_high_confidence	3	46014559	41.146	PM0153	repeat_region	cigar_liftover_v403_to_v61	47802793	40.788	solcap_snp_c1_6387	SNP	direct_spuddb_dm_v6_1	1788234	-0.3580000000000041
+hybrid_high_confidence	3	49544130	42.759	pPt-539261	DArT_marker	cigar_liftover_v403_to_v61	49974935	40.166	pPt-651011	DArT_marker	cigar_liftover_v403_to_v61	430805	-2.5930000000000035
+hybrid_high_confidence	3	50132450	41.925	pPt-657192	DArT_marker	cigar_liftover_v403_to_v61	50132471	41.024	pPt-655189	DArT_marker	cigar_liftover_v403_to_v61	21	-0.9009999999999962
+hybrid_high_confidence	3	52594978	61.505	solcap_snp_c1_14158	SNP	direct_spuddb_dm_v6_1	52661197	60.637	MICRO.8012.C1_335	match	cigar_liftover_v403_to_v61	66219	-0.8680000000000021
+hybrid_high_confidence	3	52713842	60.839	solcap_snp_c1_14161	SNP	direct_spuddb_dm_v6_1	52945574	60.345	MICRO.8582.C1_613	match	cigar_liftover_v403_to_v61	231732	-0.4939999999999998
+hybrid_high_confidence	3	53054120	62.36	solcap_snp_c1_7093	SNP	direct_spuddb_dm_v6_1	53120835	62.141	st_6851	repeat_region	cigar_liftover_v403_to_v61	66715	-0.2190000000000012
+hybrid_high_confidence	3	53120835	62.141	st_6851	repeat_region	cigar_liftover_v403_to_v61	54206466	58.868	pPt-656781	DArT_marker	cigar_liftover_v403_to_v61	1085631	-3.272999999999996
+hybrid_high_confidence	3	54206466	58.868	pPt-656781	DArT_marker	cigar_liftover_v403_to_v61	54206470	58.794	pPt-655434	DArT_marker	cigar_liftover_v403_to_v61	4	-0.07400000000000517
+hybrid_high_confidence	3	54206473	58.868	pPt-534739	DArT_marker	cigar_liftover_v403_to_v61	54206642	58.827	toPt-438413	DArT_marker	cigar_liftover_v403_to_v61	169	-0.04100000000000392
+hybrid_high_confidence	3	55741820	75.418	PM0022	repeat_region	cigar_liftover_v403_to_v61	55788821	74.668	STM5115	repeat_region	cigar_liftover_v403_to_v61	47001	-0.75
+hybrid_high_confidence	3	55788821	74.668	STM5115	repeat_region	cigar_liftover_v403_to_v61	56160724	69.526	pPt-651952	DArT_marker	cigar_liftover_v403_to_v61	371903	-5.14200000000001
+hybrid_high_confidence	3	56160724	69.526	pPt-651952	DArT_marker	cigar_liftover_v403_to_v61	56239009	69.368	pPt-473898	DArT_marker	cigar_liftover_v403_to_v61	78285	-0.15800000000000125
+hybrid_high_confidence	3	56239009	69.526	pPt-653762	DArT_marker	cigar_liftover_v403_to_v61	56427199	69.398	solcap_snp_c1_86	SNP	direct_spuddb_dm_v6_1	188190	-0.1280000000000001
+hybrid_high_confidence	3	56912914	71.847	solcap_snp_c1_59	SNP	direct_spuddb_dm_v6_1	57127483	71.2	solcap_snp_c1_27	SNP	direct_spuddb_dm_v6_1	214569	-0.6469999999999914
+hybrid_high_confidence	3	57226145	73.737	pPt-534133	DArT_marker	cigar_liftover_v403_to_v61	57226214	71.601	toPt-439697	DArT_marker	cigar_liftover_v403_to_v61	69	-2.1359999999999957
+hybrid_high_confidence	3	57226214	73.093	toPt-439764	DArT_marker	cigar_liftover_v403_to_v61	57325451	70.154	pPt-657473	DArT_marker	cigar_liftover_v403_to_v61	99237	-2.939000000000007
+hybrid_high_confidence	3	57325451	71.623	pPt-657007	DArT_marker	cigar_liftover_v403_to_v61	57325471	71.382	toPt-440042	DArT_marker	cigar_liftover_v403_to_v61	20	-0.24099999999999966
+hybrid_high_confidence	3	57325471	71.598	toPt-437008	DArT_marker	cigar_liftover_v403_to_v61	57326019	71.514	solcap_snp_c1_155	SNP	direct_spuddb_dm_v6_1	548	-0.08400000000000318
+hybrid_high_confidence	3	57326019	71.514	solcap_snp_c1_155	SNP	direct_spuddb_dm_v6_1	57408932	71.008	solcap_snp_c1_152	SNP	direct_spuddb_dm_v6_1	82913	-0.5060000000000002
+hybrid_high_confidence	3	57691004	72.212	pPt-539409	DArT_marker	cigar_liftover_v403_to_v61	57780537	71.095	toPt-439349	DArT_marker	cigar_liftover_v403_to_v61	89533	-1.1170000000000044
+hybrid_high_confidence	3	59115146	89.435	pPt-458799	DArT_marker	cigar_liftover_v403_to_v61	59115426	67.721	pPt-654031	DArT_marker	cigar_liftover_v403_to_v61	280	-21.714
+hybrid_high_confidence	4	5758565	14.584	pPt-552669	DArT_marker	cigar_liftover_v403_to_v61	5985321	11.354	pPt-654865	DArT_marker	cigar_liftover_v403_to_v61	226756	-3.2300000000000004
+hybrid_high_confidence	4	6433647	25.755	CTG237LGIV	match	cigar_liftover_v403_to_v61	7094613	19.481	solcap_snp_c1_3745	SNP	direct_spuddb_dm_v6_1	660966	-6.273999999999997
+hybrid_high_confidence	4	7094613	19.481	solcap_snp_c1_3745	SNP	direct_spuddb_dm_v6_1	7127130	19.381	solcap_snp_c1_3731	SNP	direct_spuddb_dm_v6_1	32517	-0.10000000000000142
+hybrid_high_confidence	4	7824438	28.251	solcap_snp_c1_3704	SNP	direct_spuddb_dm_v6_1	8195239	20.794	solcap_snp_c1_14449	SNP	direct_spuddb_dm_v6_1	370801	-7.457000000000001
+hybrid_high_confidence	4	8703882	22.411	solcap_snp_c1_11722	SNP	direct_spuddb_dm_v6_1	8910901	21.903	MICRO.4670.C1_254	match	cigar_liftover_v403_to_v61	207019	-0.5080000000000027
+hybrid_high_confidence	4	10723513	33.524	pPt-652727	DArT_marker	cigar_liftover_v403_to_v61	11091062	26.59	pPt-472050	DArT_marker	cigar_liftover_v403_to_v61	367549	-6.934000000000001
+hybrid_high_confidence	4	12644502	38.503	solcap_snp_c1_11135	SNP	direct_spuddb_dm_v6_1	15552387	35.851	PM0529	repeat_region	cigar_liftover_v403_to_v61	2907885	-2.652000000000001
+hybrid_high_confidence	4	15552387	35.851	PM0529	repeat_region	cigar_liftover_v403_to_v61	15719975	29.548	PM1316	repeat_region	cigar_liftover_v403_to_v61	167588	-6.303000000000001
+hybrid_high_confidence	4	43447691	40.204	solcap_snp_c1_3442	SNP	direct_spuddb_dm_v6_1	43525521	40.2	solcap_snp_c1_14569	SNP	direct_spuddb_dm_v6_1	77830	-0.003999999999997783
+hybrid_high_confidence	4	49914181	43.765	toPt-437326	DArT_marker	cigar_liftover_v403_to_v61	49914261	43.76	pPt-457943	DArT_marker	cigar_liftover_v403_to_v61	80	-0.005000000000002558
+hybrid_high_confidence	4	49914261	43.76	pPt-457943	DArT_marker	cigar_liftover_v403_to_v61	50227241	43.118	solcap_snp_c1_15760	SNP	direct_spuddb_dm_v6_1	312980	-0.6419999999999959
+hybrid_high_confidence	4	53560088	55.323	pPt-473312	DArT_marker	cigar_liftover_v403_to_v61	55346958	50.792	pPt-473463	DArT_marker	cigar_liftover_v403_to_v61	1786870	-4.530999999999999
+hybrid_high_confidence	4	55346958	50.792	pPt-473463	DArT_marker	cigar_liftover_v403_to_v61	55620892	39.546	pPt-657518	DArT_marker	cigar_liftover_v403_to_v61	273934	-11.246000000000002
+hybrid_high_confidence	4	55814875	53.409	solcap_snp_c1_10454	SNP	direct_spuddb_dm_v6_1	55864113	53.406	solcap_snp_c1_10441	SNP	direct_spuddb_dm_v6_1	49238	-0.0030000000000001137
+hybrid_high_confidence	4	58823229	58.849	solcap_snp_c1_11352	SNP	direct_spuddb_dm_v6_1	59195814	58.662	pPt-559556	DArT_marker	cigar_liftover_v403_to_v61	372585	-0.1869999999999976
+hybrid_high_confidence	4	60379368	64.968	MICRO.327.C2_896	match	cigar_liftover_v403_to_v61	61042106	62.407	solcap_snp_c1_11669	SNP	direct_spuddb_dm_v6_1	662738	-2.561000000000007
+hybrid_high_confidence	4	65204794	84.544	pPt-656860	DArT_marker	cigar_liftover_v403_to_v61	65513708	84.498	solcap_snp_c1_3168	SNP	direct_spuddb_dm_v6_1	308914	-0.04599999999999227
+hybrid_high_confidence	4	65513708	84.498	solcap_snp_c1_3168	SNP	direct_spuddb_dm_v6_1	65797678	82.372	solcap_snp_c1_13085	SNP	direct_spuddb_dm_v6_1	283970	-2.1260000000000048
+hybrid_high_confidence	4	66783619	88.566	solcap_snp_c1_4111	SNP	direct_spuddb_dm_v6_1	66814329	87.999	solcap_snp_c1_4179	SNP	direct_spuddb_dm_v6_1	30710	-0.5670000000000073
+hybrid_high_confidence	4	67014289	89.282	pPt-471909	DArT_marker	cigar_liftover_v403_to_v61	67037168	88.718	solcap_snp_c1_10218	SNP	direct_spuddb_dm_v6_1	22879	-0.563999999999993
+hybrid_high_confidence	4	67495185	91.432	pPt-456750	DArT_marker	cigar_liftover_v403_to_v61	67527578	91.264	solcap_snp_c1_13350	SNP	direct_spuddb_dm_v6_1	32393	-0.16800000000000637
+hybrid_high_confidence	4	67527578	91.264	solcap_snp_c1_13350	SNP	direct_spuddb_dm_v6_1	67538822	90.601	solcap_snp_c1_10710	SNP	direct_spuddb_dm_v6_1	11244	-0.6629999999999967
+hybrid_high_confidence	4	67727483	92.379	pPt-457992	DArT_marker	cigar_liftover_v403_to_v61	67782718	92.286	solcap_snp_c1_10675	SNP	direct_spuddb_dm_v6_1	55235	-0.09300000000000352
+hybrid_high_confidence	4	68210423	95.613	solcap_snp_c1_3567	SNP	direct_spuddb_dm_v6_1	68365308	93.842	pPt-652167	DArT_marker	cigar_liftover_v403_to_v61	154885	-1.7710000000000008
+hybrid_high_confidence	4	68685699	99.402	toPt-438080	DArT_marker	cigar_liftover_v403_to_v61	68848251	98.338	pPt-458464	DArT_marker	cigar_liftover_v403_to_v61	162552	-1.0640000000000072
+hybrid_high_confidence	5	639346	2.77	pPt-655590	DArT_marker	cigar_liftover_v403_to_v61	1135681	0.0	solcap_snp_c1_15684	SNP	direct_spuddb_dm_v6_1	496335	-2.77
+hybrid_high_confidence	5	4235715	15.191	PM0371	repeat_region	cigar_liftover_v403_to_v61	4389823	14.666	solcap_snp_c1_7354	SNP	direct_spuddb_dm_v6_1	154108	-0.5250000000000004
+hybrid_high_confidence	5	7316844	25.697	solcap_snp_c1_15785	SNP	direct_spuddb_dm_v6_1	7431667	25.559	pPt-459286	DArT_marker	cigar_liftover_v403_to_v61	114823	-0.13799999999999812
+hybrid_high_confidence	5	7431822	25.855	toPt-440648	DArT_marker	cigar_liftover_v403_to_v61	7432544	25.559	pPt-536549	DArT_marker	cigar_liftover_v403_to_v61	722	-0.2959999999999994
+hybrid_high_confidence	5	8024295	30.434	solcap_snp_c1_11256	SNP	direct_spuddb_dm_v6_1	8024571	24.559	pPt-473272	DArT_marker	cigar_liftover_v403_to_v61	276	-5.875
+hybrid_high_confidence	5	8602330	30.653	solcap_snp_c1_11084	SNP	direct_spuddb_dm_v6_1	9449720	21.774	pPt-651169	DArT_marker	cigar_liftover_v403_to_v61	847390	-8.878999999999998
+hybrid_high_confidence	5	9450228	34.87	pPt-651584	DArT_marker	cigar_liftover_v403_to_v61	9567990	32.615	pPt-655797	DArT_marker	cigar_liftover_v403_to_v61	117762	-2.2549999999999955
+hybrid_high_confidence	5	9567990	32.615	pPt-655797	DArT_marker	cigar_liftover_v403_to_v61	9567992	32.552	pPt-655778	DArT_marker	cigar_liftover_v403_to_v61	2	-0.06300000000000239
+hybrid_high_confidence	5	10378317	35.646	pPt-539614	DArT_marker	cigar_liftover_v403_to_v61	11180796	34.424	pPt-650026	DArT_marker	cigar_liftover_v403_to_v61	802479	-1.2220000000000013
+hybrid_high_confidence	5	19193259	43.725	pPt-654394	DArT_marker	cigar_liftover_v403_to_v61	19583215	41.173	solcap_snp_c1_6338	SNP	direct_spuddb_dm_v6_1	389956	-2.5519999999999996
+hybrid_high_confidence	5	19645498	43.685	pPt-655798	DArT_marker	cigar_liftover_v403_to_v61	21950637	41.224	pPt-651016	DArT_marker	cigar_liftover_v403_to_v61	2305139	-2.4610000000000056
+hybrid_high_confidence	5	46729149	44.911	pPt-657402	DArT_marker	cigar_liftover_v403_to_v61	46729168	44.896	pPt-652574	DArT_marker	cigar_liftover_v403_to_v61	19	-0.015000000000000568
+hybrid_high_confidence	5	46729168	45.168	toPt-439314	DArT_marker	cigar_liftover_v403_to_v61	46729171	44.896	pPt-653617	DArT_marker	cigar_liftover_v403_to_v61	3	-0.27199999999999847
+hybrid_high_confidence	5	48957667	49.452	toPt-763812	DArT_marker	cigar_liftover_v403_to_v61	49352371	48.365	pPt-654254	DArT_marker	cigar_liftover_v403_to_v61	394704	-1.0869999999999962
+hybrid_high_confidence	5	51470172	56.967	solcap_snp_c1_3413	SNP	direct_spuddb_dm_v6_1	51816472	56.434	PM0333	repeat_region	cigar_liftover_v403_to_v61	346300	-0.5330000000000013
+hybrid_high_confidence	5	51816472	56.434	PM0333	repeat_region	cigar_liftover_v403_to_v61	52067622	56.012	pPt-458238	DArT_marker	cigar_liftover_v403_to_v61	251150	-0.42199999999999704
+hybrid_high_confidence	5	52067622	56.012	pPt-458238	DArT_marker	cigar_liftover_v403_to_v61	52206315	55.528	solcap_snp_c1_12486	SNP	direct_spuddb_dm_v6_1	138693	-0.48400000000000176
+hybrid_high_confidence	5	54704835	63.803	toPt-438407	DArT_marker	cigar_liftover_v403_to_v61	54704901	63.759	pPt-535674	DArT_marker	cigar_liftover_v403_to_v61	66	-0.04399999999999693
+hybrid_high_confidence	5	54704901	64.138	pPt-459311	DArT_marker	cigar_liftover_v403_to_v61	55169241	61.677	solcap_snp_c1_1199	SNP	direct_spuddb_dm_v6_1	464340	-2.4610000000000056
+hybrid_high_confidence	6	657165	2.632	pPt-540411	DArT_marker	cigar_liftover_v403_to_v61	952101	1.564	solcap_snp_c1_9246	SNP	direct_spuddb_dm_v6_1	294936	-1.068
+hybrid_high_confidence	6	2349513	5.93	solcap_snp_c1_15546	SNP	direct_spuddb_dm_v6_1	2429309	3.779	solcap_snp_c1_13631	SNP	direct_spuddb_dm_v6_1	79796	-2.151
+hybrid_high_confidence	6	15797597	14.488	PM0329	repeat_region	cigar_liftover_v403_to_v61	22311521	10.048	solcap_snp_c1_16621	SNP	direct_spuddb_dm_v6_1	6513924	-4.4399999999999995
+hybrid_high_confidence	6	31603941	14.191	solcap_snp_c1_3692	SNP	direct_spuddb_dm_v6_1	32505188	13.254	solcap_snp_c1_9854	SNP	direct_spuddb_dm_v6_1	901247	-0.9370000000000012
+hybrid_high_confidence	6	46359572	34.322	pPt-655645	DArT_marker	cigar_liftover_v403_to_v61	46359578	34.293	toPt-440683	DArT_marker	cigar_liftover_v403_to_v61	6	-0.029000000000003467
+hybrid_high_confidence	6	47466211	36.353	pPt-473454	DArT_marker	cigar_liftover_v403_to_v61	47661512	35.296	pPt-471807	DArT_marker	cigar_liftover_v403_to_v61	195301	-1.0570000000000022
+hybrid_high_confidence	6	49075146	41.998	solcap_snp_c1_14891	SNP	direct_spuddb_dm_v6_1	49254652	41.191	pPt-536932	DArT_marker	cigar_liftover_v403_to_v61	179506	-0.806999999999995
+hybrid_high_confidence	6	50154057	47.364	MICRO.2094.C3_1290	match	cigar_liftover_v403_to_v61	50445762	47.03	solcap_snp_c1_2059	SNP	direct_spuddb_dm_v6_1	291705	-0.3339999999999961
+hybrid_high_confidence	6	52623052	56.733	solcap_snp_c1_3007	SNP	direct_spuddb_dm_v6_1	52789918	56.51	pPt-538867	DArT_marker	cigar_liftover_v403_to_v61	166866	-0.22299999999999898
+hybrid_high_confidence	6	52789918	56.872	toPt-763749	DArT_marker	cigar_liftover_v403_to_v61	52818057	56.512	pPt-537569	DArT_marker	cigar_liftover_v403_to_v61	28139	-0.35999999999999943
+hybrid_high_confidence	6	52818160	57.181	pPt-473433	DArT_marker	cigar_liftover_v403_to_v61	52818203	56.512	pPt-552171	DArT_marker	cigar_liftover_v403_to_v61	43	-0.6689999999999969
+hybrid_high_confidence	6	52818378	56.52	pPt-537183	DArT_marker	cigar_liftover_v403_to_v61	52936397	55.805	pPt-474058	DArT_marker	cigar_liftover_v403_to_v61	118019	-0.7150000000000034
+hybrid_high_confidence	6	53214964	59.125	pPt-472490	DArT_marker	cigar_liftover_v403_to_v61	53508393	58.876	pPt-655572	DArT_marker	cigar_liftover_v403_to_v61	293429	-0.24900000000000233
+hybrid_high_confidence	6	53508393	58.876	toPt-437058	DArT_marker	cigar_liftover_v403_to_v61	53705309	57.158	pPt-653838	DArT_marker	cigar_liftover_v403_to_v61	196916	-1.7179999999999964
+hybrid_high_confidence	6	54428165	59.274	toPt-437131	DArT_marker	cigar_liftover_v403_to_v61	54454794	59.255	pPt-471879	DArT_marker	cigar_liftover_v403_to_v61	26629	-0.01899999999999835
+hybrid_high_confidence	6	54680829	62.481	solcap_snp_c1_7681	SNP	direct_spuddb_dm_v6_1	54781274	62.205	solcap_snp_c1_7690	SNP	direct_spuddb_dm_v6_1	100445	-0.27600000000000335
+hybrid_high_confidence	6	56749446	65.401	solcap_snp_c1_14920	SNP	direct_spuddb_dm_v6_1	56910485	65.312	solcap_snp_c1_14796	SNP	direct_spuddb_dm_v6_1	161039	-0.08899999999999864
+hybrid_high_confidence	6	56970498	65.335	solcap_snp_c1_12101	SNP	direct_spuddb_dm_v6_1	57097701	65.327	solcap_snp_c1_12088	SNP	direct_spuddb_dm_v6_1	127203	-0.007999999999995566
+hybrid_high_confidence	6	57561751	69.041	solcap_snp_c1_3130	SNP	direct_spuddb_dm_v6_1	57940708	67.158	pPt-654600	DArT_marker	cigar_liftover_v403_to_v61	378957	-1.8829999999999956
+hybrid_high_confidence	6	57940757	68.584	pPt-652880	DArT_marker	cigar_liftover_v403_to_v61	57940764	68.338	pPt-651057	DArT_marker	cigar_liftover_v403_to_v61	7	-0.24600000000000932
+hybrid_high_confidence	7	687291	2.659	solcap_snp_c1_13671	SNP	direct_spuddb_dm_v6_1	707517	0.0	solcap_snp_c1_11523	SNP	direct_spuddb_dm_v6_1	20226	-2.659
+hybrid_high_confidence	7	3303107	9.087	solcap_snp_c1_10959	SNP	direct_spuddb_dm_v6_1	3407150	8.738	solcap_snp_c1_10985	SNP	direct_spuddb_dm_v6_1	104043	-0.3490000000000002
+hybrid_high_confidence	7	3407150	8.738	solcap_snp_c1_10985	SNP	direct_spuddb_dm_v6_1	3960282	8.714	solcap_snp_c1_13776	SNP	direct_spuddb_dm_v6_1	553132	-0.023999999999999133
+hybrid_high_confidence	7	36788141	17.964	solcap_snp_c1_2672	SNP	direct_spuddb_dm_v6_1	37737782	17.66	solcap_snp_c1_513	SNP	direct_spuddb_dm_v6_1	949641	-0.3039999999999985
+hybrid_high_confidence	7	37737782	17.66	solcap_snp_c1_513	SNP	direct_spuddb_dm_v6_1	38834428	17.656	solcap_snp_c1_480	SNP	direct_spuddb_dm_v6_1	1096646	-0.004000000000001336
+hybrid_high_confidence	7	40931544	20.081	solcap_snp_c1_1547	SNP	direct_spuddb_dm_v6_1	41802263	20.061	solcap_snp_c1_15703	SNP	direct_spuddb_dm_v6_1	870719	-0.019999999999999574
+hybrid_high_confidence	7	42816299	23.806	pPt-654638	DArT_marker	cigar_liftover_v403_to_v61	42905909	21.748	pPt-650032	DArT_marker	cigar_liftover_v403_to_v61	89610	-2.058
+hybrid_high_confidence	7	43596257	26.686	solcap_snp_c1_7505	SNP	direct_spuddb_dm_v6_1	43818233	26.662	PM1300	repeat_region	cigar_liftover_v403_to_v61	221976	-0.02400000000000091
+hybrid_high_confidence	7	44206993	28.701	toPt-439283	DArT_marker	cigar_liftover_v403_to_v61	44340304	26.06	solcap_snp_c1_7378	SNP	direct_spuddb_dm_v6_1	133311	-2.641000000000002
+hybrid_high_confidence	7	45551001	30.844	pPt-458625	DArT_marker	cigar_liftover_v403_to_v61	45551032	30.71	pPt-458072	DArT_marker	cigar_liftover_v403_to_v61	31	-0.13400000000000034
+hybrid_high_confidence	7	46503550	34.276	MICRO.1442.C1_559	match	cigar_liftover_v403_to_v61	46645602	32.819	pPt-456752	DArT_marker	cigar_liftover_v403_to_v61	142052	-1.4570000000000007
+hybrid_high_confidence	7	48420904	43.89	MICRO.381.C1_1588	match	cigar_liftover_v403_to_v61	48569615	42.701	pPt-456702	DArT_marker	cigar_liftover_v403_to_v61	148711	-1.189
+hybrid_high_confidence	7	52065648	49.701	pPt-559458	DArT_marker	cigar_liftover_v403_to_v61	52065657	49.662	pPt-538032	DArT_marker	cigar_liftover_v403_to_v61	9	-0.03900000000000148
+hybrid_high_confidence	7	54633421	59.44	toPt-437358	DArT_marker	cigar_liftover_v403_to_v61	54633422	58.595	pPt-657441	DArT_marker	cigar_liftover_v403_to_v61	1	-0.8449999999999989
+hybrid_high_confidence	7	54633569	58.601	pPt-651978	DArT_marker	cigar_liftover_v403_to_v61	54699766	57.539	pPt-650152	DArT_marker	cigar_liftover_v403_to_v61	66197	-1.0619999999999976
+hybrid_high_confidence	7	55702706	62.16	pPt-654556	DArT_marker	cigar_liftover_v403_to_v61	55767754	62.093	pPt-459335	DArT_marker	cigar_liftover_v403_to_v61	65048	-0.06699999999999307
+hybrid_high_confidence	7	56166710	63.438	pPt-457779	DArT_marker	cigar_liftover_v403_to_v61	56384329	62.711	pPt-537071	DArT_marker	cigar_liftover_v403_to_v61	217619	-0.7270000000000039
+hybrid_high_confidence	7	56384329	62.737	pPt-535925	DArT_marker	cigar_liftover_v403_to_v61	56445834	61.66	pPt-652491	DArT_marker	cigar_liftover_v403_to_v61	61505	-1.0770000000000053
+hybrid_high_confidence	7	56651862	63.806	solcap_snp_c1_8815	SNP	direct_spuddb_dm_v6_1	56801943	62.715	pPt-653355	DArT_marker	cigar_liftover_v403_to_v61	150081	-1.090999999999994
+hybrid_high_confidence	7	57383958	67.064	STM3009	repeat_region	cigar_liftover_v403_to_v61	57433724	66.796	MICRO.1437.C1_390	match	cigar_liftover_v403_to_v61	49766	-0.26799999999998647
+hybrid_high_confidence	8	2404959	12.681	pPt-650234	DArT_marker	cigar_liftover_v403_to_v61	3532796	11.852	pPt-536257	DArT_marker	cigar_liftover_v403_to_v61	1127837	-0.8289999999999988
+hybrid_high_confidence	8	3532796	11.974	pPt-650705	DArT_marker	cigar_liftover_v403_to_v61	4092287	10.679	solcap_snp_c1_7740	SNP	direct_spuddb_dm_v6_1	559491	-1.295
+hybrid_high_confidence	8	5692745	15.705	pPt-539822	DArT_marker	cigar_liftover_v403_to_v61	6321786	15.476	solcap_snp_c1_8381	SNP	direct_spuddb_dm_v6_1	629041	-0.2289999999999992
+hybrid_high_confidence	8	6621353	17.641	pPt-654824	DArT_marker	cigar_liftover_v403_to_v61	6621355	16.622	toPt-441100	DArT_marker	cigar_liftover_v403_to_v61	2	-1.0189999999999984
+hybrid_high_confidence	8	6621355	17.641	pPt-657575	DArT_marker	cigar_liftover_v403_to_v61	6846144	16.231	pPt-540163	DArT_marker	cigar_liftover_v403_to_v61	224789	-1.4099999999999966
+hybrid_high_confidence	8	6846218	16.254	pPt-535564	DArT_marker	cigar_liftover_v403_to_v61	6846221	16.249	pPt-540053	DArT_marker	cigar_liftover_v403_to_v61	3	-0.005000000000002558
+hybrid_high_confidence	8	7332182	17.641	pPt-653216	DArT_marker	cigar_liftover_v403_to_v61	8091997	16.102	solcap_snp_c1_15451	SNP	direct_spuddb_dm_v6_1	759815	-1.538999999999998
+hybrid_high_confidence	8	38300248	25.921	solcap_snp_c1_9821	SNP	direct_spuddb_dm_v6_1	38684199	25.783	PM0495	repeat_region	cigar_liftover_v403_to_v61	383951	-0.13799999999999812
+hybrid_high_confidence	8	40872159	29.947	pPt-650709	DArT_marker	cigar_liftover_v403_to_v61	40872315	29.939	pPt-457647	DArT_marker	cigar_liftover_v403_to_v61	156	-0.007999999999999119
+hybrid_high_confidence	8	40872315	29.962	pPt-653294	DArT_marker	cigar_liftover_v403_to_v61	40872318	29.947	pPt-559585	DArT_marker	cigar_liftover_v403_to_v61	3	-0.015000000000000568
+hybrid_high_confidence	8	40872318	29.947	pPt-559585	DArT_marker	cigar_liftover_v403_to_v61	42826029	26.91	pPt-653036	DArT_marker	cigar_liftover_v403_to_v61	1953711	-3.036999999999999
+hybrid_high_confidence	8	42826029	26.91	pPt-653036	DArT_marker	cigar_liftover_v403_to_v61	42826030	26.294	pPt-536995	DArT_marker	cigar_liftover_v403_to_v61	1	-0.6159999999999997
+hybrid_high_confidence	8	47850822	55.508	pPt-539116	DArT_marker	cigar_liftover_v403_to_v61	49096599	40.105	pPt-458325	DArT_marker	cigar_liftover_v403_to_v61	1245777	-15.403000000000006
+hybrid_high_confidence	8	49097136	40.171	pPt-470707	DArT_marker	cigar_liftover_v403_to_v61	49097627	38.768	pPt-538788	DArT_marker	cigar_liftover_v403_to_v61	491	-1.4029999999999987
+hybrid_high_confidence	8	49097627	41.175	pPt-540454	DArT_marker	cigar_liftover_v403_to_v61	49098091	39.358	pPt-654934	DArT_marker	cigar_liftover_v403_to_v61	464	-1.8170000000000002
+hybrid_high_confidence	8	50132511	48.691	pPt-471414	DArT_marker	cigar_liftover_v403_to_v61	50559167	47.864	pPt-652927	DArT_marker	cigar_liftover_v403_to_v61	426656	-0.8270000000000053
+hybrid_high_confidence	8	50559167	47.864	pPt-652927	DArT_marker	cigar_liftover_v403_to_v61	51453176	42.436	pPt-540363	DArT_marker	cigar_liftover_v403_to_v61	894009	-5.427999999999997
+hybrid_high_confidence	8	52622373	56.619	pPt-472750	DArT_marker	cigar_liftover_v403_to_v61	53103373	55.508	pPt-457562	DArT_marker	cigar_liftover_v403_to_v61	481000	-1.110999999999997
+hybrid_high_confidence	8	53149549	56.128	pPt-653213	DArT_marker	cigar_liftover_v403_to_v61	53301457	55.99	pPt-653413	DArT_marker	cigar_liftover_v403_to_v61	151908	-0.13799999999999812
+hybrid_high_confidence	8	53440117	55.99	pPt-552409	DArT_marker	cigar_liftover_v403_to_v61	53440159	55.985	pPt-539475	DArT_marker	cigar_liftover_v403_to_v61	42	-0.005000000000002558
+hybrid_high_confidence	8	55027732	60.448	PM1350	repeat_region	cigar_liftover_v403_to_v61	56271396	59.685	solcap_snp_c1_8296	SNP	direct_spuddb_dm_v6_1	1243664	-0.7629999999999981
+hybrid_high_confidence	8	57178514	62.649	pPt-534465	DArT_marker	cigar_liftover_v403_to_v61	57274863	62.253	solcap_snp_c1_5509	SNP	direct_spuddb_dm_v6_1	96349	-0.3960000000000008
+hybrid_high_confidence	8	57358335	63.404	solcap_snp_c1_5532	SNP	direct_spuddb_dm_v6_1	57510401	63.222	pPt-472859	DArT_marker	cigar_liftover_v403_to_v61	152066	-0.18200000000000216
+hybrid_high_confidence	8	57690192	64.687	solcap_snp_c1_5605	SNP	direct_spuddb_dm_v6_1	57771519	64.377	solcap_snp_c1_5612	SNP	direct_spuddb_dm_v6_1	81327	-0.3100000000000023
+hybrid_high_confidence	8	57771519	64.377	solcap_snp_c1_5612	SNP	direct_spuddb_dm_v6_1	57947606	63.83	pPt-534657	DArT_marker	cigar_liftover_v403_to_v61	176087	-0.546999999999997
+hybrid_high_confidence	8	57947606	63.831	pPt-537356	DArT_marker	cigar_liftover_v403_to_v61	57947687	63.741	pPt-456511	DArT_marker	cigar_liftover_v403_to_v61	81	-0.09000000000000341
+hybrid_high_confidence	8	57962958	65.034	pPt-471848	DArT_marker	cigar_liftover_v403_to_v61	58072885	63.683	toPt-438550	DArT_marker	cigar_liftover_v403_to_v61	109927	-1.3510000000000062
+hybrid_high_confidence	8	58604496	66.412	pPt-651323	DArT_marker	cigar_liftover_v403_to_v61	58624649	65.997	PM0024	repeat_region	cigar_liftover_v403_to_v61	20153	-0.41500000000000625
+hybrid_high_confidence	8	58764444	67.791	pPt-457615	DArT_marker	cigar_liftover_v403_to_v61	58764544	65.62	pPt-536343	DArT_marker	cigar_liftover_v403_to_v61	100	-2.1709999999999923
+hybrid_high_confidence	8	59147191	66.946	STGBSS	repeat_region	cigar_liftover_v403_to_v61	59147419	66.376	STM1105	repeat_region	cigar_liftover_v403_to_v61	228	-0.5699999999999932
+hybrid_high_confidence	9	2345796	15.594	toPt-439769	DArT_marker	cigar_liftover_v403_to_v61	2345959	15.561	pPt-535215	DArT_marker	cigar_liftover_v403_to_v61	163	-0.032999999999999474
+hybrid_high_confidence	9	2345959	15.594	pPt-536424	DArT_marker	cigar_liftover_v403_to_v61	2544553	15.584	pPt-654939	DArT_marker	cigar_liftover_v403_to_v61	198594	-0.009999999999999787
+hybrid_high_confidence	9	12397029	40.061	PM1307	repeat_region	cigar_liftover_v403_to_v61	18288931	39.474	pPt-472210	DArT_marker	cigar_liftover_v403_to_v61	5891902	-0.5870000000000033
+hybrid_high_confidence	9	34137871	39.625	solcap_snp_c1_2319	SNP	direct_spuddb_dm_v6_1	43274545	39.59	pPt-651168	DArT_marker	cigar_liftover_v403_to_v61	9136674	-0.03499999999999659
+hybrid_high_confidence	9	43274545	39.59	pPt-651168	DArT_marker	cigar_liftover_v403_to_v61	43807359	39.406	st_2663	repeat_region	cigar_liftover_v403_to_v61	532814	-0.1840000000000046
+hybrid_high_confidence	9	51477883	40.83	pPt-559310	DArT_marker	cigar_liftover_v403_to_v61	52227267	38.757	toPt-439232	DArT_marker	cigar_liftover_v403_to_v61	749384	-2.0730000000000004
+hybrid_high_confidence	9	53488920	48.091	pPt-535745	DArT_marker	cigar_liftover_v403_to_v61	54181202	45.609	solcap_snp_c1_12794	SNP	direct_spuddb_dm_v6_1	692282	-2.4819999999999993
+hybrid_high_confidence	9	54406078	49.282	MICRO.637.C1_809	match	cigar_liftover_v403_to_v61	54716891	46.308	MICRO.1131.C1_434	match	cigar_liftover_v403_to_v61	310813	-2.9739999999999966
+hybrid_high_confidence	9	55353103	56.142	solcap_snp_c1_13519	SNP	direct_spuddb_dm_v6_1	56104281	50.736	solcap_snp_c1_16459	SNP	direct_spuddb_dm_v6_1	751178	-5.406000000000006
+hybrid_high_confidence	9	58413779	61.264	solcap_snp_c1_1401	SNP	direct_spuddb_dm_v6_1	58912293	60.697	solcap_snp_c1_12054	SNP	direct_spuddb_dm_v6_1	498514	-0.5670000000000002
+hybrid_high_confidence	9	59431706	62.809	pPt-538179	DArT_marker	cigar_liftover_v403_to_v61	59431737	62.792	toPt-439913	DArT_marker	cigar_liftover_v403_to_v61	31	-0.016999999999995907
+hybrid_high_confidence	9	59431737	62.792	toPt-439913	DArT_marker	cigar_liftover_v403_to_v61	59431742	62.727	pPt-539594	DArT_marker	cigar_liftover_v403_to_v61	5	-0.06500000000000483
+hybrid_high_confidence	9	59431742	63.059	pPt-535743	DArT_marker	cigar_liftover_v403_to_v61	59431743	62.809	pPt-535726	DArT_marker	cigar_liftover_v403_to_v61	1	-0.25
+hybrid_high_confidence	9	59431743	62.809	pPt-539293	DArT_marker	cigar_liftover_v403_to_v61	59431745	62.801	toPt-438737	DArT_marker	cigar_liftover_v403_to_v61	2	-0.007999999999995566
+hybrid_high_confidence	9	59431745	62.809	toPt-763864	DArT_marker	cigar_liftover_v403_to_v61	59431846	62.784	toPt-438644	DArT_marker	cigar_liftover_v403_to_v61	101	-0.02499999999999858
+hybrid_high_confidence	9	59440240	62.801	pPt-653066	DArT_marker	cigar_liftover_v403_to_v61	59596669	62.151	pPt-473763	DArT_marker	cigar_liftover_v403_to_v61	156429	-0.6499999999999986
+hybrid_high_confidence	9	59596669	62.151	pPt-473763	DArT_marker	cigar_liftover_v403_to_v61	59826894	60.865	toPt-437854	DArT_marker	cigar_liftover_v403_to_v61	230225	-1.2860000000000014
+hybrid_high_confidence	9	59918955	64.076	pPt-559613	DArT_marker	cigar_liftover_v403_to_v61	59920002	60.46	pPt-656850	DArT_marker	cigar_liftover_v403_to_v61	1047	-3.6159999999999926
+hybrid_high_confidence	9	61680912	69.522	pPt-457457	DArT_marker	cigar_liftover_v403_to_v61	61680990	68.99	toPt-763577	DArT_marker	cigar_liftover_v403_to_v61	78	-0.5320000000000107
+hybrid_high_confidence	9	61680990	68.99	toPt-763577	DArT_marker	cigar_liftover_v403_to_v61	61762534	66.664	solcap_snp_c1_8939	SNP	direct_spuddb_dm_v6_1	81544	-2.3259999999999934
+hybrid_high_confidence	9	62033713	70.956	solcap_snp_c1_8955	SNP	direct_spuddb_dm_v6_1	62320987	70.016	pPt-536054	DArT_marker	cigar_liftover_v403_to_v61	287274	-0.9399999999999977
+hybrid_high_confidence	9	63001833	72.979	pPt-535101	DArT_marker	cigar_liftover_v403_to_v61	63001885	72.719	capPt-672308	DArT_marker	cigar_liftover_v403_to_v61	52	-0.2600000000000051
+hybrid_high_confidence	9	63339315	73.536	pPt-536181	DArT_marker	cigar_liftover_v403_to_v61	63339316	73.514	pPt-540196	DArT_marker	cigar_liftover_v403_to_v61	1	-0.02200000000000557
+hybrid_high_confidence	9	63987925	76.288	toPt-441141	DArT_marker	cigar_liftover_v403_to_v61	64007875	75.748	solcap_snp_c1_12726	SNP	direct_spuddb_dm_v6_1	19950	-0.539999999999992
+hybrid_high_confidence	9	66777078	87.866	solcap_snp_c1_10580	SNP	direct_spuddb_dm_v6_1	66778416	86.542	solcap_snp_c1_10582	SNP	direct_spuddb_dm_v6_1	1338	-1.323999999999998
+hybrid_high_confidence	10	675172	4.383	pPt-650953	DArT_marker	cigar_liftover_v403_to_v61	920818	4.183	st_15123	repeat_region	cigar_liftover_v403_to_v61	245646	-0.20000000000000018
+hybrid_high_confidence	10	965693	7.902	pPt-456767	DArT_marker	cigar_liftover_v403_to_v61	1480102	0.0	PM0417	repeat_region	cigar_liftover_v403_to_v61	514409	-7.902
+hybrid_high_confidence	10	1826253	9.56	solcap_snp_c1_272	SNP	direct_spuddb_dm_v6_1	2034738	7.58	pPt-473086	DArT_marker	cigar_liftover_v403_to_v61	208485	-1.9800000000000004
+hybrid_high_confidence	10	2034836	7.609	pPt-656726	DArT_marker	cigar_liftover_v403_to_v61	2034837	7.569	pPt-537963	DArT_marker	cigar_liftover_v403_to_v61	1	-0.040000000000000036
+hybrid_high_confidence	10	2034837	7.657	pPt-655039	DArT_marker	cigar_liftover_v403_to_v61	2034840	7.609	pPt-540164	DArT_marker	cigar_liftover_v403_to_v61	3	-0.04800000000000004
+hybrid_high_confidence	10	3132180	12.624	pPt-652078	DArT_marker	cigar_liftover_v403_to_v61	3132266	12.432	pPt-457178	DArT_marker	cigar_liftover_v403_to_v61	86	-0.19200000000000017
+hybrid_high_confidence	10	6642729	22.556	solcap_snp_c1_14047	SNP	direct_spuddb_dm_v6_1	7780322	21.884	PM0126	repeat_region	cigar_liftover_v403_to_v61	1137593	-0.6720000000000006
+hybrid_high_confidence	10	7780322	21.884	PM0126	repeat_region	cigar_liftover_v403_to_v61	10737387	18.531	pPt-473173	DArT_marker	cigar_liftover_v403_to_v61	2957065	-3.3530000000000015
+hybrid_high_confidence	10	10753815	19.435	STM0051	repeat_region	cigar_liftover_v403_to_v61	11815345	18.998	PM1302	repeat_region	cigar_liftover_v403_to_v61	1061530	-0.4369999999999976
+hybrid_high_confidence	10	17962311	42.04	pPt-653258	DArT_marker	cigar_liftover_v403_to_v61	17967322	21.197	pPt-471094	DArT_marker	cigar_liftover_v403_to_v61	5011	-20.843
+hybrid_high_confidence	10	17967834	21.197	pPt-538467	DArT_marker	cigar_liftover_v403_to_v61	21865280	20.867	pPt-535392	DArT_marker	cigar_liftover_v403_to_v61	3897446	-0.3299999999999983
+hybrid_high_confidence	10	29044920	21.796	PM1358	repeat_region	cigar_liftover_v403_to_v61	29688859	20.137	solcap_snp_c1_1	SNP	direct_spuddb_dm_v6_1	643939	-1.658999999999999
+hybrid_high_confidence	10	35603439	25.672	solcap_snp_c1_3057	SNP	direct_spuddb_dm_v6_1	36968160	23.048	solcap_snp_c1_3055	SNP	direct_spuddb_dm_v6_1	1364721	-2.6240000000000023
+hybrid_high_confidence	10	44301243	26.728	solcap_snp_c1_11408	SNP	direct_spuddb_dm_v6_1	45867762	26.604	solcap_snp_c1_14465	SNP	direct_spuddb_dm_v6_1	1566519	-0.12400000000000233
+hybrid_high_confidence	10	47804246	36.402	pPt-552174	DArT_marker	cigar_liftover_v403_to_v61	48174762	36.298	solcap_snp_c1_16004	SNP	direct_spuddb_dm_v6_1	370516	-0.1039999999999992
+hybrid_high_confidence	10	48174762	36.298	solcap_snp_c1_16004	SNP	direct_spuddb_dm_v6_1	49042701	34.53	toPt-440832	DArT_marker	cigar_liftover_v403_to_v61	867939	-1.7680000000000007
+hybrid_high_confidence	10	52898453	46.385	pPt-539509	DArT_marker	cigar_liftover_v403_to_v61	52898639	46.379	pPt-653677	DArT_marker	cigar_liftover_v403_to_v61	186	-0.006000000000000227
+hybrid_high_confidence	10	52898641	46.383	pPt-652127	DArT_marker	cigar_liftover_v403_to_v61	52898643	45.911	toPt-440308	DArT_marker	cigar_liftover_v403_to_v61	2	-0.4720000000000013
+hybrid_high_confidence	10	52898643	46.724	pPt-458465	DArT_marker	cigar_liftover_v403_to_v61	52898816	46.295	capPt-673116	DArT_marker	cigar_liftover_v403_to_v61	173	-0.42899999999999494
+hybrid_high_confidence	10	52898816	46.313	capPt-672993	DArT_marker	cigar_liftover_v403_to_v61	53051560	46.077	solcap_snp_c1_15222	SNP	direct_spuddb_dm_v6_1	152744	-0.2360000000000042
+hybrid_high_confidence	10	55214380	49.827	pPt-459092	DArT_marker	cigar_liftover_v403_to_v61	55214381	49.755	pPt-458475	DArT_marker	cigar_liftover_v403_to_v61	1	-0.07199999999999562
+hybrid_high_confidence	10	55254858	50.273	solcap_snp_c1_10324	SNP	direct_spuddb_dm_v6_1	55257906	49.769	pPt-652171	DArT_marker	cigar_liftover_v403_to_v61	3048	-0.5040000000000049
+hybrid_high_confidence	10	57342715	57.701	solcap_snp_c1_9069	SNP	direct_spuddb_dm_v6_1	57502157	57.235	solcap_snp_c1_12656	SNP	direct_spuddb_dm_v6_1	159442	-0.4660000000000011
+hybrid_high_confidence	10	57561186	59.216	pPt-458108	DArT_marker	cigar_liftover_v403_to_v61	57586970	58.919	solcap_snp_c1_12614	SNP	direct_spuddb_dm_v6_1	25784	-0.29700000000000415
+hybrid_high_confidence	10	59248708	68.865	solcap_snp_c1_8814	SNP	direct_spuddb_dm_v6_1	59277472	67.349	toPt-437377	DArT_marker	cigar_liftover_v403_to_v61	28764	-1.5159999999999911
+hybrid_high_confidence	11	1414041	10.24	pPt-652437	DArT_marker	cigar_liftover_v403_to_v61	2579325	0.759	solcap_snp_c1_11111	SNP	direct_spuddb_dm_v6_1	1165284	-9.481
+hybrid_high_confidence	11	2822788	2.25	pPt-470834	DArT_marker	cigar_liftover_v403_to_v61	2830372	1.658	pPt-534589	DArT_marker	cigar_liftover_v403_to_v61	7584	-0.5920000000000001
+hybrid_high_confidence	11	2830372	2.25	pPt-536761	DArT_marker	cigar_liftover_v403_to_v61	2830392	2.216	pPt-653767	DArT_marker	cigar_liftover_v403_to_v61	20	-0.03399999999999981
+hybrid_high_confidence	11	3575362	12.567	solcap_snp_c1_2132	SNP	direct_spuddb_dm_v6_1	3695457	4.712	solcap_snp_c1_2311	SNP	direct_spuddb_dm_v6_1	120095	-7.855
+hybrid_high_confidence	11	4000873	15.715	solcap_snp_c1_2254	SNP	direct_spuddb_dm_v6_1	4002920	15.429	capPt-673113	DArT_marker	cigar_liftover_v403_to_v61	2047	-0.2859999999999996
+hybrid_high_confidence	11	4002920	15.429	capPt-673113	DArT_marker	cigar_liftover_v403_to_v61	4242408	5.452	solcap_snp_c1_2221	SNP	direct_spuddb_dm_v6_1	239488	-9.977
+hybrid_high_confidence	11	5952475	18.836	toPt-436913	DArT_marker	cigar_liftover_v403_to_v61	6166561	8.301	solcap_snp_c1_6633	SNP	direct_spuddb_dm_v6_1	214086	-10.534999999999998
+hybrid_high_confidence	11	9491422	27.637	solcap_snp_c1_3996	SNP	direct_spuddb_dm_v6_1	9529080	27.499	toPt-437239	DArT_marker	cigar_liftover_v403_to_v61	37658	-0.13800000000000168
+hybrid_high_confidence	11	9529123	27.698	toPt-438852	DArT_marker	cigar_liftover_v403_to_v61	9529226	27.499	pPt-650908	DArT_marker	cigar_liftover_v403_to_v61	103	-0.19900000000000162
+hybrid_high_confidence	11	9529226	27.499	pPt-655824	DArT_marker	cigar_liftover_v403_to_v61	10088223	22.701	toPt-437706	DArT_marker	cigar_liftover_v403_to_v61	558997	-4.797999999999998
+hybrid_high_confidence	11	16224599	37.27	solcap_snp_c1_872	SNP	direct_spuddb_dm_v6_1	27165202	34.197	PM1319	repeat_region	cigar_liftover_v403_to_v61	10940603	-3.0730000000000004
+hybrid_high_confidence	11	27165202	34.197	PM1319	repeat_region	cigar_liftover_v403_to_v61	27218620	15.236	pPt-657037	DArT_marker	cigar_liftover_v403_to_v61	53418	-18.961000000000002
+hybrid_high_confidence	11	30013065	35.081	pPt-536357	DArT_marker	cigar_liftover_v403_to_v61	32900636	33.402	MICRO.10953.C1_310	match	cigar_liftover_v403_to_v61	2887571	-1.679000000000002
+hybrid_high_confidence	11	36524120	36.999	toPt-440455	DArT_marker	cigar_liftover_v403_to_v61	36955055	36.63	pPt-651955	DArT_marker	cigar_liftover_v403_to_v61	430935	-0.3689999999999998
+hybrid_high_confidence	11	36955055	38.047	pPt-457986	DArT_marker	cigar_liftover_v403_to_v61	37615241	36.859	solcap_snp_c1_4359	SNP	direct_spuddb_dm_v6_1	660186	-1.1879999999999953
+hybrid_high_confidence	11	40806074	48.053	solcap_snp_c1_1300	SNP	direct_spuddb_dm_v6_1	40969800	46.082	pPt-653469	DArT_marker	cigar_liftover_v403_to_v61	163726	-1.9709999999999965
+hybrid_high_confidence	11	40969800	46.082	pPt-653469	DArT_marker	cigar_liftover_v403_to_v61	41045136	45.74	pPt-458167	DArT_marker	cigar_liftover_v403_to_v61	75336	-0.34199999999999875
+hybrid_high_confidence	11	41045136	49.375	pPt-457758	DArT_marker	cigar_liftover_v403_to_v61	41200951	46.192	toPt-437761	DArT_marker	cigar_liftover_v403_to_v61	155815	-3.183
+hybrid_high_confidence	11	41200951	46.238	toPt-437421	DArT_marker	cigar_liftover_v403_to_v61	41708288	42.971	MICRO.2270.C1_388	match	cigar_liftover_v403_to_v61	507337	-3.267000000000003
+hybrid_high_confidence	11	42273649	50.616	solcap_snp_c1_6967	SNP	direct_spuddb_dm_v6_1	42408537	47.907	solcap_snp_c1_6971	SNP	direct_spuddb_dm_v6_1	134888	-2.709000000000003
+hybrid_high_confidence	11	43727992	53.878	solcap_snp_c1_4911	SNP	direct_spuddb_dm_v6_1	43731390	53.049	solcap_snp_c1_4908	SNP	direct_spuddb_dm_v6_1	3398	-0.8290000000000006
+hybrid_high_confidence	11	44455736	57.204	pPt-656631	DArT_marker	cigar_liftover_v403_to_v61	44479312	55.172	pPt-656960	DArT_marker	cigar_liftover_v403_to_v61	23576	-2.0320000000000036
+hybrid_high_confidence	12	261416	69.698	solcap_snp_c1_16130	SNP	direct_spuddb_dm_v6_1	568082	69.512	solcap_snp_c1_1958	SNP	direct_spuddb_dm_v6_1	306666	-0.18599999999999284
+hybrid_high_confidence	12	568082	69.512	solcap_snp_c1_1958	SNP	direct_spuddb_dm_v6_1	1055654	63.238	pPt-650534	DArT_marker	cigar_liftover_v403_to_v61	487572	-6.274000000000001
+hybrid_high_confidence	12	1294480	75.166	toPt-439120	DArT_marker	cigar_liftover_v403_to_v61	1294811	71.722	pPt-651410	DArT_marker	cigar_liftover_v403_to_v61	331	-3.4440000000000026
+hybrid_high_confidence	12	1294811	71.722	pPt-651410	DArT_marker	cigar_liftover_v403_to_v61	1379657	68.531	STM0003	repeat_region	cigar_liftover_v403_to_v61	84846	-3.1909999999999883
+hybrid_high_confidence	12	1379657	68.531	STM0003	repeat_region	cigar_liftover_v403_to_v61	1727004	67.548	toPt-441245	DArT_marker	cigar_liftover_v403_to_v61	347347	-0.9830000000000041
+hybrid_high_confidence	12	1727004	67.548	toPt-441245	DArT_marker	cigar_liftover_v403_to_v61	1781003	66.841	solcap_snp_c1_1948	SNP	direct_spuddb_dm_v6_1	53999	-0.7070000000000078
+hybrid_high_confidence	12	1781003	66.841	solcap_snp_c1_1948	SNP	direct_spuddb_dm_v6_1	1904970	66.684	pPt-535005	DArT_marker	cigar_liftover_v403_to_v61	123967	-0.15699999999999648
+hybrid_high_confidence	12	1904970	66.684	pPt-535005	DArT_marker	cigar_liftover_v403_to_v61	3430218	60.796	solcap_snp_c1_2775	SNP	direct_spuddb_dm_v6_1	1525248	-5.887999999999998
+hybrid_high_confidence	12	3663191	60.994	solcap_snp_c1_2733	SNP	direct_spuddb_dm_v6_1	4098875	50.571	solcap_snp_c1_2713	SNP	direct_spuddb_dm_v6_1	435684	-10.423000000000002
+hybrid_high_confidence	12	4098875	50.571	solcap_snp_c1_2713	SNP	direct_spuddb_dm_v6_1	5220235	48.624	pPt-655869	DArT_marker	cigar_liftover_v403_to_v61	1121360	-1.9469999999999956
+hybrid_high_confidence	12	5220235	48.624	pPt-655869	DArT_marker	cigar_liftover_v403_to_v61	6017006	40.012	solcap_snp_c1_9741	SNP	direct_spuddb_dm_v6_1	796771	-8.612000000000002
+hybrid_high_confidence	12	7297924	44.555	solcap_snp_c1_7491	SNP	direct_spuddb_dm_v6_1	7339777	44.104	PM1295	repeat_region	cigar_liftover_v403_to_v61	41853	-0.4510000000000005
+hybrid_high_confidence	12	7339777	44.104	PM1295	repeat_region	cigar_liftover_v403_to_v61	9186104	41.248	pPt-472737	DArT_marker	cigar_liftover_v403_to_v61	1846327	-2.8560000000000016
+hybrid_high_confidence	12	9186109	41.258	pPt-471864	DArT_marker	cigar_liftover_v403_to_v61	10054710	38.396	pPt-651561	DArT_marker	cigar_liftover_v403_to_v61	868601	-2.862000000000002
+hybrid_high_confidence	12	10054710	38.396	pPt-651561	DArT_marker	cigar_liftover_v403_to_v61	10569816	33.693	pPt-650660	DArT_marker	cigar_liftover_v403_to_v61	515106	-4.703000000000003
+hybrid_high_confidence	12	10569816	33.693	pPt-650660	DArT_marker	cigar_liftover_v403_to_v61	11124977	33.392	pPt-459526	DArT_marker	cigar_liftover_v403_to_v61	555161	-0.3009999999999948
+hybrid_high_confidence	12	11125054	34.702	pPt-456687	DArT_marker	cigar_liftover_v403_to_v61	11672516	31.439	STI0030	repeat_region	cigar_liftover_v403_to_v61	547462	-3.262999999999998
+hybrid_high_confidence	12	11672516	31.439	STI0030	repeat_region	cigar_liftover_v403_to_v61	12294109	29.089	pPt-651796	DArT_marker	cigar_liftover_v403_to_v61	621593	-2.3500000000000014
+hybrid_high_confidence	12	12294109	29.089	pPt-651796	DArT_marker	cigar_liftover_v403_to_v61	48402334	26.618	pPt-652236	DArT_marker	cigar_liftover_v403_to_v61	36108225	-2.471
+hybrid_high_confidence	12	50680228	28.975	solcap_snp_c1_14454	SNP	direct_spuddb_dm_v6_1	53043716	20.153	pPt-652539	DArT_marker	cigar_liftover_v403_to_v61	2363488	-8.822000000000003
+hybrid_high_confidence	12	53043716	20.153	pPt-657374	DArT_marker	cigar_liftover_v403_to_v61	53805487	18.494	pPt-471963	DArT_marker	cigar_liftover_v403_to_v61	761771	-1.658999999999999
+hybrid_high_confidence	12	53805487	18.573	pPt-654400	DArT_marker	cigar_liftover_v403_to_v61	54445536	17.718	PM1351	repeat_region	cigar_liftover_v403_to_v61	640049	-0.8550000000000004
+hybrid_high_confidence	12	54445536	17.718	PM1351	repeat_region	cigar_liftover_v403_to_v61	56281284	7.7	toPt-440819	DArT_marker	cigar_liftover_v403_to_v61	1835748	-10.018
+hybrid_high_confidence	12	56281284	7.7	toPt-440819	DArT_marker	cigar_liftover_v403_to_v61	57195889	0.807	pPt-457978	DArT_marker	cigar_liftover_v403_to_v61	914605	-6.893
+hybrid_high_confidence	12	58521659	6.428	pPt-656633	DArT_marker	cigar_liftover_v403_to_v61	59294379	4.693	toPt-438817	DArT_marker	cigar_liftover_v403_to_v61	772720	-1.7350000000000003
+hybrid_high_confidence	12	59294379	4.706	toPt-438939	DArT_marker	cigar_liftover_v403_to_v61	59294388	4.693	toPt-441368	DArT_marker	cigar_liftover_v403_to_v61	9	-0.013000000000000789
+hybrid_high_confidence	12	59294388	4.736	toPt-441263	DArT_marker	cigar_liftover_v403_to_v61	59573113	0.0	PM0459	repeat_region	cigar_liftover_v403_to_v61	278725	-4.736

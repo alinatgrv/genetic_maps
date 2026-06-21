@@ -1,0 +1,54 @@
+Potato TableS4 CIGAR liftover from PGSC/DM v4.03 to DM v6.1
+===========================================================
+
+Input TableS4 markers: 1730
+PAF: species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/potato_v403_to_v61.minimap2.asm5.paf
+
+Liftover status counts:
+lifted_chr_agree              1688
+lifted_chr_disagree             32
+cigar_no_exact_target_base       7
+no_covering_paf_block            3
+
+CIGAR status counts:
+cigar_aligned_base                   1720
+query_insertion_in_old_not_in_new       7
+no_covering_paf_block                   3
+
+Marker type counts in input TableS4:
+DArT_marker      1305
+SNP               313
+repeat_region      80
+match              32
+
+Lifted chr-agree marker rows: 1688
+Final chr-pos-cM rows: 1240
+
+Final rows by chromosome:
+ chr  n_markers  pos_min  pos_max  cM_min  cM_max
+   1        159   510709 88322820   0.000  92.982
+   2        173  4202319 45993317   6.462  76.036
+   3        101   298626 59115426   2.066  89.435
+   4         89  3604957 68943378  11.354  99.734
+   5         68   475917 55169241   0.000  64.138
+   6         97   581390 58861652   0.539  70.516
+   7         84   687291 57433724   0.000  67.064
+   8        121  2404959 59147419  10.679  67.791
+   9        118   831875 67360701   4.927  87.866
+  10         92   291396 59277472   0.000  68.865
+  11         81   478455 45763473   0.759  62.862
+  12         57   261556 59573113   0.000  75.166
+
+Direct SpudDB SolCAP QC:
+OK
+Overlapping SolCAP markers: 310
+Same chromosome as direct SpudDB: 310
+Absolute position delta quantiles, bp:
+0.00           0.0
+0.25           0.0
+0.50           0.0
+0.75           0.0
+0.90           0.0
+0.95         105.8
+0.99      817995.9
+1.00    19608485.0

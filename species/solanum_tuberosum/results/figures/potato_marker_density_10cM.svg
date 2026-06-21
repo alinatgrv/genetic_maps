@@ -1,0 +1,723 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="1475" viewBox="0 0 1540 1475">
+<rect width="100%" height="100%" fill="white"/>
+<text x="770.0" y="38" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">Potato final maps: marker density in 10 cM bins</text>
+<text x="150" y="80" font-family="Arial" font-size="19" font-weight="bold">SolCAP SNP, direct DM v6.1 positions, 313 markers</text>
+<text x="200.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr1</text>
+<text x="300.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr2</text>
+<text x="400.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr3</text>
+<text x="500.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr4</text>
+<text x="600.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr5</text>
+<text x="700.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr6</text>
+<text x="800.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr7</text>
+<text x="900.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr8</text>
+<text x="1000.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr9</text>
+<text x="1100.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr10</text>
+<text x="1200.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr11</text>
+<text x="1300.0" y="112" text-anchor="middle" font-family="Arial" font-size="13">chr12</text>
+<text x="135" y="143" text-anchor="end" font-family="Arial" font-size="12">0-10</text>
+<rect x="150" y="125" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="198.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="250" y="125" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="298.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="350" y="125" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="398.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="450" y="125" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="550" y="125" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="598.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="650" y="125" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="698.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="750" y="125" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="798.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="850" y="125" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="125" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="125" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1098.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1150" y="125" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="1198.0" y="143" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1250" y="125" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="171" text-anchor="end" font-family="Arial" font-size="12">10-20</text>
+<rect x="150" y="153" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="198.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="250" y="153" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="298.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="350" y="153" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="398.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="450" y="153" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="498.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="550" y="153" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="598.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="650" y="153" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="698.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="750" y="153" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="798.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="850" y="153" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="898.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="950" y="153" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1050" y="153" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="153" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1198.0" y="171" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="1250" y="153" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="199" text-anchor="end" font-family="Arial" font-size="12">20-30</text>
+<rect x="150" y="181" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="198.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="250" y="181" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="298.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="350" y="181" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="181" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="498.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="550" y="181" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="598.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="650" y="181" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="698.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="750" y="181" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="798.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="850" y="181" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="898.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="950" y="181" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="181" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1098.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1150" y="181" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1198.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="1250" y="181" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1298.0" y="199" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<text x="135" y="227" text-anchor="end" font-family="Arial" font-size="12">30-40</text>
+<rect x="150" y="209" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="198.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="250" y="209" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="298.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="350" y="209" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="209" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="498.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="550" y="209" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="598.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="650" y="209" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="698.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="750" y="209" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="798.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="850" y="209" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="898.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="950" y="209" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="998.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1050" y="209" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1098.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1150" y="209" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1198.0" y="227" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1250" y="209" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="255" text-anchor="end" font-family="Arial" font-size="12">40-50</text>
+<rect x="150" y="237" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="198.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="250" y="237" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="298.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="350" y="237" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="398.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="450" y="237" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="498.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="550" y="237" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="598.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="650" y="237" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="698.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="750" y="237" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="798.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="850" y="237" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="237" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="998.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="1050" y="237" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1098.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="1150" y="237" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1198.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1250" y="237" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1298.0" y="255" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<text x="135" y="283" text-anchor="end" font-family="Arial" font-size="12">50-60</text>
+<rect x="150" y="265" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="198.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="250" y="265" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="298.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="350" y="265" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="450" y="265" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="498.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="550" y="265" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="598.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="650" y="265" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="698.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="750" y="265" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="798.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="850" y="265" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="898.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="950" y="265" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="998.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1050" y="265" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1098.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1150" y="265" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="1198.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1250" y="265" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="1298.0" y="283" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<text x="135" y="311" text-anchor="end" font-family="Arial" font-size="12">60-70</text>
+<rect x="150" y="293" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="198.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="250" y="293" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="298.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="350" y="293" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="398.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="450" y="293" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="498.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="550" y="293" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="598.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="650" y="293" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="698.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="750" y="293" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="798.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="850" y="293" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="898.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="950" y="293" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="998.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1050" y="293" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1098.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1150" y="293" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="1198.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1250" y="293" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1298.0" y="311" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<text x="135" y="339" text-anchor="end" font-family="Arial" font-size="12">70-80</text>
+<rect x="150" y="321" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="198.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="250" y="321" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="298.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="350" y="321" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="398.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="450" y="321" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="321" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="698.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="750" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="321" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="998.0" y="339" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1050" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="321" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="367" text-anchor="end" font-family="Arial" font-size="12">80-90</text>
+<rect x="150" y="349" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="198.0" y="367" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="250" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="450" y="349" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="498.0" y="367" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="550" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="349" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="998.0" y="367" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1050" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="349" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="395" text-anchor="end" font-family="Arial" font-size="12">90-100</text>
+<rect x="150" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="250" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="450" y="377" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="498.0" y="395" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="550" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1050" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="377" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="65" y="265.0" transform="rotate(-90 65,265.0)" text-anchor="middle" font-family="Arial" font-size="14">cM interval</text>
+<text x="150" y="545" font-family="Arial" font-size="19" font-weight="bold">Combined map after duplicate-position cleanup, 859 positions</text>
+<text x="200.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr1</text>
+<text x="300.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr2</text>
+<text x="400.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr3</text>
+<text x="500.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr4</text>
+<text x="600.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr5</text>
+<text x="700.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr6</text>
+<text x="800.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr7</text>
+<text x="900.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr8</text>
+<text x="1000.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr9</text>
+<text x="1100.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr10</text>
+<text x="1200.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr11</text>
+<text x="1300.0" y="577" text-anchor="middle" font-family="Arial" font-size="13">chr12</text>
+<text x="135" y="608" text-anchor="end" font-family="Arial" font-size="12">0-10</text>
+<rect x="150" y="590" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="198.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="250" y="590" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="298.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="350" y="590" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="398.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="450" y="590" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="550" y="590" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="598.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="650" y="590" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="698.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="750" y="590" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="798.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="850" y="590" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="590" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="590" width="96" height="25" fill="rgb(148,148,148)" stroke="white"/>
+<text x="1098.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">14</text>
+<rect x="1150" y="590" width="96" height="25" fill="rgb(140,140,140)" stroke="white"/>
+<text x="1198.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="1250" y="590" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="1298.0" y="608" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<text x="135" y="636" text-anchor="end" font-family="Arial" font-size="12">10-20</text>
+<rect x="150" y="618" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="198.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="250" y="618" width="96" height="25" fill="rgb(125,125,125)" stroke="white"/>
+<text x="298.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">17</text>
+<rect x="350" y="618" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="398.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="450" y="618" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="498.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="550" y="618" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="598.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="650" y="618" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="698.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="750" y="618" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="798.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="850" y="618" width="96" height="25" fill="rgb(125,125,125)" stroke="white"/>
+<text x="898.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">17</text>
+<rect x="950" y="618" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="998.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1050" y="618" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="1098.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="1150" y="618" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1198.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1250" y="618" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1298.0" y="636" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<text x="135" y="664" text-anchor="end" font-family="Arial" font-size="12">20-30</text>
+<rect x="150" y="646" width="96" height="25" fill="rgb(140,140,140)" stroke="white"/>
+<text x="198.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="250" y="646" width="96" height="25" fill="rgb(71,71,71)" stroke="white"/>
+<text x="298.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="white">24</text>
+<rect x="350" y="646" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="646" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="498.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="550" y="646" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="598.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="650" y="646" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="698.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="750" y="646" width="96" height="25" fill="rgb(148,148,148)" stroke="white"/>
+<text x="798.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">14</text>
+<rect x="850" y="646" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="898.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="950" y="646" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="646" width="96" height="25" fill="rgb(132,132,132)" stroke="white"/>
+<text x="1098.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">16</text>
+<rect x="1150" y="646" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="1198.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="1250" y="646" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1298.0" y="664" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<text x="135" y="692" text-anchor="end" font-family="Arial" font-size="12">30-40</text>
+<rect x="150" y="674" width="96" height="25" fill="rgb(148,148,148)" stroke="white"/>
+<text x="198.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">14</text>
+<rect x="250" y="674" width="96" height="25" fill="rgb(102,102,102)" stroke="white"/>
+<text x="298.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="white">20</text>
+<rect x="350" y="674" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="398.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="450" y="674" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="498.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="550" y="674" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="598.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="650" y="674" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="698.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="750" y="674" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="798.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="850" y="674" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="898.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="950" y="674" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="998.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1050" y="674" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="1098.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1150" y="674" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1198.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1250" y="674" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1298.0" y="692" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<text x="135" y="720" text-anchor="end" font-family="Arial" font-size="12">40-50</text>
+<rect x="150" y="702" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="198.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="250" y="702" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="298.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="350" y="702" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="398.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="450" y="702" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="498.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="550" y="702" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="598.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="650" y="702" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="698.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="750" y="702" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="798.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="850" y="702" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="898.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="950" y="702" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="998.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1050" y="702" width="96" height="25" fill="rgb(148,148,148)" stroke="white"/>
+<text x="1098.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">14</text>
+<rect x="1150" y="702" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="1198.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="1250" y="702" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="1298.0" y="720" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<text x="135" y="748" text-anchor="end" font-family="Arial" font-size="12">50-60</text>
+<rect x="150" y="730" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="198.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="250" y="730" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="298.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="350" y="730" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="398.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="450" y="730" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="498.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="550" y="730" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="598.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="650" y="730" width="96" height="25" fill="rgb(140,140,140)" stroke="white"/>
+<text x="698.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="750" y="730" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="798.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="850" y="730" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="898.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="950" y="730" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="998.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="1050" y="730" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1098.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1150" y="730" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="1198.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="1250" y="730" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="1298.0" y="748" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<text x="135" y="776" text-anchor="end" font-family="Arial" font-size="12">60-70</text>
+<rect x="150" y="758" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="198.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="250" y="758" width="96" height="25" fill="rgb(86,86,86)" stroke="white"/>
+<text x="298.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="white">22</text>
+<rect x="350" y="758" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="398.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="450" y="758" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="758" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="598.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="650" y="758" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="698.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="750" y="758" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="798.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="850" y="758" width="96" height="25" fill="rgb(79,79,79)" stroke="white"/>
+<text x="898.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="white">23</text>
+<rect x="950" y="758" width="96" height="25" fill="rgb(55,55,55)" stroke="white"/>
+<text x="998.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="white">26</text>
+<rect x="1050" y="758" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1098.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1150" y="758" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1198.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1250" y="758" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1298.0" y="776" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<text x="135" y="804" text-anchor="end" font-family="Arial" font-size="12">70-80</text>
+<rect x="150" y="786" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="198.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="250" y="786" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="298.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="350" y="786" width="96" height="25" fill="rgb(140,140,140)" stroke="white"/>
+<text x="398.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="450" y="786" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="786" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="786" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="698.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="750" y="786" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="786" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="786" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="998.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="1050" y="786" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="786" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="786" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1298.0" y="804" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<text x="135" y="832" text-anchor="end" font-family="Arial" font-size="12">80-90</text>
+<rect x="150" y="814" width="96" height="25" fill="rgb(55,55,55)" stroke="white"/>
+<text x="198.0" y="832" text-anchor="middle" font-family="Arial" font-size="12" fill="white">26</text>
+<rect x="250" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="814" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="832" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="814" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="498.0" y="832" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="550" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="814" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="998.0" y="832" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1050" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="814" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="860" text-anchor="end" font-family="Arial" font-size="12">90-100</text>
+<rect x="150" y="842" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="198.0" y="860" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="250" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="450" y="842" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="498.0" y="860" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="550" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1050" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="842" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="65" y="730.0" transform="rotate(-90 65,730.0)" text-anchor="middle" font-family="Arial" font-size="14">cM interval</text>
+<text x="150" y="1010" font-family="Arial" font-size="19" font-weight="bold">Maximally collinear map, 533 positions</text>
+<text x="200.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr1</text>
+<text x="300.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr2</text>
+<text x="400.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr3</text>
+<text x="500.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr4</text>
+<text x="600.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr5</text>
+<text x="700.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr6</text>
+<text x="800.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr7</text>
+<text x="900.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr8</text>
+<text x="1000.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr9</text>
+<text x="1100.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr10</text>
+<text x="1200.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr11</text>
+<text x="1300.0" y="1042" text-anchor="middle" font-family="Arial" font-size="13">chr12</text>
+<text x="135" y="1073" text-anchor="end" font-family="Arial" font-size="12">0-10</text>
+<rect x="150" y="1055" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="198.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="250" y="1055" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="1055" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="398.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="450" y="1055" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="550" y="1055" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="598.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="650" y="1055" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="698.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="750" y="1055" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="798.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="850" y="1055" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="1055" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="1055" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1098.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1150" y="1055" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1198.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1250" y="1055" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1298.0" y="1073" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<text x="135" y="1101" text-anchor="end" font-family="Arial" font-size="12">10-20</text>
+<rect x="150" y="1083" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="198.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="250" y="1083" width="96" height="25" fill="rgb(171,171,171)" stroke="white"/>
+<text x="298.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="350" y="1083" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="398.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="450" y="1083" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="1083" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="598.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="650" y="1083" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="698.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="750" y="1083" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="798.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="850" y="1083" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="898.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="950" y="1083" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="998.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1050" y="1083" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="1098.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1150" y="1083" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1198.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1250" y="1083" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1298.0" y="1101" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<text x="135" y="1129" text-anchor="end" font-family="Arial" font-size="12">20-30</text>
+<rect x="150" y="1111" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="198.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="250" y="1111" width="96" height="25" fill="rgb(148,148,148)" stroke="white"/>
+<text x="298.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">14</text>
+<rect x="350" y="1111" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="1111" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="1111" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="598.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="650" y="1111" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="698.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="750" y="1111" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="798.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="850" y="1111" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="898.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="950" y="1111" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="998.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="1050" y="1111" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="1098.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1150" y="1111" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1198.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1250" y="1111" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1298.0" y="1129" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<text x="135" y="1157" text-anchor="end" font-family="Arial" font-size="12">30-40</text>
+<rect x="150" y="1139" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="198.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="250" y="1139" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="298.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="350" y="1139" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="398.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="450" y="1139" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="498.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="550" y="1139" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="598.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="650" y="1139" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="698.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="750" y="1139" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="798.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="850" y="1139" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="898.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="950" y="1139" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="998.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1050" y="1139" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1098.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1150" y="1139" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="1198.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="1250" y="1139" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1298.0" y="1157" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<text x="135" y="1185" text-anchor="end" font-family="Arial" font-size="12">40-50</text>
+<rect x="150" y="1167" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="198.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="250" y="1167" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="298.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="350" y="1167" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="398.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="450" y="1167" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="498.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="550" y="1167" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="598.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="650" y="1167" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="698.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="750" y="1167" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="798.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="850" y="1167" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="898.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="950" y="1167" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="998.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1050" y="1167" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="1098.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="1150" y="1167" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1198.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1250" y="1167" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1298.0" y="1185" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<text x="135" y="1213" text-anchor="end" font-family="Arial" font-size="12">50-60</text>
+<rect x="150" y="1195" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="198.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="250" y="1195" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="298.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="350" y="1195" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="1195" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="498.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="550" y="1195" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="598.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="650" y="1195" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="698.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="750" y="1195" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="798.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="850" y="1195" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="898.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="950" y="1195" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="998.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1050" y="1195" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="1098.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="1150" y="1195" width="96" height="25" fill="rgb(179,179,179)" stroke="white"/>
+<text x="1198.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="1250" y="1195" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="1298.0" y="1213" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<text x="135" y="1241" text-anchor="end" font-family="Arial" font-size="12">60-70</text>
+<rect x="150" y="1223" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="198.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="250" y="1223" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="298.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="350" y="1223" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="398.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="450" y="1223" width="96" height="25" fill="rgb(232,232,232)" stroke="white"/>
+<text x="498.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">3</text>
+<rect x="550" y="1223" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="598.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="650" y="1223" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="698.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="750" y="1223" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="798.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="850" y="1223" width="96" height="25" fill="rgb(163,163,163)" stroke="white"/>
+<text x="898.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">12</text>
+<rect x="950" y="1223" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="998.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="1050" y="1223" width="96" height="25" fill="rgb(225,225,225)" stroke="white"/>
+<text x="1098.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="1150" y="1223" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="1198.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="1250" y="1223" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="1298.0" y="1241" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<text x="135" y="1269" text-anchor="end" font-family="Arial" font-size="12">70-80</text>
+<rect x="150" y="1251" width="96" height="25" fill="rgb(202,202,202)" stroke="white"/>
+<text x="198.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="250" y="1251" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="298.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="350" y="1251" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="398.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="450" y="1251" width="96" height="25" fill="rgb(217,217,217)" stroke="white"/>
+<text x="498.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<rect x="550" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="1251" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="698.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="750" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="1251" width="96" height="25" fill="rgb(186,186,186)" stroke="white"/>
+<text x="998.0" y="1269" text-anchor="middle" font-family="Arial" font-size="12" fill="black">9</text>
+<rect x="1050" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="1251" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="1297" text-anchor="end" font-family="Arial" font-size="12">80-90</text>
+<rect x="150" y="1279" width="96" height="25" fill="rgb(155,155,155)" stroke="white"/>
+<text x="198.0" y="1297" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<rect x="250" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="1279" width="96" height="25" fill="rgb(248,248,248)" stroke="white"/>
+<text x="398.0" y="1297" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="450" y="1279" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="498.0" y="1297" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="550" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="1279" width="96" height="25" fill="rgb(209,209,209)" stroke="white"/>
+<text x="998.0" y="1297" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="1050" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="1279" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="1325" text-anchor="end" font-family="Arial" font-size="12">90-100</text>
+<rect x="150" y="1307" width="96" height="25" fill="rgb(240,240,240)" stroke="white"/>
+<text x="198.0" y="1325" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="250" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="350" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="450" y="1307" width="96" height="25" fill="rgb(194,194,194)" stroke="white"/>
+<text x="498.0" y="1325" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="550" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="650" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="750" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="850" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="950" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1050" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1150" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="1250" y="1307" width="96" height="25" fill="rgb(255,255,255)" stroke="white"/>
+<text x="65" y="1195.0" transform="rotate(-90 65,1195.0)" text-anchor="middle" font-family="Arial" font-size="14">cM interval</text>
+<text x="1400" y="80" font-family="Arial" font-size="13">n markers</text>
+<rect x="1400" y="95" width="25" height="18" fill="rgb(255,255,255)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="109" font-family="Arial" font-size="12">0</text>
+<rect x="1400" y="119" width="25" height="18" fill="rgb(217,217,217)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="133" font-family="Arial" font-size="12">5</text>
+<rect x="1400" y="143" width="25" height="18" fill="rgb(179,179,179)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="157" font-family="Arial" font-size="12">10</text>
+<rect x="1400" y="167" width="25" height="18" fill="rgb(132,132,132)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="181" font-family="Arial" font-size="12">16</text>
+<rect x="1400" y="191" width="25" height="18" fill="rgb(94,94,94)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="205" font-family="Arial" font-size="12">21</text>
+<rect x="1400" y="215" width="25" height="18" fill="rgb(55,55,55)" stroke="black" stroke-width="0.5"/>
+<text x="1435" y="229" font-family="Arial" font-size="12">26</text>
+
+</svg>

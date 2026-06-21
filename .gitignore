@@ -49,3 +49,14 @@ archive_old_structure/
 *.sai
 *.bam
 *.bai
+
+# Potato: large raw/reference/intermediate files
+species/solanum_tuberosum/data/ref/
+species/solanum_tuberosum/data/raw/pgsc_sharma_2013/*.xls
+species/solanum_tuberosum/data/raw/pgsc_sharma_2013/*.xlsx
+species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/*.paf
+species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/*.sam
+species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/*.bam
+species/solanum_tuberosum/logs/
+*.bak
+*.bak_*

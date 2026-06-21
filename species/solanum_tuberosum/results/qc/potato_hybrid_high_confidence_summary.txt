@@ -1,0 +1,61 @@
+Potato hybrid high-confidence genetic map
+=========================================
+
+Target reference: DM_1-3_516_R44_potato.v6.1
+
+Inputs:
+- Strict direct SolCAP map: species/solanum_tuberosum/results/final/potato_genetic_map.with_markers.tsv
+- CIGAR liftover TableS4 map: species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/potato_TableS4_liftover_v403_to_v61.cigar.all_markers.tsv
+
+Construction rules:
+- SolCAP SNP markers were taken from direct SpudDB DM v6.1 positions.
+- Non-SolCAP markers were taken from CIGAR liftover only if:
+  liftover_status == lifted_chr_agree
+  cigar_status == cigar_aligned_base
+  target_type == chromosome
+  MAPQ >= 60
+  paf_identity >= 0.95
+  n_liftover_candidates == 1
+
+Input counts:
+Strict direct SolCAP rows: 313
+All CIGAR lifted TableS4 rows: 1730
+Filtered non-SolCAP CIGAR liftover rows added: 1327
+Combined with-marker rows: 1640
+Final unique chr-pos-cM rows: 1209
+
+Rows by source_mode:
+cigar_liftover_v403_to_v61    1327
+direct_spuddb_dm_v6_1          313
+
+Rows by marker_type:
+DArT_marker      1223
+SNP               313
+repeat_region      74
+match              30
+
+CIGAR liftover status counts before filtering:
+lifted_chr_agree              1688
+lifted_chr_disagree             32
+cigar_no_exact_target_base       7
+no_covering_paf_block            3
+
+CIGAR marker type counts after high-confidence filtering before removing direct SNPs:
+DArT_marker      1223
+repeat_region      74
+match              30
+
+QC by chromosome:
+ chr  n_markers  pos_min  pos_max  cM_min  cM_max
+   1        151   510709 88322820   0.000  92.982
+   2        171  4202319 45993317   6.462  76.036
+   3        100   298626 59115426   2.066  89.435
+   4         90  3604957 68943378  11.354  99.734
+   5         68   475917 55169241   0.000  64.138
+   6         95   581390 58017580   0.539  70.516
+   7         83   687291 57433724   0.000  67.064
+   8        117  2404959 59147419  10.679  67.791
+   9        114   831875 67360701   4.927  87.866
+  10         91   291396 59277472   0.000  68.865
+  11         80   478455 45763473   0.759  62.862
+  12         49   261416 59573113   0.000  75.166

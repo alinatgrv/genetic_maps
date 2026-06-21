@@ -1,0 +1,40 @@
+Potato first-cM hybrid high-confidence map
+==========================================
+
+Input with-marker rows: 1640
+Unique chr-pos rows after first-cM collapse: 859
+Positions with multiple cM values before collapsing: 152
+
+Collapse rule:
+- For each unique chr:pos, cM was set to the first cM value in the input with-marker table.
+- No median or averaging was applied.
+- Full marker/cM information was preserved in the metadata table.
+
+Collinearity QC by chromosome:
+ chr  n_positions  pos_min  pos_max  cM_min  cM_max  spearman_pos_cM orientation  increasing_cM_steps  decreasing_cM_steps  equal_cM_steps  increasing_fraction_without_ties  decreasing_fraction_without_ties
+   1          105   510709 88322820   0.000  91.647         0.990569  increasing                   64                   37               3                          0.633663                          0.366337
+   2          111  4202319 45993317   6.462  76.036         0.972622  increasing                   64                   38               8                          0.627451                          0.372549
+   3           59   298626 59115426   2.066  89.435         0.934845  increasing                   35                   22               1                          0.614035                          0.385965
+   4           78  3604957 68943378  11.354  99.734         0.993987  increasing                   50                   24               3                          0.675676                          0.324324
+   5           55   475917 55169241   0.000  63.803         0.989573  increasing                   33                   18               3                          0.647059                          0.352941
+   6           69   581390 58017580   0.539  70.516         0.996346  increasing                   44                   17               7                          0.721311                          0.278689
+   7           61   687291 57433724   0.000  67.064         0.996840  increasing                   40                   18               2                          0.689655                          0.310345
+   8           73  2404959 59147419  10.679  67.791         0.990551  increasing                   46                   24               2                          0.657143                          0.342857
+   9           79   831875 67360701   4.927  87.866         0.984493  increasing                   54                   22               2                          0.710526                          0.289474
+  10           68   291396 59277472   0.000  68.865         0.980483  increasing                   42                   21               4                          0.666667                          0.333333
+  11           63   478455 45763473   0.759  62.862         0.964413  increasing                   40                   19               3                          0.677966                          0.322034
+  12           38   261416 59573113   0.000  75.166        -0.981343  decreasing                   10                   26               1                          0.277778                          0.722222
+
+Flagged chromosomes after first-cM collapse:
+ chr  n_positions  pos_min  pos_max  cM_min  cM_max  spearman_pos_cM orientation  increasing_cM_steps  decreasing_cM_steps  equal_cM_steps  increasing_fraction_without_ties  decreasing_fraction_without_ties
+   1          105   510709 88322820   0.000  91.647         0.990569  increasing                   64                   37               3                          0.633663                          0.366337
+   2          111  4202319 45993317   6.462  76.036         0.972622  increasing                   64                   38               8                          0.627451                          0.372549
+   3           59   298626 59115426   2.066  89.435         0.934845  increasing                   35                   22               1                          0.614035                          0.385965
+   5           55   475917 55169241   0.000  63.803         0.989573  increasing                   33                   18               3                          0.647059                          0.352941
+  12           38   261416 59573113   0.000  75.166        -0.981343  decreasing                   10                   26               1                          0.277778                          0.722222
+
+Output files:
+- first-cM map: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.first_cM.tsv
+- first-cM metadata: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.first_cM.with_metadata.tsv
+- duplicate positions before collapsing: species/solanum_tuberosum/results/qc/potato_hybrid_high_confidence_first_cM_duplicate_positions.tsv
+- collinearity QC: species/solanum_tuberosum/results/qc/potato_hybrid_high_confidence_first_cM_collinearity_qc_by_chr.tsv

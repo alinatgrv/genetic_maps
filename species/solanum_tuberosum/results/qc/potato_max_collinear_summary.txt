@@ -1,0 +1,49 @@
+Potato maximum-collinearity filtered map
+========================================
+
+Input map: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.first_cM.tsv
+Input rows: 859
+Kept rows: 533
+Removed rows: 326
+
+Method:
+- Within each chromosome, rows were sorted by physical position.
+- For chromosomes with positive Spearman(pos,cM), the longest non-decreasing cM subsequence was retained.
+- For chromosomes with negative Spearman(pos,cM), the longest non-increasing cM subsequence was retained.
+- cM values were not modified; only non-collinear positions were filtered out.
+
+Chromosome-level filtering decisions:
+ chr  input_positions  kept_positions  removed_positions  input_spearman selected_orientation
+   1              105              63                 42        0.990569           increasing
+   2              111              63                 48        0.972622           increasing
+   3               59              30                 29        0.934845           increasing
+   4               78              51                 27        0.993987           increasing
+   5               55              34                 21        0.989573           increasing
+   6               69              50                 19        0.996346           increasing
+   7               61              43                 18        0.996840           increasing
+   8               73              43                 30        0.990551           increasing
+   9               79              50                 29        0.984493           increasing
+  10               68              43                 25        0.980483           increasing
+  11               63              37                 26        0.964413           increasing
+  12               38              26                 12       -0.981343           decreasing
+
+Collinearity QC after filtering:
+ chr  n_positions  pos_min  pos_max  cM_min  cM_max  spearman_pos_cM orientation  increasing_cM_steps  decreasing_cM_steps  equal_cM_steps  increasing_fraction_without_ties  decreasing_fraction_without_ties
+   1           63   510709 88322820   4.532  91.647         0.999964  increasing                   59                    0               3                               1.0                               0.0
+   2           63  4694333 45993314  11.734  76.036         0.999640  increasing                   52                    0              10                               1.0                               0.0
+   3           30  1181780 59115146   2.066  89.435         0.999778  increasing                   27                    0               2                               1.0                               0.0
+   4           51  3604957 68943378  13.213  99.734         0.999932  increasing                   47                    0               3                               1.0                               0.0
+   5           34   475917 54704835   1.616  63.803         0.999542  increasing                   29                    0               4                               1.0                               0.0
+   6           50   581390 58017580   0.539  70.516         0.999592  increasing                   41                    0               8                               1.0                               0.0
+   7           43   687291 57383958   2.659  67.064         0.999811  increasing                   39                    0               3                               1.0                               0.0
+   8           43  2404959 58764444  11.123  67.791         0.999811  increasing                   39                    0               3                               1.0                               0.0
+   9           50   831875 67360701   4.927  86.621         0.999736  increasing                   45                    0               4                               1.0                               0.0
+  10           43   291396 59248708   2.595  68.865         0.999773  increasing                   38                    0               4                               1.0                               0.0
+  11           37  2579325 45763473   0.759  62.862         1.000000  increasing                   36                    0               0                               1.0                               0.0
+  12           26   261416 59573113   0.000  69.698        -0.999829  decreasing                    0                   24               1                               0.0                               1.0
+
+Output files:
+- max-collinear map: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.first_cM.max_collinear.tsv
+- max-collinear metadata: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.first_cM.max_collinear.with_metadata.tsv
+- removed positions: species/solanum_tuberosum/results/qc/potato_max_collinear_removed_positions.tsv
+- QC by chromosome: species/solanum_tuberosum/results/qc/potato_max_collinear_qc_by_chr.tsv

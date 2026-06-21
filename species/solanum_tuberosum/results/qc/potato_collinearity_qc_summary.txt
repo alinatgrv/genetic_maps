@@ -1,0 +1,43 @@
+Potato genetic map collinearity QC
+==================================
+
+Input maps:
+- strict_direct_solcap: species/solanum_tuberosum/results/final/potato_genetic_map.tsv
+- liftover_extended_cigar: species/solanum_tuberosum/results/final/potato_genetic_map.liftover_extended_cigar.tsv
+- hybrid_high_confidence: species/solanum_tuberosum/results/final/potato_genetic_map.hybrid_high_confidence.tsv
+
+Per-map overview:
+               map_name  n_chromosomes  total_rows  min_spearman  median_spearman  max_spearman  total_decreasing_steps  total_increasing_steps
+ hybrid_high_confidence             12        1640     -0.964874         0.974834      0.993804                     328                     481
+liftover_extended_cigar             12        1688     -0.972469         0.974709      0.992138                     336                     486
+   strict_direct_solcap             12         313     -0.963636         0.992055      0.996992                      73                     225
+
+Potentially problematic chromosomes:
+               map_name  chr  n_rows  n_unique_pos  n_unique_cM  pos_min  pos_max  cM_min  cM_max  spearman_pos_cM orientation  increasing_cM_steps  decreasing_cM_steps  equal_cM_steps  increasing_fraction_without_ties  decreasing_fraction_without_ties
+   strict_direct_solcap   12      10            10           10   261416 50680228  27.502  69.698        -0.963636  decreasing                    3                    6               0                          0.333333                          0.666667
+liftover_extended_cigar    1     218           106          149   510709 88322820   0.000  92.982         0.982130  increasing                   62                   41               2                          0.601942                          0.398058
+liftover_extended_cigar    2     231           113          151  4202319 45993317   6.462  76.036         0.972511  increasing                   58                   48               6                          0.547170                          0.452830
+liftover_extended_cigar    3     154            59           92   298626 59115426   2.066  89.435         0.929054  increasing                   28                   27               3                          0.509091                          0.490909
+liftover_extended_cigar    5     108            55           63   475917 55169241   0.000  64.138         0.990792  increasing                   33                   19               2                          0.634615                          0.365385
+liftover_extended_cigar    8     195            74          109  2404959 59147419  10.679  67.791         0.980386  increasing                   40                   31               2                          0.563380                          0.436620
+liftover_extended_cigar   10     127            69           83   291396 59277472   0.000  68.865         0.976907  increasing                   40                   25               3                          0.615385                          0.384615
+liftover_extended_cigar   11      91            64           76   478455 45763473   0.759  62.862         0.971535  increasing                   38                   22               3                          0.633333                          0.366667
+liftover_extended_cigar   12      81            41           53   261556 59573113   0.000  75.166        -0.972469  decreasing                    9                   30               1                          0.230769                          0.769231
+ hybrid_high_confidence    1     209           105          141   510709 88322820   0.000  92.982         0.979962  increasing                   61                   41               2                          0.598039                          0.401961
+ hybrid_high_confidence    2     228           111          149  4202319 45993317   6.462  76.036         0.973094  increasing                   57                   47               6                          0.548077                          0.451923
+ hybrid_high_confidence    3     153            59           91   298626 59115426   2.066  89.435         0.927761  increasing                   28                   27               3                          0.509091                          0.490909
+ hybrid_high_confidence    5     108            55           63   475917 55169241   0.000  64.138         0.990792  increasing                   33                   19               2                          0.634615                          0.365385
+ hybrid_high_confidence    8     189            73          105  2404959 59147419  10.679  67.791         0.978790  increasing                   40                   30               2                          0.571429                          0.428571
+ hybrid_high_confidence   10     126            68           82   291396 59277472   0.000  68.865         0.976574  increasing                   39                   25               3                          0.609375                          0.390625
+ hybrid_high_confidence   11      90            63           75   478455 45763473   0.759  62.862         0.970872  increasing                   37                   22               3                          0.627119                          0.372881
+ hybrid_high_confidence   12      62            38           46   261416 59573113   0.000  75.166        -0.964874  decreasing                    9                   27               1                          0.250000                          0.750000
+
+Duplicate physical positions with multiple cM values:
+               map_name  n_duplicate_positions
+ hybrid_high_confidence                    152
+liftover_extended_cigar                    158
+
+Output files:
+- by chromosome: species/solanum_tuberosum/results/qc/potato_collinearity_qc_by_map_chr.tsv
+- decreasing adjacent steps: species/solanum_tuberosum/results/qc/potato_collinearity_decreasing_steps.tsv
+- duplicate positions: species/solanum_tuberosum/results/qc/potato_collinearity_duplicate_positions.tsv
