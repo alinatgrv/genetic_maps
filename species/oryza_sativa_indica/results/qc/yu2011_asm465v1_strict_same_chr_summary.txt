@@ -1,0 +1,4 @@
+input_details	species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.candidate_yu2011_projection.details.tsv
+strict_rows	1312
+output_map	species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_yu2011_projection.tsv
+output_details	species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_yu2011_projection.details.tsv

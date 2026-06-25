@@ -1,0 +1,7 @@
+input_xls	species/oryza_sativa_japonica/data/raw/public_sources/published_maps/yu_2011_plosone/pone.0017595.s004.xls
+sheet	geno1619
+header_row_1based	2
+n_bins	1619
+chromosomes	1,2,3,4,5,6,7,8,9,10,11,12
+cM_min	0.000000
+cM_max	200.606253

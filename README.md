@@ -159,3 +159,139 @@ species/solanum_tuberosum/results/qc/potato_max_collinear_removed_positions.tsv
 График покрытия генетической карты:
 
 ![Potato genetic map coverage](species/solanum_tuberosum/results/figures/potato_genetic_map_coverage.svg)
+
+---
+
+### 5. Рис japonica — *Oryza sativa japonica*
+
+Для *Oryza sativa japonica* использовалась опубликованная высокоплотная SNP/bin-карта Yu et al. 2011.  
+Целевой референс: `GCF_001433935.1_IRGSP-1.0`.
+
+В исходной таблице физические координаты были заданы на старой сборке `TIGR6.1 / MSU / Nipponbare`. Для получения карты на IRGSP-1.0 координаты середин bin-интервалов были перенесены со старой сборки на целевую через полногеномное выравнивание и `paftools.js liftover`.
+
+Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
+
+Финальный результат: `1,619` bins.
+
+Финальная карта:
+
+~~~text
+species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.details.tsv
+species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_liftover_final_map_summary.txt
+species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_final_map_collinearity_qc.tsv
+~~~
+
+График покрытия генетической карты:
+
+![Oryza sativa japonica genetic map coverage](species/oryza_sativa_japonica/results/figures/oryza_sativa_japonica_genetic_map_coverage.svg)
+
+---
+
+### 6. Рис indica — *Oryza sativa indica*
+
+Для *Oryza sativa indica* использовалась та же опубликованная SNP/bin-карта Yu et al. 2011.  
+Целевой референс: `GCA_000004655.2_ASM465v1`.
+
+Исходные физические координаты относились к japonica-сборке `TIGR6.1 / MSU / Nipponbare`, а целевой референс соответствует indica-линии `93-11`. Поэтому перенос координат выполнялся между разными подвидами риса. Из-за этого для финальной карты применялась строгая фильтрация: были оставлены только точки на основных хромосомах `1–12`, перенесенные на ту же хромосому, что и в исходной карте, и не нарушающие монотонный порядок `cM` при сортировке по физической координате.
+
+Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
+
+Финальный результат: `1,303` bins.
+
+Финальная карта:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.tsv
+~~~
+
+Основной расширенный результат:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.details.tsv
+species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_summary.txt
+species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_excluded_bins.tsv
+~~~
+
+График покрытия генетической карты:
+
+![Oryza sativa indica genetic map coverage](species/oryza_sativa_indica/results/figures/oryza_sativa_indica_genetic_map_coverage.svg)
+
+---
+
+### 5. Рис japonica — *Oryza sativa japonica*
+
+Для *Oryza sativa japonica* использовалась опубликованная высокоплотная SNP/bin-карта Yu et al. 2011.  
+Целевой референс: `GCF_001433935.1_IRGSP-1.0`.
+
+В исходной таблице физические координаты были заданы на старой сборке `TIGR6.1 / MSU / Nipponbare`. Для получения карты на IRGSP-1.0 координаты середин bin-интервалов были перенесены со старой сборки на целевую через полногеномное выравнивание и `paftools.js liftover`.
+
+Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
+
+Финальный результат: `1,619` bins.
+
+Финальная карта:
+
+~~~text
+species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.details.tsv
+species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_liftover_final_map_summary.txt
+species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_final_map_collinearity_qc.tsv
+~~~
+
+График покрытия генетической карты:
+
+![Oryza sativa japonica genetic map coverage](species/oryza_sativa_japonica/results/figures/oryza_sativa_japonica_genetic_map_coverage.svg)
+
+---
+
+### 6. Рис indica — *Oryza sativa indica*
+
+Для *Oryza sativa indica* использовалась та же опубликованная SNP/bin-карта Yu et al. 2011.  
+Целевой референс: `GCA_000004655.2_ASM465v1`.
+
+Исходные физические координаты относились к japonica-сборке `TIGR6.1 / MSU / Nipponbare`, а целевой референс соответствует indica-линии `93-11`. Поэтому перенос координат выполнялся между разными подвидами риса. Из-за этого для финальной карты применялась строгая фильтрация: были оставлены только точки на основных хромосомах `1–12`, перенесенные на ту же хромосому, что и в исходной карте, и не нарушающие монотонный порядок `cM` при сортировке по физической координате.
+
+Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
+
+Финальный результат: `1,303` bins.
+
+Финальная карта:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.tsv
+~~~
+
+Основной расширенный результат:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.details.tsv
+species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_summary.txt
+species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_excluded_bins.tsv
+~~~
+
+График покрытия генетической карты:
+
+![Oryza sativa indica genetic map coverage](species/oryza_sativa_indica/results/figures/oryza_sativa_indica_genetic_map_coverage.svg)

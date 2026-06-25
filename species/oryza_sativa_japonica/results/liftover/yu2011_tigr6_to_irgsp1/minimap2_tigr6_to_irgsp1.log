@@ -1,0 +1,10 @@
+[M::mm_idx_gen::8.800*1.60] collected minimizers
+[M::mm_idx_gen::9.662*1.98] sorted minimizers
+[M::main::9.662*1.98] loaded/built the index for 58 target sequence(s)
+[M::mm_mapopt_update::10.368*1.92] mid_occ = 171
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 58
+[M::mm_idx_stat::10.847*1.88] distinct minimizers: 26902962 (91.29% are singletons); average occurrences: 1.399; average spacing: 9.951; total length: 374422835
+[M::worker_pipeline::193.591*4.99] mapped 12 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: /mnt/users/tagirovaa/bin/minimap2 -t 6 -cx asm5 /mnt/reference/genomes/oryza_sativa_japonica/GCF_001433935.1/GCF_001433935.1_IRGSP-1.0_genomic.unmasked.fna species/oryza_sativa_japonica/data/raw/references/tigr6/tigr6_pseudomolecules.fa
+[M::main] Real time: 193.838 sec; CPU: 966.719 sec; Peak RSS: 14.633 GB

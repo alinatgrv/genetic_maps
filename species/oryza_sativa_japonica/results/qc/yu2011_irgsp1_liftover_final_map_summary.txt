@@ -1,0 +1,11 @@
+original_bed_rows	1619
+lifted_rows	1619
+final_map_rows	1619
+chromosomes	1,2,3,4,5,6,7,8,9,10,11,12
+same_chr_as_source	1619
+duplicate_chr_pos	0
+strand_+	1618
+strand_-	1
+final_map	species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.tsv
+details	species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.details.tsv
+qc_by_chr	species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_liftover_final_map_by_chr.tsv

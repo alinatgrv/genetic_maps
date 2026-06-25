@@ -1,0 +1,10 @@
+chr	pos	cM	bin	source_chr	tigr6_seqid	tigr6_pos	asm465v1_seqid	asm465v1_start0	asm465v1_end0	strand	exclude_reason
+3	14383941	77.649985	Bin415	3	chr03|13103	13711029	3	14383940	14383941	-	breaks_monotonic_cM_order_after_liftover
+3	15181635	72.198563	Bin411	3	chr03|13103	12775912	3	15181634	15181635	-	breaks_monotonic_cM_order_after_liftover
+4	2226020	9.596679	Bin566	4	chr04|13104	3222606	4	2226019	2226020	-	breaks_monotonic_cM_order_after_liftover
+4	4363363	16.117128	Bin584	4	chr04|13104	7239304	4	4363362	4363363	+	breaks_monotonic_cM_order_after_liftover
+4	5742682	15.154416	Bin581	4	chr04|13104	6204528	4	5742681	5742682	-	breaks_monotonic_cM_order_after_liftover
+4	6269143	14.173992	Bin580	4	chr04|13104	5650141	4	6269142	6269143	-	breaks_monotonic_cM_order_after_liftover
+11	19085508	92.632527	Bin1498	11	chr11|13111	22686838	11	19085507	19085508	-	breaks_monotonic_cM_order_after_liftover
+11	19192873	92.392718	Bin1497	11	chr11|13111	22596761	11	19192872	19192873	-	breaks_monotonic_cM_order_after_liftover
+11	21222807	111.636461	Bin1528	11	chr11|13111	26676752	11	21222806	21222807	+	breaks_monotonic_cM_order_after_liftover

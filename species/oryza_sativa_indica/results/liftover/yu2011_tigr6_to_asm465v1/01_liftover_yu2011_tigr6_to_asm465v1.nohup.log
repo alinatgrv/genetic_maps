@@ -1,0 +1,41 @@
+nohup: ignoring input
+THREADS: 6
+TIGR6_REF: species/oryza_sativa_japonica/data/raw/references/tigr6/tigr6_pseudomolecules.fa
+INDICA_REF: /mnt/reference/genomes/oryza_sativa_indica/GCA_000004655.2/Oryza_indica.ASM465v1.dna.toplevel.fa
+BED_IN: species/oryza_sativa_japonica/data/raw/public_sources/published_maps/yu_2011_plosone/yu2011_bins_tigr6_midpoints.fasta_seqids.bed
+
+Running minimap2 TIGR6.1 -> ASM465v1...
+
+Running paftools liftover...
+
+Line counts:
+   1619 species/oryza_sativa_japonica/data/raw/public_sources/published_maps/yu_2011_plosone/yu2011_bins_tigr6_midpoints.fasta_seqids.bed
+   1337 species/oryza_sativa_indica/results/liftover/yu2011_tigr6_to_asm465v1/yu2011_bins_asm465v1_lifted.bed
+  20479 species/oryza_sativa_indica/results/liftover/yu2011_tigr6_to_asm465v1/tigr6_to_asm465v1.asm5.paf
+  23435 total
+
+First lifted rows:
+1	6424151	6424152	chr01|13101_5979564_5979565	0	+
+1	28094494	28094495	chr01|13101_24995471_24995472	0	+
+1	29743608	29743609	chr01|13101_26537119_26537120	0	+
+1	46249541	46249542	chr01|13101_42196839_42196840	0	+
+1	46286469	46286470	chr01|13101_42230692_42230693	0	+
+1	46337661	46337662	chr01|13101_42281968_42281969	0	+
+1	4100867	4100868	chr01|13101_3637895_3637896	0	+
+1	4139765	4139766	chr01|13101_3678591_3678592	0	+
+1	1448938	1448939	chr01|13101_1183828_1183829	0	+
+1	45910506	45910507	chr01|13101_41895429_41895430	0	+
+
+Minimap2 log:
+[M::mm_idx_gen::9.270*1.70] collected minimizers
+[M::mm_idx_gen::10.095*2.04] sorted minimizers
+[M::main::10.095*2.04] loaded/built the index for 10490 target sequence(s)
+[M::mm_mapopt_update::10.875*1.97] mid_occ = 175
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 10490
+[M::mm_idx_stat::11.361*1.93] distinct minimizers: 28462324 (87.62% are singletons); average occurrences: 1.443; average spacing: 10.397; total length: 427004890
+[M::worker_pipeline::412.400*4.72] mapped 12 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: /mnt/users/tagirovaa/bin/minimap2 -t 6 -cx asm5 /mnt/reference/genomes/oryza_sativa_indica/GCA_000004655.2/Oryza_indica.ASM465v1.dna.toplevel.fa species/oryza_sativa_japonica/data/raw/references/tigr6/tigr6_pseudomolecules.fa
+[M::main] Real time: 412.613 sec; CPU: 1947.933 sec; Peak RSS: 15.101 GB
+
+LiftOver log:

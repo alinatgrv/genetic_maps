@@ -1,0 +1,58 @@
+nohup: ignoring input
+THREADS: 6
+MINIMAP2: /mnt/users/tagirovaa/bin/minimap2
+K8: /mnt/users/grigorieval/miniconda3/bin/k8
+PAFTOOLS: /mnt/users/grigorieval/miniconda3/bin/paftools.js
+TIGR6_REF: species/oryza_sativa_japonica/data/raw/references/tigr6/tigr6_pseudomolecules.fa
+IRGSP1_REF: /mnt/reference/genomes/oryza_sativa_japonica/GCF_001433935.1/GCF_001433935.1_IRGSP-1.0_genomic.unmasked.fna
+BED_IN: species/oryza_sativa_japonica/data/raw/public_sources/published_maps/yu_2011_plosone/yu2011_bins_tigr6_midpoints.fasta_seqids.bed
+OUTDIR: species/oryza_sativa_japonica/results/liftover/yu2011_tigr6_to_irgsp1
+
+Checking paftools liftover help...
+Usage: paftools.js liftover [options] <aln.paf> <query.bed>
+Options:
+  -q INT    min mapping quality [5]
+  -l INT    min alignment length [50000]
+  -d FLOAT  max sequence divergence (>=1 to disable) [1]
+
+Running minimap2 assembly-to-assembly alignment...
+
+PAF written:
+-rw-rw-r-- 1 tagirovaa tagirovaa 40K Jun 25 14:02 species/oryza_sativa_japonica/results/liftover/yu2011_tigr6_to_irgsp1/tigr6_to_irgsp1.asm5.paf
+
+Running paftools liftover...
+
+Lifted BED written:
+-rw-rw-r-- 1 tagirovaa tagirovaa 99K Jun 25 14:02 species/oryza_sativa_japonica/results/liftover/yu2011_tigr6_to_irgsp1/yu2011_bins_irgsp1_lifted.bed
+
+Line counts:
+  1619 species/oryza_sativa_japonica/data/raw/public_sources/published_maps/yu_2011_plosone/yu2011_bins_tigr6_midpoints.fasta_seqids.bed
+  1619 species/oryza_sativa_japonica/results/liftover/yu2011_tigr6_to_irgsp1/yu2011_bins_irgsp1_lifted.bed
+   122 species/oryza_sativa_japonica/results/liftover/yu2011_tigr6_to_irgsp1/tigr6_to_irgsp1.asm5.paf
+  3360 total
+
+First lifted rows:
+NC_029256.1	25847847	25847848	chr01|13101_25846803_25846804	0	+
+NC_029256.1	26538163	26538164	chr01|13101_26537119_26537120	0	+
+NC_029256.1	27078946	27078947	chr01|13101_27077902_27077903	0	+
+NC_029256.1	27661461	27661462	chr01|13101_27660417_27660418	0	+
+NC_029256.1	28054565	28054566	chr01|13101_28053521_28053522	0	+
+NC_029256.1	28254707	28254708	chr01|13101_28253663_28253664	0	+
+NC_029256.1	28420726	28420727	chr01|13101_28419681_28419682	0	+
+NC_029256.1	28529504	28529505	chr01|13101_28528459_28528460	0	+
+NC_029256.1	28641388	28641389	chr01|13101_28640343_28640344	0	+
+NC_029256.1	28746948	28746949	chr01|13101_28745903_28745904	0	+
+
+Minimap2 log:
+[M::mm_idx_gen::8.800*1.60] collected minimizers
+[M::mm_idx_gen::9.662*1.98] sorted minimizers
+[M::main::9.662*1.98] loaded/built the index for 58 target sequence(s)
+[M::mm_mapopt_update::10.368*1.92] mid_occ = 171
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 58
+[M::mm_idx_stat::10.847*1.88] distinct minimizers: 26902962 (91.29% are singletons); average occurrences: 1.399; average spacing: 9.951; total length: 374422835
+[M::worker_pipeline::193.591*4.99] mapped 12 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: /mnt/users/tagirovaa/bin/minimap2 -t 6 -cx asm5 /mnt/reference/genomes/oryza_sativa_japonica/GCF_001433935.1/GCF_001433935.1_IRGSP-1.0_genomic.unmasked.fna species/oryza_sativa_japonica/data/raw/references/tigr6/tigr6_pseudomolecules.fa
+[M::main] Real time: 193.838 sec; CPU: 966.719 sec; Peak RSS: 14.633 GB
+
+LiftOver log:

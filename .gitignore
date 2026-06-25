@@ -60,3 +60,15 @@ species/solanum_tuberosum/results/intermediate/liftover_v403_to_v61/*.bam
 species/solanum_tuberosum/logs/
 *.bak
 *.bak_*
+
+# Rice intermediate heavy files
+*.paf
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.fa
+*.fasta
+*.fna
+*.sai
+*.sam
