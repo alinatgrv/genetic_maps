@@ -324,3 +324,32 @@ species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.tsv
 
 ~~~text
 species/oryza_sativa_indica/results/qc/oryza_sativa_indica_marker_density_10cM_bins.tsv
+
+
+## Дополнительно (бонус): альтернативная карта на родительском геноме ZS97RS3
+
+> Основная карта indica — выше, на целевом референсе `ASM465v1` (93-11). Этот раздел — необязательное дополнение и **не заменяет** основную карту.
+
+При аудите отмечено, что `ASM465v1` (93-11) — фрагментированный драфт 2002 г. и не является родителем кросса Yu 2011 (Zhenshan 97 × Minghui 63). Для сравнения та же карта дополнительно перенесена на геном реального родителя — **ZS97RS3 (Zhenshan 97, `GCA_001623345.3`, Complete Genome без гэпов)**.
+
+Метод: bin-позиции с IRGSP-1.0 перенесены на ZS97RS3 через фланкирующие окна ±500 bp (`minimap2 -cx asm5 --secondary=no` + `paftools.js liftover`). Полногеномное asm5-выравнивание двух разошедшихся геномов оказалось слишком медленным, поэтому использован эквивалентный по результату оконный liftover. Скрипты: `07_download_zs97rs3_and_irgsp1.sh`, `08_build_irgsp1_bins_bed.py`, `09_make_flank_windows.py`, `09_liftover_irgsp1_to_zs97rs3.sh`, `10_build_indica_zs97rs3_map.py`.
+
+Результаты (для сравнения с основной картой на ASM465v1):
+
+| | ZS97RS3 (бонус) | ASM465v1 / 93-11 (основная) |
+|---|---|---|
+| Референс | `GCA_001623345.3`, Complete, родитель кросса | `GCA_000004655.2`, драфт 2002, не родитель |
+| Перенос (lift rate) | 87.5% (1417/1619) | 82.5% (1336/1619) |
+| Финальная карта | 1320 маркеров | 1303 |
+| Коллинеарность ДО фильтра | 0.9986 (13 убыв. на 1333) | не сообщалась |
+
+Файлы бонус-карты:
+
+~~~text
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.zs97rs3.tsv
+species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.zs97rs3_projection.strict_monotonic.tsv (+ .details / .candidate)
+species/oryza_sativa_indica/results/qc/yu2011_zs97rs3_projection_summary.txt
+species/oryza_sativa_indica/results/qc/yu2011_zs97rs3_collinearity_prefilter.tsv
+~~~
+
+![indica ZS97RS3 genetic map coverage](results/figures/oryza_sativa_indica_zs97rs3_genetic_map_coverage.svg)

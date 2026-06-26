@@ -171,73 +171,7 @@ species/solanum_tuberosum/results/qc/potato_max_collinear_removed_positions.tsv
 
 Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
 
-Финальный результат: `1,619` bins.
-
-Финальная карта:
-
-~~~text
-species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.tsv
-~~~
-
-Дополнительные файлы:
-
-~~~text
-species/oryza_sativa_japonica/results/final/oryza_sativa_japonica_genetic_map.details.tsv
-species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_liftover_final_map_summary.txt
-species/oryza_sativa_japonica/results/qc/yu2011_irgsp1_final_map_collinearity_qc.tsv
-~~~
-
-График покрытия генетической карты:
-
-![Oryza sativa japonica genetic map coverage](species/oryza_sativa_japonica/results/figures/oryza_sativa_japonica_genetic_map_coverage.svg)
-
----
-
-### 6. Рис indica — *Oryza sativa indica*
-
-Для *Oryza sativa indica* использовалась та же опубликованная SNP/bin-карта Yu et al. 2011.  
-Целевой референс: `GCA_000004655.2_ASM465v1`.
-
-Исходные физические координаты относились к japonica-сборке `TIGR6.1 / MSU / Nipponbare`, а целевой референс соответствует indica-линии `93-11`. Поэтому перенос координат выполнялся между разными подвидами риса. Из-за этого для финальной карты применялась строгая фильтрация: были оставлены только точки на основных хромосомах `1–12`, перенесенные на ту же хромосому, что и в исходной карте, и не нарушающие монотонный порядок `cM` при сортировке по физической координате.
-
-Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
-
-Финальный результат: `1,303` bins.
-
-Финальная карта:
-
-~~~text
-species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.tsv
-~~~
-
-Основной расширенный результат:
-
-~~~text
-species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.tsv
-~~~
-
-Дополнительные файлы:
-
-~~~text
-species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.strict_monotonic_yu2011_projection.details.tsv
-species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_summary.txt
-species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_excluded_bins.tsv
-~~~
-
-График покрытия генетической карты:
-
-![Oryza sativa indica genetic map coverage](species/oryza_sativa_indica/results/figures/oryza_sativa_indica_genetic_map_coverage.svg)
-
----
-
-### 5. Рис japonica — *Oryza sativa japonica*
-
-Для *Oryza sativa japonica* использовалась опубликованная высокоплотная SNP/bin-карта Yu et al. 2011.  
-Целевой референс: `GCF_001433935.1_IRGSP-1.0`.
-
-В исходной таблице физические координаты были заданы на старой сборке `TIGR6.1 / MSU / Nipponbare`. Для получения карты на IRGSP-1.0 координаты середин bin-интервалов были перенесены со старой сборки на целевую через полногеномное выравнивание и `paftools.js liftover`.
-
-Генетические координаты `cM` не пересчитывались и были взяты из опубликованной карты Yu et al. 2011. Переносились только физические координаты.
+> Примечание: карта Yu et al. 2011 построена на indica-кроссе Zhenshan 97 × Minghui 63, поэтому `cM` имеют indica-происхождение и здесь совмещены с физическими позициями japonica-сборки IRGSP-1.0. Bin-интервалы монотонны вдоль Nipponbare по построению, коллинеарность `|Spearman(pos, cM)|` = 1.000 по всем 12 хромосомам (наблюдается, а не навязана фильтром).
 
 Финальный результат: `1,619` bins.
 
@@ -295,3 +229,41 @@ species/oryza_sativa_indica/results/qc/yu2011_asm465v1_strict_monotonic_excluded
 График покрытия генетической карты:
 
 ![Oryza sativa indica genetic map coverage](species/oryza_sativa_indica/results/figures/oryza_sativa_indica_genetic_map_coverage.svg)
+
+---
+
+### 7. Рапс — *Brassica napus*
+
+Для рапса использовалась опубликованная консенсус-карта DArT-маркеров из работы
+Raman et al. 2014 (BMC Genomics 14:277), собранная из шести популяций удвоенных гаплоидов.
+Целевой референс: `GCF_020379485.1` (cultivar Da-Ae), сборка хромосомного уровня с 19
+хромосомами A1–A10 (A-субгеном) и C1–C9 (C-субгеном).
+
+DArT-маркеры не имеют физических координат на актуальной сборке, поэтому позиции
+определялись выравниванием последовательностей DArT-клонов (Diversity Arrays Technology)
+на референс Da-Ae с помощью BLASTN (megablast). В финальную карту вошли только маркеры с
+уникальным хитом на хромосоме, совпадающей с группой сцепления консенсус-карты; уникальность
+позволяет отсечь гомеологичные копии между A- и C-субгеномами. Генетические координаты `cM`
+взяты напрямую из карты Raman et al. 2014 и не пересчитывались.
+
+Финальный результат: `322` markers (все 19 хромосом). Медианная коллинеарность по хромосомам
+`|Spearman(pos, cM)|` = 0.97.
+
+Финальная карта:
+
+~~~text
+species/brassica_napus/results/final/brassica_napus_genetic_map.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/brassica_napus/results/final/brassica_napus_genetic_map.with_markers.tsv
+species/brassica_napus/results/final/brassica_napus_genetic_map.relaxed_best_hit.tsv
+species/brassica_napus/results/qc/bnapus_map_build_summary.txt
+species/brassica_napus/results/qc/brassica_napus_final_map_collinearity_qc.tsv
+~~~
+
+График покрытия генетической карты:
+
+![Brassica napus genetic map coverage](species/brassica_napus/results/figures/brassica_napus_genetic_map_coverage.svg)

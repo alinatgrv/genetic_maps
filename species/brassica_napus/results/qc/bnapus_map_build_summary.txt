@@ -1,0 +1,38 @@
+Brassica napus genetic map build summary
+=============================================
+
+DArT markers in consensus map (target set): 783
+Markers with >=1 chromosomal hit: 669
+Total HSP rows: 2179 (chromosomal: 1788)
+
+Strict map markers (unique + chr agree, deduplicated): 322
+  positions dropped by cM conflict: 28
+Relaxed map markers (best hit on expected chr): 354
+  positions dropped by cM conflict: 34
+
+Excluded markers by reason:
+  best_hit_off_expected_chr	119
+  no_chromosomal_hit	114
+  best_hit_off_expected_chr;non_unique_homoeolog	81
+  non_unique_homoeolog	61
+
+Strict map markers by chromosome (strict / relaxed):
+  A1	27	29
+  A2	14	13
+  A3	33	38
+  A4	27	28
+  A5	30	32
+  A6	47	48
+  A7	12	16
+  A8	6	6
+  A9	34	40
+  A10	23	27
+  C1	10	11
+  C2	13	14
+  C3	15	15
+  C4	12	13
+  C5	3	3
+  C6	3	5
+  C7	6	6
+  C8	4	4
+  C9	3	6

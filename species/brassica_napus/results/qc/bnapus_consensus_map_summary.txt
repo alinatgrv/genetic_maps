@@ -1,0 +1,33 @@
+Brassica napus DArT consensus map (Raman et al. 2014, Additional file 1)
+======================================================================
+
+Input file: species/brassica_napus/data/raw/raman2014_dart/1471-2164-14-277-S1.xls
+Sheet: Consensus Map
+Parsed marker rows: 1359
+Skipped rows: 4
+Unique DArT join-ids: 783
+
+Markers by class:
+  DArT	791
+  Non-DArT	568
+
+Markers by chromosome (all / DArT):
+  A1	110	71
+  A2	70	48
+  A3	156	85
+  A4	97	81
+  A5	92	75
+  A6	118	91
+  A7	81	34
+  A8	35	17
+  A9	145	81
+  A10	82	54
+  C1	42	22
+  C2	51	35
+  C3	76	30
+  C4	45	21
+  C5	24	7
+  C6	42	11
+  C7	23	8
+  C8	31	8
+  C9	39	12

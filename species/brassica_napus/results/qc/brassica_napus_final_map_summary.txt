@@ -1,0 +1,31 @@
+Brassica napus final genetic map — QC summary
+===============================================
+
+Input map: /Users/ima/Desktop/genetic_maps_test_task/species/brassica_napus/results/final/brassica_napus_genetic_map.tsv
+Total markers: 322
+Chromosomes covered: 19 / 19
+Duplicate (chr,pos) rows: 0
+
+Mean |Spearman(pos,cM)| over chromosomes:   0.8949
+Median |Spearman(pos,cM)| over chromosomes: 0.9664
+
+Per-chromosome |Spearman| (n markers):
+   A1	0.9901	(n=27)
+  A10	0.895	(n=23)
+   A2	0.9692	(n=14)
+   A3	0.9828	(n=33)
+   A4	0.9838	(n=27)
+   A5	0.9664	(n=30)
+   A6	0.9739	(n=47)
+   A7	0.8951	(n=12)
+   A8	0.9429	(n=6)
+   A9	0.981	(n=34)
+   C1	0.4061	(n=10)
+   C2	0.8023	(n=13)
+   C3	0.9205	(n=15)
+   C4	0.986	(n=12)
+   C5	1.0	(n=3)
+   C6	0.5	(n=3)
+   C7	0.9429	(n=6)
+   C8	1.0	(n=4)
+   C9	0.866	(n=3)

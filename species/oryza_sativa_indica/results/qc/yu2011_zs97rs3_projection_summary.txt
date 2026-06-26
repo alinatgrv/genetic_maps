@@ -1,0 +1,21 @@
+Oryza sativa indica — Yu2011 projection onto ZS97RS3 (parent genome)
+==================================================================
+
+input_bins_irgsp1	1619
+lifted_rows_raw	1419
+bins_lifted_unique	1417
+bins_multi_hit	2
+nonprimary_lifted_rows	1
+candidate_primary_1_12	1417
+same_chr_as_source	1333
+off_chr	84
+strict_monotonic_kept	1320
+strict_monotonic_excluded	13
+
+lift_rate_pct	87.5
+same_chr_pct_of_candidate	94.1
+
+HONEST collinearity (same-chr set, BEFORE monotonic filter):
+  mean_abs_spearman_over_chr	0.9986
+  total_decreasing_cM_steps_prefilter	13
+  NOTE: strict_monotonic map has 0 decreasing steps BY CONSTRUCTION (LIS filter).

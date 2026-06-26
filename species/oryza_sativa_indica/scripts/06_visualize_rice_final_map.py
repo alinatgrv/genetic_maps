@@ -17,9 +17,16 @@ CONFIGS = [
     {
         "species_dir": Path("species/oryza_sativa_indica"),
         "species_label": "Oryza sativa indica",
-        "map_label": "Strict monotonic projection on ASM465v1, 1,303 bins",
+        "map_label": "Strict monotonic projection on ASM465v1 (93-11), 1,303 bins",
         "prefix": "oryza_sativa_indica",
         "map_path": Path("species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.tsv"),
+    },
+    {
+        "species_dir": Path("species/oryza_sativa_indica"),
+        "species_label": "Oryza sativa indica (ZS97RS3)",
+        "map_label": "Yu2011 projection on ZS97RS3 parent genome, 1,320 bins",
+        "prefix": "oryza_sativa_indica_zs97rs3",
+        "map_path": Path("species/oryza_sativa_indica/results/final/oryza_sativa_indica_genetic_map.zs97rs3.tsv"),
     },
 ]
 

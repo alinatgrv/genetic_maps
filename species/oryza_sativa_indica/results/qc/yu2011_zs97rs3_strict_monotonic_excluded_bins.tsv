@@ -1,0 +1,14 @@
+chr	pos	cM	bin	source_chr	target_seqid	exclude_reason
+1	9055277	87.070118	Bin99	1	CP056052.1	breaks_monotonic_cM_order_after_liftover
+1	32721918	155.016282	Bin185	1	CP056052.1	breaks_monotonic_cM_order_after_liftover
+2	13099425	17.509489	Bin241	2	CP056053.1	breaks_monotonic_cM_order_after_liftover
+2	14888486	48.646041	Bin255	2	CP056053.1	breaks_monotonic_cM_order_after_liftover
+4	1964993	9.596679	Bin566	4	CP056055.1	breaks_monotonic_cM_order_after_liftover
+4	11803589	12.967992	Bin577	4	CP056055.1	breaks_monotonic_cM_order_after_liftover
+4	24850697	13.451088	Bin578	4	CP056055.1	breaks_monotonic_cM_order_after_liftover
+6	12774806	72.538403	Bin907	6	CP056057.1	breaks_monotonic_cM_order_after_liftover
+6	13993226	69.412385	Bin906	6	CP056057.1	breaks_monotonic_cM_order_after_liftover
+6	14324958	69.172576	Bin905	6	CP056057.1	breaks_monotonic_cM_order_after_liftover
+6	17781050	68.692959	Bin903	6	CP056057.1	breaks_monotonic_cM_order_after_liftover
+7	20099619	69.328082	Bin1023	7	CP056058.1	breaks_monotonic_cM_order_after_liftover
+10	18343457	34.203569	Bin1343	10	CP056061.1	breaks_monotonic_cM_order_after_liftover

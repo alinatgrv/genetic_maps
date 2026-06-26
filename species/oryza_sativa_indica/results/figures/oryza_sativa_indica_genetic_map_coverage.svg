@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="650" viewBox="0 0 1500 650">
 <rect width="100%" height="100%" fill="white"/>
 <text x="750.0" y="38" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">Oryza sativa indica: marker coverage by cM</text>
-<text x="130" y="90" font-family="Arial" font-size="20" font-weight="bold">Strict monotonic projection on ASM465v1, 1,303 bins</text>
+<text x="130" y="90" font-family="Arial" font-size="20" font-weight="bold">Strict monotonic projection on ASM465v1 (93-11), 1,303 bins</text>
 <line x1="105" y1="145" x2="105" y2="560" stroke="black" stroke-width="1"/>
 <line x1="100" y1="145.0" x2="105" y2="145.0" stroke="black" stroke-width="1"/>
 <text x="92" y="149.0" text-anchor="end" font-family="Arial" font-size="12">0</text>

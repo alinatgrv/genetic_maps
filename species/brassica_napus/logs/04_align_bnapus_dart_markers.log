@@ -1,0 +1,24 @@
+Start: пятница, 26 июня 2026 г. 00:08:21 (MSK)
+Threads: 8
+Reference: species/brassica_napus/data/ref/GCF_020379485.1_genomic.fna
+Query: species/brassica_napus/data/markers/bnapus_dart_markers.fasta
+
+Building BLAST nucleotide database...
+
+
+Building a new DB, current time: 06/26/2026 00:08:22
+New DB name:   /Users/ima/Desktop/genetic_maps_test_task/species/brassica_napus/data/ref/GCF_020379485.1_blastdb
+New DB title:  species/brassica_napus/data/ref/GCF_020379485.1_genomic.fna
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 3167 sequences in 12.5713 seconds.
+
+
+
+Running blastn (megablast)...
+
+Done: пятница, 26 июня 2026 г. 00:08:38 (MSK)
+Hits file: species/brassica_napus/results/intermediate/bnapus_dart_markers.blastn.tsv
+Total HSP rows:     2179
+Queries with at least one hit:      673

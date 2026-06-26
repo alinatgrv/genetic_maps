@@ -1,0 +1,376 @@
+marker_id	best_chr	expected_chr	pos	pident	bitscore	competitor_chr	competitor_bitscore	reason
+brpb-657600	A2	A6	12516501	90.65	331.0	A6	250.0	best_hit_off_expected_chr
+brpb-657632	C6	A6	4236119	93.80	536.0	A6	351.0	best_hit_off_expected_chr
+brpb-657641	C4	A4	32641955	95.07	479.0			best_hit_off_expected_chr
+brpb-657785	A9	A2	28401201	90.48	108.0			best_hit_off_expected_chr
+brpb-657847	C2	A2	26145183	97.59	143.0	A2	80.5	best_hit_off_expected_chr
+brpb-657896	A3	A10	3767305	99.77	800.0	C3	617.0	best_hit_off_expected_chr
+brpb-657950	C6	A7	30793244	96.61	833.0	A7	789.0	best_hit_off_expected_chr
+brpb-658011	C2	A2	26145081	97.62	217.0	A2	80.5	best_hit_off_expected_chr
+brpb-658018	C9	A10	64676772	97.86	645.0	C2	532.0	best_hit_off_expected_chr
+brpb-658104	C1	A1	22369056	91.84	634.0	A1	473.0	best_hit_off_expected_chr
+brpb-658153	C4	A4	32641953	93.18	462.0			best_hit_off_expected_chr
+brpb-658213	C2	A2	26145081	97.62	217.0	A2	75.0	best_hit_off_expected_chr
+brpb-658265	C4	A4	39860918	90.69	499.0			best_hit_off_expected_chr
+brpb-658266	C9	A3	39486226	93.22	486.0	C8	231.0	best_hit_off_expected_chr
+brpb-658413	A9	A2	28401201	90.48	108.0			best_hit_off_expected_chr
+brpb-658420	C5	A9	24789744	96.61	294.0			best_hit_off_expected_chr
+brpb-658468	C4	A5	12930052	93.53	959.0			best_hit_off_expected_chr
+brpb-658547	C7	A7	14244801	93.89	590.0	A7	453.0	best_hit_off_expected_chr
+brpb-658552	C2	A2	26145081	97.62	217.0	A2	80.5	best_hit_off_expected_chr
+brpb-658557	C4	A4	57563506	95.29	276.0	A4	254.0	best_hit_off_expected_chr
+brpb-658597	C5	A10	1146678	95.83	1005.0			best_hit_off_expected_chr
+brpb-658617	C2	A2	26145081	96.03	209.0	A2	80.5	best_hit_off_expected_chr
+brpb-658647	C6	A6	9723616	92.05	931.0	A6	640.0	best_hit_off_expected_chr
+brpb-658696	A7	A9	12046689	99.55	817.0	C7	702.0	best_hit_off_expected_chr
+brpb-658724	A7	A9	12046731	95.60	601.0	C7	497.0	best_hit_off_expected_chr
+brpb-658746	C6	A6	7216343	94.12	78.7			best_hit_off_expected_chr
+brpb-658795	C5	A5	52372830	99.03	933.0	A5	874.0	best_hit_off_expected_chr
+brpb-658860	C2	A2	58085370	100.00	760.0	C3	87.9	best_hit_off_expected_chr
+brpb-658946	A9	C5	31864638	98.46	686.0	C5	608.0	best_hit_off_expected_chr
+brpb-659008	C4	A4	58389164	99.66	540.0			best_hit_off_expected_chr
+brpb-659084	C4	A7	17194125	91.28	797.0	A7	634.0	best_hit_off_expected_chr
+brpb-659102	A9	A3	41448019	94.94	366.0			best_hit_off_expected_chr
+brpb-659122	C9	A10	64676772	97.59	641.0	C2	529.0	best_hit_off_expected_chr
+brpb-659342	C4	A5	3767036	90.87	289.0			best_hit_off_expected_chr
+brpb-659578	A8	C3	18432315	93.26	521.0	A8	100.0	best_hit_off_expected_chr
+brpb-659743	C9	A10	38233969	95.27	231.0			best_hit_off_expected_chr
+brpb-659798	C4	A4	32642032	96.69	252.0			best_hit_off_expected_chr
+brpb-659993	C8	A9	47950582	94.90	244.0	A9	82.4	best_hit_off_expected_chr
+brpb-660108	C7	A2	45101846	90.72	126.0			best_hit_off_expected_chr
+brpb-660157	C4	A4	49771721	90.91	307.0			best_hit_off_expected_chr
+brpb-660621	C2	A2	24366289	92.06	503.0	A2	405.0	best_hit_off_expected_chr
+brpb-660912	C6	A6	7216468	96.61	761.0	A6	649.0	best_hit_off_expected_chr
+brpb-660916	C4	A5	3767036	90.41	287.0			best_hit_off_expected_chr
+brpb-661055	C2	A1	13998256	92.22	231.0	A2	119.0	best_hit_off_expected_chr
+brpb-661264	C1	A10	8917396	96.78	669.0	A1	597.0	best_hit_off_expected_chr
+brpb-661568	C1	A1	22369056	92.24	643.0	A1	483.0	best_hit_off_expected_chr
+brpb-661689	C2	A2	26145183	97.59	143.0			best_hit_off_expected_chr
+brpb-661741	C8	A9	1474855	90.29	575.0			best_hit_off_expected_chr
+brpb-661786	C7	A7	29632617	90.18	503.0	A7	412.0	best_hit_off_expected_chr
+brpb-661820	C2	A2	26145081	96.03	209.0	A2	80.5	best_hit_off_expected_chr
+brpb-661964	C9	A9	8481011	93.26	649.0	A9	564.0	best_hit_off_expected_chr
+brpb-662015	C8	A9	1474771	94.65	894.0	A8	730.0	best_hit_off_expected_chr
+brpb-662121	C2	A2	26145081	97.62	217.0	A2	80.5	best_hit_off_expected_chr
+brpb-662201	C9	A10	64676772	97.86	645.0	C2	532.0	best_hit_off_expected_chr
+brpb-662354	C2	A6	9710122	90.65	185.0			best_hit_off_expected_chr
+brpb-662443	A10	A3	11547759	98.18	1360.0	C9	1269.0	best_hit_off_expected_chr
+brpb-662475	A3	A7	21689233	94.14	706.0			best_hit_off_expected_chr
+brpb-662624	C6	A7	35487211	91.48	424.0			best_hit_off_expected_chr
+brpb-662684	A4	C3	16449992	100.00	802.0	C5	680.0	best_hit_off_expected_chr
+brpb-662889	A2	C2	15736002	98.47	1035.0			best_hit_off_expected_chr
+brpb-663056	C9	A10	57707555	94.46	737.0	A10	693.0	best_hit_off_expected_chr
+brpb-663244	C9	A1	37900776	98.85	1249.0	C3	1186.0	best_hit_off_expected_chr
+brpb-663295	C7	A7	24969685	100.00	346.0			best_hit_off_expected_chr
+brpb-663425	C5	A10	1002218	97.57	1136.0	C5	1033.0	best_hit_off_expected_chr
+brpb-663549	C4	A4	58644427	98.80	1042.0	A4	983.0	best_hit_off_expected_chr
+brpb-663652	A9	C8	41452610	96.68	1059.0	C8	617.0	best_hit_off_expected_chr
+brpb-669898	A4	C3	16449813	94.56	1140.0	C5	1070.0	best_hit_off_expected_chr
+brpb-670226	C8	A9	45112313	99.60	455.0	A9	405.0	best_hit_off_expected_chr
+brpb-670303	A9	A6	43250275	92.03	643.0	A6	178.0	best_hit_off_expected_chr
+brpb-670365	C4	A5	12578426	99.18	885.0	A5	616.0	best_hit_off_expected_chr
+brpb-670433	C3	C9	51369213	97.31	965.0	C1	876.0	best_hit_off_expected_chr
+brpb-670740	C6	A9	41271121	100.00	902.0	A9	527.0	best_hit_off_expected_chr
+brpb-670799	A1	A5	28131423	95.60	852.0	C1	797.0	best_hit_off_expected_chr
+brpb-670834	A5	A2	9613039	96.26	361.0	A3	327.0	best_hit_off_expected_chr
+brpb-670863	C3	A8	68581517	98.33	856.0	A8	769.0	best_hit_off_expected_chr
+brpb-670908	A6	C2	24149993	97.45	669.0			best_hit_off_expected_chr
+brpb-670937	C9	A3	39486226	94.10	505.0	C8	255.0	best_hit_off_expected_chr
+brpb-670950	A3	A5	38058116	97.99	861.0	C9	704.0	best_hit_off_expected_chr
+brpb-671207	C1	A1	4616669	99.41	309.0			best_hit_off_expected_chr
+brpb-671217	C3	A3	6573034	97.08	691.0			best_hit_off_expected_chr
+brpb-671344	C1	A10	40914211	99.84	1127.0			best_hit_off_expected_chr
+brpb-808142	C4	A4	39860885	96.98	719.0	A4	669.0	best_hit_off_expected_chr
+brpb-808246	A10	C9	13963924	95.51	804.0	C9	715.0	best_hit_off_expected_chr
+brpb-808460	A2	C2	438600	99.81	946.0	C2	891.0	best_hit_off_expected_chr
+brpb-808526	C2	A2	26145081	96.83	213.0	A2	76.8	best_hit_off_expected_chr
+brpb-808599	C8	A4,A9	36911744	93.75	309.0	A4	213.0	best_hit_off_expected_chr
+brpb-808769	C6	A6	4236120	94.12	544.0	A6	351.0	best_hit_off_expected_chr
+brpb-808805	C4	A5	4716758	95.24	100.0			best_hit_off_expected_chr
+brpb-808818	A9	A1	29947786	95.09	603.0	C5	558.0	best_hit_off_expected_chr
+brpb-808824	A2	A7	28127205	99.72	667.0			best_hit_off_expected_chr
+brpb-808864	C9	A10	64676772	97.86	645.0	C2	532.0	best_hit_off_expected_chr
+brpb-808954	C4	A5	4716761	98.25	100.0			best_hit_off_expected_chr
+brpb-808961	C5	A6	9400099	92.47	135.0			best_hit_off_expected_chr
+brpb-808993	C7	A4	40739957	90.09	590.0	C6	261.0	best_hit_off_expected_chr
+brpb-809027	C9	A10	61560112	90.93	538.0	A10	198.0	best_hit_off_expected_chr
+brpb-809163	C3	A8	56192142	91.88	327.0	A8	195.0	best_hit_off_expected_chr
+brpb-809236	C4	A4	32641953	94.48	479.0			best_hit_off_expected_chr
+brpb-809293	C8	A8	27962640	95.59	433.0	C5	139.0	best_hit_off_expected_chr
+brpb-809443	C6	A7	25779016	91.02	348.0			best_hit_off_expected_chr
+brpb-809530	C2	C3	4630519	96.86	322.0			best_hit_off_expected_chr
+brpb-809652	A3	C3	3243611	95.59	110.0			best_hit_off_expected_chr
+brpb-809787	C4	A5	3767036	92.31	313.0	C4	292.0	best_hit_off_expected_chr
+brpb-809839	C9	A10	64676772	97.86	645.0	C2	532.0	best_hit_off_expected_chr
+brpb-810005	C5	A5	52372836	98.42	902.0	A5	850.0	best_hit_off_expected_chr
+brpb-838654	C2	A2	26145183	97.59	143.0			best_hit_off_expected_chr
+brpb-838790	A9	C9	425596	100.00	479.0	C9	449.0	best_hit_off_expected_chr
+brpb-839631	C4	A4	39860954	96.89	483.0	A4	429.0	best_hit_off_expected_chr
+brpb-839781	C3	A3	5894296	95.39	966.0	A3	902.0	best_hit_off_expected_chr
+brpb-840062	A2	A7	28127205	99.18	656.0			best_hit_off_expected_chr
+brpb-840148	C3	A4	10574809	90.06	233.0			best_hit_off_expected_chr
+brpb-840256	C8	A8	27962678	95.16	551.0			best_hit_off_expected_chr
+brpb-840563	A9	A2	28401201	90.48	108.0			best_hit_off_expected_chr
+brpb-840699	C8	A9	45112359	95.54	263.0	A9	241.0	best_hit_off_expected_chr
+brpb-840990	C4	A5	9406343	91.39	848.0	C3	340.0	best_hit_off_expected_chr
+brpb-841326	C7	A7	24966904	93.38	399.0	A7	346.0	best_hit_off_expected_chr
+brpb-841416	A9	A5	32127954	99.46	1016.0	C8	436.0	best_hit_off_expected_chr
+brpb-841475	C6	A6	29452846	95.99	488.0	C4	191.0	best_hit_off_expected_chr
+brpb-841841	C4	A5	9406324	91.68	800.0	C3	303.0	best_hit_off_expected_chr
+brpb-842021	C4	A4	32641953	94.81	483.0			best_hit_off_expected_chr
+brpb-657692	A3	A4	37537427	97.19	920.0	A3	920.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-657736	A2	A4	10236286	98.88	795.0	A4	789.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658244	C3	A3	14254356	94.43	902.0	A3	878.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658251	C6	A4	30271665	95.49	669.0	C6	643.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658492	C4	A4	56688527	93.32	593.0	A4	579.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658499	C4	A1	56185109	91.79	455.0	C4	433.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658523	C1	A1	51116622	99.57	846.0	A1	830.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658589	C3	A2	5009464	92.91	185.0	A3	180.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658604	C1	A1	50350146	96.61	494.0	A1	483.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658666	C9	A9	1159109	91.86	420.0	A9	420.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658694	A8	A5	2997831	97.18	1020.0	C8	996.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658798	C1	A1	50350235	99.14	209.0	A1	209.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658934	C3	A3	10921228	92.39	924.0	A3	917.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658968	C5	A6	3965234	95.24	896.0	A6	876.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-658975	C9	A9	4977812	94.49	730.0	A9	721.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-659526	C4	A5	10814805	98.25	200.0	A5	198.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-659719	C1	A1	50350070	98.89	483.0	A1	472.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-659894	C7	A9	24742158	95.47	387.0	A7	383.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661207	C6	A9	9975800	100.00	473.0	C5	468.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661245	C5	A6	3965234	96.12	918.0	A6	898.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661339	C1	A1	50350179	96.49	377.0	A1	372.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661341	C8	A9	45112232	97.81	710.0	A9	682.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661438	C8	A9	45112232	97.08	693.0	A9	665.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661461	C8	A9	45112232	96.84	688.0	A9	682.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661486	A1	C1	11885628	98.64	907.0	C1	887.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661526	A7	A10	21033880	98.79	1332.0	A10	1321.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661548	C1	A1	51116763	97.79	318.0	A1	307.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661557	C3	A3	1027094	95.57	900.0	A3	861.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661681	C2	A2	53522637	91.83	774.0	A2	774.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661779	C9	A9	1159109	91.53	414.0	A9	414.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661799	C1	A9	14497928	91.07	302.0	C4	296.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-661887	C5	A5	43938567	97.17	715.0	A5	691.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662033	C7	A3	44683591	98.67	797.0	A3	791.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662118	C3	A6	42436171	92.79	701.0	A6	684.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662215	C4	A4	57563439	97.04	512.0	A4	499.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662321	C8	A9	45112232	97.08	693.0	A9	688.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662488	C7	A3	44683591	98.44	791.0	A3	785.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662565	C3	A3	33161102	96.83	575.0	A3	556.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662586	C7	A3	44683591	98.67	797.0	A3	791.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662662	C4	A4	56688527	93.32	593.0	A4	579.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662802	A5	A6	3553383	93.45	407.0	C4	405.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-662946	A9	A5	21866499	95.34	852.0	A7	843.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-663102	C3	C2	57857372	98.59	876.0	C1	869.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-663111	A8	A9	5640780	96.95	333.0	A7	329.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-663121	C3	A3	13616620	96.58	392.0	A3	379.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-663320	A9	A5	21866516	95.82	815.0	A7	797.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-670686	A7	C6	27135283	96.89	545.0	C6	534.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-670963	C1	A1	51116622	100.00	856.0	A1	839.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671014	C5	A6	3965234	94.57	880.0	A6	859.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671027	C5	A5	38013074	93.21	390.0	A5	390.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671041	C8	A9	45112232	97.81	710.0	A9	682.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671293	A1	C1	15144963	96.91	486.0	C1	479.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671296	A7	C6	27135283	98.44	566.0	C6	556.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-671396	C1	A1	50350237	99.11	202.0	A1	202.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-807995	C9	A9	1159109	92.83	436.0	A9	436.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-808055	C9	A9	19252486	91.96	457.0	A9	440.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-808108	C1	A1	51116614	95.76	743.0	A1	732.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-808840	A9	C5	31864947	92.95	322.0	C5	309.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-809192	C1	A1	50350238	100.00	206.0	A1	206.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-809583	C4	A4	33528955	97.23	549.0	A4	542.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-809585	C7	A9	24742258	93.02	647.0	A7	628.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-809771	C6	A4	30271665	95.96	680.0	C6	649.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-809917	A7	C2	13082810	94.03	632.0	A2	627.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-810025	A9	C5	31864918	96.47	283.0	C5	270.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-838470	A1	C1	15144963	96.91	486.0	C1	479.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-838492	A9	C9	3378543	98.39	767.0	C9	756.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-838667	C5	A5	50892042	98.10	649.0	A5	638.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-838936	A1	C1	15144963	96.91	486.0	C1	479.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839027	C5	A5	50892053	98.97	699.0	A5	691.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839234	A9	C9	3378543	98.85	774.0	C9	763.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839374	A3	C3	5808966	94.69	523.0	C3	518.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839516	C1	A1	51379577	97.31	630.0	A1	630.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839739	A3	C3	5808966	94.69	523.0	C3	518.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839776	C1	A1	50350222	98.60	252.0	A1	246.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-839875	C9	A9	19995180	95.90	981.0	C9	976.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-840216	C8	A9	25684695	98.44	113.0	A8	113.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-840278	C1	A1	50350048	98.21	394.0	A1	388.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-840473	C1	A1	50350020	94.71	272.0	A1	267.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-841303	C6	A4	27528662	93.33	222.0	C3	222.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-841591	C8	A9	45112232	97.81	710.0	A9	682.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-841745	A8	A6	1617844	93.33	507.0	C6	484.0	best_hit_off_expected_chr;non_unique_homoeolog
+brpb-657581		A4						no_chromosomal_hit
+brpb-657667		A6						no_chromosomal_hit
+brpb-657687		A4						no_chromosomal_hit
+brpb-657695		A3						no_chromosomal_hit
+brpb-657786		A4						no_chromosomal_hit
+brpb-657915		A2						no_chromosomal_hit
+brpb-658050		A1						no_chromosomal_hit
+brpb-658100		A3						no_chromosomal_hit
+brpb-658122		A2						no_chromosomal_hit
+brpb-658209		A1,C4						no_chromosomal_hit
+brpb-658230		A9						no_chromosomal_hit
+brpb-658241		A3						no_chromosomal_hit
+brpb-658333		A10						no_chromosomal_hit
+brpb-658402		A6						no_chromosomal_hit
+brpb-658630		A9						no_chromosomal_hit
+brpb-658735		A10						no_chromosomal_hit
+brpb-659007		A9						no_chromosomal_hit
+brpb-659025		A5						no_chromosomal_hit
+brpb-659034		A1						no_chromosomal_hit
+brpb-659171		A1						no_chromosomal_hit
+brpb-659231		A1						no_chromosomal_hit
+brpb-659237		A1,C4						no_chromosomal_hit
+brpb-659419		A10						no_chromosomal_hit
+brpb-659783		C3						no_chromosomal_hit
+brpb-659838		A4						no_chromosomal_hit
+brpb-659960		A4						no_chromosomal_hit
+brpb-660007		A2						no_chromosomal_hit
+brpb-660122		A6						no_chromosomal_hit
+brpb-660131		A5						no_chromosomal_hit
+brpb-660347		C2						no_chromosomal_hit
+brpb-660401		A10						no_chromosomal_hit
+brpb-660629		C6						no_chromosomal_hit
+brpb-660630		A10						no_chromosomal_hit
+brpb-660661		A10						no_chromosomal_hit
+brpb-660669		A10						no_chromosomal_hit
+brpb-660779		C2						no_chromosomal_hit
+brpb-660785		C8						no_chromosomal_hit
+brpb-660869		A3,C3						no_chromosomal_hit
+brpb-660881		C4						no_chromosomal_hit
+brpb-661001		A9						no_chromosomal_hit
+brpb-661067		C7						no_chromosomal_hit
+brpb-661082		A10						no_chromosomal_hit
+brpb-661213		A6						no_chromosomal_hit
+brpb-661313		A5						no_chromosomal_hit
+brpb-661422		A7						no_chromosomal_hit
+brpb-661458		A3						no_chromosomal_hit
+brpb-661581		A1,C4						no_chromosomal_hit
+brpb-661730		A9						no_chromosomal_hit
+brpb-662007		A1						no_chromosomal_hit
+brpb-662094		A5						no_chromosomal_hit
+brpb-662113		C3						no_chromosomal_hit
+brpb-662170		A3						no_chromosomal_hit
+brpb-662275		C2						no_chromosomal_hit
+brpb-662385		A5						no_chromosomal_hit
+brpb-662499		A1						no_chromosomal_hit
+brpb-662842		A4						no_chromosomal_hit
+brpb-663150		A3						no_chromosomal_hit
+brpb-663186		A7						no_chromosomal_hit
+brpb-663222		C3						no_chromosomal_hit
+brpb-663265		A10						no_chromosomal_hit
+brpb-663404		A6						no_chromosomal_hit
+brpb-670051		C2						no_chromosomal_hit
+brpb-670322		A3						no_chromosomal_hit
+brpb-670326		C9						no_chromosomal_hit
+brpb-670633		A1						no_chromosomal_hit
+brpb-670739		A4						no_chromosomal_hit
+brpb-670773		C3						no_chromosomal_hit
+brpb-670779		C3						no_chromosomal_hit
+brpb-670896		C1						no_chromosomal_hit
+brpb-670951		C3						no_chromosomal_hit
+brpb-671051		A6						no_chromosomal_hit
+brpb-671083		A7						no_chromosomal_hit
+brpb-807847		A9						no_chromosomal_hit
+brpb-808136		A6						no_chromosomal_hit
+brpb-808642		A4						no_chromosomal_hit
+brpb-809030		A9						no_chromosomal_hit
+brpb-809033		C2						no_chromosomal_hit
+brpb-809053		A9						no_chromosomal_hit
+brpb-809065		A9						no_chromosomal_hit
+brpb-809088		A4						no_chromosomal_hit
+brpb-809152		A3						no_chromosomal_hit
+brpb-809263		A2						no_chromosomal_hit
+brpb-809377		C5						no_chromosomal_hit
+brpb-838511		C7						no_chromosomal_hit
+brpb-838668		A1						no_chromosomal_hit
+brpb-838677		A6						no_chromosomal_hit
+brpb-838923		A10						no_chromosomal_hit
+brpb-838939		C2						no_chromosomal_hit
+brpb-838970		C2						no_chromosomal_hit
+brpb-839048		A2						no_chromosomal_hit
+brpb-839099		C8						no_chromosomal_hit
+brpb-839167		A2						no_chromosomal_hit
+brpb-839539		C1						no_chromosomal_hit
+brpb-839640		A3						no_chromosomal_hit
+brpb-839763		A1						no_chromosomal_hit
+brpb-839764		C6						no_chromosomal_hit
+brpb-839883		A1						no_chromosomal_hit
+brpb-840224		C6						no_chromosomal_hit
+brpb-840239		C2						no_chromosomal_hit
+brpb-840375		A10						no_chromosomal_hit
+brpb-840385		A10						no_chromosomal_hit
+brpb-840556		A6						no_chromosomal_hit
+brpb-840706		A8						no_chromosomal_hit
+brpb-840884		C6						no_chromosomal_hit
+brpb-840896		A6						no_chromosomal_hit
+brpb-840906		A6						no_chromosomal_hit
+brpb-841120		A1						no_chromosomal_hit
+brpb-841544		A4						no_chromosomal_hit
+brpb-841624		A1						no_chromosomal_hit
+brpb-841736		A6						no_chromosomal_hit
+brpb-841752		C2						no_chromosomal_hit
+brpb-841932		C2						no_chromosomal_hit
+brpb-842221		A1						no_chromosomal_hit
+brpb-842239		A1						no_chromosomal_hit
+brpb-657750	A3	A3	14718055	97.98	689.0	C3	660.0	non_unique_homoeolog
+brpb-657933	A5	A5	12145445	99.69	582.0	C5	556.0	non_unique_homoeolog
+brpb-658174	A9	A9	38993800	95.22	459.0	C8	444.0	non_unique_homoeolog
+brpb-658436	A3	A3	14718055	98.49	699.0	C3	665.0	non_unique_homoeolog
+brpb-658601	A3	A3	14718055	98.74	704.0	C3	671.0	non_unique_homoeolog
+brpb-658660	A9	A9	4524004	92.72	688.0	C9	664.0	non_unique_homoeolog
+brpb-658800	A3	A3	14718055	98.49	699.0	C3	665.0	non_unique_homoeolog
+brpb-658844	A3	A3	14718055	98.74	704.0	C3	671.0	non_unique_homoeolog
+brpb-659113	A10	A10	11699721	98.57	741.0	C9	706.0	non_unique_homoeolog
+brpb-659148	A7	A7	23882814	99.74	717.0	C6	689.0	non_unique_homoeolog
+brpb-659195	A1	A1	12126623	99.70	621.0	A6	590.0	non_unique_homoeolog
+brpb-659204	A10	A10	972257	99.50	364.0	A10	364.0	non_unique_homoeolog
+brpb-659233	A3	A3	1727591	98.67	809.0	C3	802.0	non_unique_homoeolog
+brpb-659823	A9	A9	37818312	97.48	542.0	C8	534.0	non_unique_homoeolog
+brpb-660211	C1	C1	26421908	96.98	335.0	A1	331.0	non_unique_homoeolog
+brpb-660346	A3	A3	14718055	98.49	699.0	C3	665.0	non_unique_homoeolog
+brpb-660352	A10	A10	15818361	94.52	1107.0	C9	1062.0	non_unique_homoeolog
+brpb-660506	C9	C9	23305869	98.24	398.0	C7	398.0	non_unique_homoeolog
+brpb-660648	A3	A3	1727540	96.85	582.0	C3	580.0	non_unique_homoeolog
+brpb-660733	A3	A3	22512338	99.79	885.0	C7	841.0	non_unique_homoeolog
+brpb-660930	C6	C6	26062220	96.90	811.0	A7	798.0	non_unique_homoeolog
+brpb-660965	C6	C6	26062109	96.00	652.0	A7	630.0	non_unique_homoeolog
+brpb-661051	C2	C2	954812	93.86	270.0	A2	270.0	non_unique_homoeolog
+brpb-661133	A4	A4	18780520	99.02	1092.0	C4	1044.0	non_unique_homoeolog
+brpb-661347	A1	A1	8914949	99.79	870.0	C1	828.0	non_unique_homoeolog
+brpb-661655	A3	A3	22512337	99.79	883.0	C7	839.0	non_unique_homoeolog
+brpb-661767	A3	A3	2558946	95.21	521.0	C3	514.0	non_unique_homoeolog
+brpb-662278	A6	A6	3200320	94.46	669.0	C5	638.0	non_unique_homoeolog
+brpb-662342	A1	A1	24678442	97.74	1297.0	C1	1247.0	non_unique_homoeolog
+brpb-662924	A7	A7	14711996	90.98	852.0	C4	815.0	non_unique_homoeolog
+brpb-662935	A3	A3	14718055	98.49	699.0	C3	665.0	non_unique_homoeolog
+brpb-663073	A10	A10	9960056	91.60	344.0	C9	340.0	non_unique_homoeolog
+brpb-663334	A7	A7	23882814	99.49	710.0	C6	682.0	non_unique_homoeolog
+brpb-663524	A9	A9	22422170	98.87	785.0	A9	761.0	non_unique_homoeolog
+brpb-663551	A6	A6	22287389	93.53	917.0	C7	911.0	non_unique_homoeolog
+brpb-663692	C9	C9	3515508	98.00	435.0	A9	435.0	non_unique_homoeolog
+brpb-670133	C4	C4	51151076	96.74	719.0	A4	684.0	non_unique_homoeolog
+brpb-670330	A7	A7	23882814	98.98	708.0	C6	680.0	non_unique_homoeolog
+brpb-670354	A9	A9	11350620	99.41	931.0	A1	909.0	non_unique_homoeolog
+brpb-670954	A7	A7	23882814	100.00	723.0	C6	695.0	non_unique_homoeolog
+brpb-671004	A7	A7	14639730	98.57	876.0	A4	865.0	non_unique_homoeolog
+brpb-807992	A1	A1	30081869	97.05	577.0	C1	566.0	non_unique_homoeolog
+brpb-808274	A3	A3	14718055	98.74	704.0	C3	671.0	non_unique_homoeolog
+brpb-808338	A2	A2	3746223	92.80	741.0	C2	708.0	non_unique_homoeolog
+brpb-808545	A3	A3	2558946	96.11	538.0	C3	531.0	non_unique_homoeolog
+brpb-808842	A5	A5	25929149	92.15	488.0	C5	472.0	non_unique_homoeolog
+brpb-808844	A6	A6	3096285	97.51	412.0	C5	401.0	non_unique_homoeolog
+brpb-809175	A3	A3	14718055	98.49	699.0	C3	665.0	non_unique_homoeolog
+brpb-809214	A3	A3	14718055	98.74	704.0	C3	671.0	non_unique_homoeolog
+brpb-809267	A2	A2	27950629	96.94	549.0	C2	527.0	non_unique_homoeolog
+brpb-809393	A5	A5	12145445	99.69	584.0	C5	556.0	non_unique_homoeolog
+brpb-809496	A9	A9	36291978	96.86	532.0	C8	527.0	non_unique_homoeolog
+brpb-809854	A3	A3	14718055	97.73	689.0	C3	656.0	non_unique_homoeolog
+brpb-809935	A5	A5	2070398	95.71	340.0	C4	337.0	non_unique_homoeolog
+brpb-838708	A3	A3	14718055	98.24	693.0	C3	660.0	non_unique_homoeolog
+brpb-838788	A3	A3	28083985	98.91	327.0	A3	327.0	non_unique_homoeolog
+brpb-838880	A3	A3	21583587	96.62	702.0	C7	680.0	non_unique_homoeolog
+brpb-839094	A5	A5	3102928	99.56	422.0	A5	422.0	non_unique_homoeolog
+brpb-839259	A7	A7	14639486	98.18	678.0	A4	654.0	non_unique_homoeolog
+brpb-840166	C9	C9	23305868	98.22	394.0	C7	394.0	non_unique_homoeolog
+brpb-840347	A7	A7	27827972	100.00	983.0	C6	950.0	non_unique_homoeolog

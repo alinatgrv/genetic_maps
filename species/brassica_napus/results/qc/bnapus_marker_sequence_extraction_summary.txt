@@ -1,0 +1,29 @@
+Brassica napus DArT marker sequence extraction
+==================================================
+
+Source FASTA: species/brassica_napus/data/markers/DArT_Brassica.fasta
+Requested DArT markers (in consensus map): 783
+Markers with sequence found: 739
+Markers without sequence: 44
+Sequence length: min 81 / median 423 / max 793 bp
+
+Coverage by chromosome (found / requested):
+  A1	62	68
+  A2	44	47
+  A3	77	83
+  A4	77	80
+  A5	73	75
+  A6	84	91
+  A7	33	34
+  A8	17	17
+  A9	79	80
+  A10	51	54
+  C1	20	22
+  C2	33	35
+  C3	27	30
+  C4	21	21
+  C5	6	7
+  C6	10	11
+  C7	8	8
+  C8	6	8
+  C9	11	12
