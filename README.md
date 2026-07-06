@@ -21,7 +21,8 @@ chr    pos    cM
 - капуста белокочанная — *Brassica oleracea* var. *capitata*;
 - рис — *Oryza sativa*;
 - картофель — *Solanum tuberosum*;
-- рапс — *Brassica napus*.
+- рапс — *Brassica napus*;
+- нут — *Cicer arietinum*.
 
 ## Структура проекта
 
@@ -267,3 +268,47 @@ species/brassica_napus/results/qc/brassica_napus_final_map_collinearity_qc.tsv
 График покрытия генетической карты:
 
 ![Brassica napus genetic map coverage](species/brassica_napus/results/figures/brassica_napus_genetic_map_coverage.svg)
+
+---
+
+### 8. Нут — *Cicer arietinum*
+
+Для нута использовалась опубликованная высокоплотная SNP-карта Gaur et al. 2015
+(Sci Rep 5:13387), построенная на межвидовой популяции ICC 4958 × PI 489777.
+Целевой референс: `GCF_000331145.1` (ASM33114v1, CDC Frontier, kabuli), 8 псевдохромосом
+Ca1–Ca8.
+
+Физические координаты маркеров получены выравниванием фланкирующих последовательностей
+SNP (Table S1) на референс с помощью BLASTN (megablast); генетические координаты `cM`
+и группы сцепления взяты из карты (Table S2) и не пересчитывались. В карту вошли только
+SNP с уникальным хитом на хромосоме, совпадающей с группой сцепления (97 % уникально
+размещённых маркеров легли на «свою» хромосому). Затем карта приведена к строгой
+коллинеарности: хромосомы с обратной ориентацией развёрнуты, локально неколлинеарные
+маркеры удалены.
+
+> Примечание: изначально рассматривалась SSR-карта Khajuria et al. 2015, но её маркеры
+> не переносятся на сборку CDC Frontier (лишь ~24 % попадали на «свою» хромосому и были
+> неколлинеарны), поэтому использована SNP-карта.
+
+Финальный результат: строгая коллинеарная карта — `941` маркер (все 8 хромосом,
+`monotonic_fraction` = 1.0); карта-кандидат со всеми уникально размещёнными SNP —
+`3,702` маркера.
+
+Финальная карта:
+
+~~~text
+species/cicer_arietinum/results/final/cicer_arietinum_genetic_map.tsv
+~~~
+
+Дополнительные файлы:
+
+~~~text
+species/cicer_arietinum/results/final/cicer_arietinum_genetic_map.candidate.tsv
+species/cicer_arietinum/results/final/cicer_arietinum_genetic_map.with_markers.tsv
+species/cicer_arietinum/results/qc/cicer_final_map_collinearity_qc.tsv
+species/cicer_arietinum/results/qc/cicer_final_map_summary.txt
+~~~
+
+График покрытия генетической карты:
+
+![Chickpea genetic map coverage](species/cicer_arietinum/results/figures/cicer_genetic_map_coverage.svg)

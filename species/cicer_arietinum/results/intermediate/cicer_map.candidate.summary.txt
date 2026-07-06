@@ -1,0 +1,22 @@
+Chickpea candidate map build summary (SNP probes, Gaur et al. 2015)
+=======================================================
+probes with BLAST hits: 4512
+unique placements:      4445
+unique on a Ca chromosome: 3834
+FINAL placed (unique + chr==LG): 3702  (97% of on-chromosome)
+
+placed markers by chromosome:
+chr
+1    520
+2    348
+3    457
+4    575
+5    518
+6    636
+7    455
+8    193
+
+placed markers by class:
+marker_class
+transcript_SNP    1924
+genomic_SNP       1778

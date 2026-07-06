@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="527" viewBox="0 0 900 527">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="38" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">Chickpea (Cicer arietinum) final genetic map: marker density in 10 cM bins</text>
+<text x="150" y="85" font-family="Arial" font-size="20" font-weight="bold">Gaur 2015 SNP map, strict collinear (final)</text>
+<text x="185.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca1</text>
+<text x="255.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca2</text>
+<text x="325.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca3</text>
+<text x="395.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca4</text>
+<text x="465.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca5</text>
+<text x="535.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca6</text>
+<text x="605.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca7</text>
+<text x="675.0" y="115" text-anchor="middle" font-family="Arial" font-size="13">Ca8</text>
+<text x="135" y="144" text-anchor="end" font-family="Arial" font-size="12">0-10</text>
+<rect x="150" y="127" width="66" height="23" fill="rgb(193,193,193)" stroke="white"/>
+<text x="183.0" y="144" text-anchor="middle" font-family="Arial" font-size="12" fill="black">19</text>
+<rect x="220" y="127" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="127" width="66" height="23" fill="rgb(85,85,85)" stroke="white"/>
+<text x="323.0" y="144" text-anchor="middle" font-family="Arial" font-size="12" fill="white">52</text>
+<rect x="360" y="127" width="66" height="23" fill="rgb(170,170,170)" stroke="white"/>
+<text x="393.0" y="144" text-anchor="middle" font-family="Arial" font-size="12" fill="black">26</text>
+<rect x="430" y="127" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="127" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="570" y="127" width="66" height="23" fill="rgb(236,236,236)" stroke="white"/>
+<text x="603.0" y="144" text-anchor="middle" font-family="Arial" font-size="12" fill="black">6</text>
+<rect x="640" y="127" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="170" text-anchor="end" font-family="Arial" font-size="12">10-20</text>
+<rect x="150" y="153" width="66" height="23" fill="rgb(219,219,219)" stroke="white"/>
+<text x="183.0" y="170" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="220" y="153" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="153" width="66" height="23" fill="rgb(144,144,144)" stroke="white"/>
+<text x="323.0" y="170" text-anchor="middle" font-family="Arial" font-size="12" fill="black">34</text>
+<rect x="360" y="153" width="66" height="23" fill="rgb(118,118,118)" stroke="white"/>
+<text x="393.0" y="170" text-anchor="middle" font-family="Arial" font-size="12" fill="white">42</text>
+<rect x="430" y="153" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="153" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="570" y="153" width="66" height="23" fill="rgb(190,190,190)" stroke="white"/>
+<text x="603.0" y="170" text-anchor="middle" font-family="Arial" font-size="12" fill="black">20</text>
+<rect x="640" y="153" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="196" text-anchor="end" font-family="Arial" font-size="12">20-30</text>
+<rect x="150" y="179" width="66" height="23" fill="rgb(69,69,69)" stroke="white"/>
+<text x="183.0" y="196" text-anchor="middle" font-family="Arial" font-size="12" fill="white">57</text>
+<rect x="220" y="179" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="179" width="66" height="23" fill="rgb(180,180,180)" stroke="white"/>
+<text x="323.0" y="196" text-anchor="middle" font-family="Arial" font-size="12" fill="black">23</text>
+<rect x="360" y="179" width="66" height="23" fill="rgb(85,85,85)" stroke="white"/>
+<text x="393.0" y="196" text-anchor="middle" font-family="Arial" font-size="12" fill="white">52</text>
+<rect x="430" y="179" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="179" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="570" y="179" width="66" height="23" fill="rgb(203,203,203)" stroke="white"/>
+<text x="603.0" y="196" text-anchor="middle" font-family="Arial" font-size="12" fill="black">16</text>
+<rect x="640" y="179" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<text x="135" y="222" text-anchor="end" font-family="Arial" font-size="12">30-40</text>
+<rect x="150" y="205" width="66" height="23" fill="rgb(206,206,206)" stroke="white"/>
+<text x="183.0" y="222" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="220" y="205" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="205" width="66" height="23" fill="rgb(95,95,95)" stroke="white"/>
+<text x="323.0" y="222" text-anchor="middle" font-family="Arial" font-size="12" fill="white">49</text>
+<rect x="360" y="205" width="66" height="23" fill="rgb(206,206,206)" stroke="white"/>
+<text x="393.0" y="222" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<rect x="430" y="205" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="205" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="570" y="205" width="66" height="23" fill="rgb(154,154,154)" stroke="white"/>
+<text x="603.0" y="222" text-anchor="middle" font-family="Arial" font-size="12" fill="black">31</text>
+<rect x="640" y="205" width="66" height="23" fill="rgb(229,229,229)" stroke="white"/>
+<text x="673.0" y="222" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<text x="135" y="248" text-anchor="end" font-family="Arial" font-size="12">40-50</text>
+<rect x="150" y="231" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="231" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="231" width="66" height="23" fill="rgb(174,174,174)" stroke="white"/>
+<text x="323.0" y="248" text-anchor="middle" font-family="Arial" font-size="12" fill="black">25</text>
+<rect x="360" y="231" width="66" height="23" fill="rgb(177,177,177)" stroke="white"/>
+<text x="393.0" y="248" text-anchor="middle" font-family="Arial" font-size="12" fill="black">24</text>
+<rect x="430" y="231" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="231" width="66" height="23" fill="rgb(233,233,233)" stroke="white"/>
+<text x="533.0" y="248" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<rect x="570" y="231" width="66" height="23" fill="rgb(249,249,249)" stroke="white"/>
+<text x="603.0" y="248" text-anchor="middle" font-family="Arial" font-size="12" fill="black">2</text>
+<rect x="640" y="231" width="66" height="23" fill="rgb(206,206,206)" stroke="white"/>
+<text x="673.0" y="248" text-anchor="middle" font-family="Arial" font-size="12" fill="black">15</text>
+<text x="135" y="274" text-anchor="end" font-family="Arial" font-size="12">50-60</text>
+<rect x="150" y="257" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="257" width="66" height="23" fill="rgb(115,115,115)" stroke="white"/>
+<text x="253.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="white">43</text>
+<rect x="290" y="257" width="66" height="23" fill="rgb(242,242,242)" stroke="white"/>
+<text x="323.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">4</text>
+<rect x="360" y="257" width="66" height="23" fill="rgb(203,203,203)" stroke="white"/>
+<text x="393.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">16</text>
+<rect x="430" y="257" width="66" height="23" fill="rgb(180,180,180)" stroke="white"/>
+<text x="463.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">23</text>
+<rect x="500" y="257" width="66" height="23" fill="rgb(229,229,229)" stroke="white"/>
+<text x="533.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="570" y="257" width="66" height="23" fill="rgb(252,252,252)" stroke="white"/>
+<text x="603.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<rect x="640" y="257" width="66" height="23" fill="rgb(213,213,213)" stroke="white"/>
+<text x="673.0" y="274" text-anchor="middle" font-family="Arial" font-size="12" fill="black">13</text>
+<text x="135" y="300" text-anchor="end" font-family="Arial" font-size="12">60-70</text>
+<rect x="150" y="283" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="283" width="66" height="23" fill="rgb(190,190,190)" stroke="white"/>
+<text x="253.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">20</text>
+<rect x="290" y="283" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="360" y="283" width="66" height="23" fill="rgb(219,219,219)" stroke="white"/>
+<text x="393.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">11</text>
+<rect x="430" y="283" width="66" height="23" fill="rgb(128,128,128)" stroke="white"/>
+<text x="463.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">39</text>
+<rect x="500" y="283" width="66" height="23" fill="rgb(200,200,200)" stroke="white"/>
+<text x="533.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">17</text>
+<rect x="570" y="283" width="66" height="23" fill="rgb(229,229,229)" stroke="white"/>
+<text x="603.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">8</text>
+<rect x="640" y="283" width="66" height="23" fill="rgb(239,239,239)" stroke="white"/>
+<text x="673.0" y="300" text-anchor="middle" font-family="Arial" font-size="12" fill="black">5</text>
+<text x="135" y="326" text-anchor="end" font-family="Arial" font-size="12">70-80</text>
+<rect x="150" y="309" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="309" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="309" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="360" y="309" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="430" y="309" width="66" height="23" fill="rgb(98,98,98)" stroke="white"/>
+<text x="463.0" y="326" text-anchor="middle" font-family="Arial" font-size="12" fill="white">48</text>
+<rect x="500" y="309" width="66" height="23" fill="rgb(187,187,187)" stroke="white"/>
+<text x="533.0" y="326" text-anchor="middle" font-family="Arial" font-size="12" fill="black">21</text>
+<rect x="570" y="309" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="640" y="309" width="66" height="23" fill="rgb(233,233,233)" stroke="white"/>
+<text x="673.0" y="326" text-anchor="middle" font-family="Arial" font-size="12" fill="black">7</text>
+<text x="135" y="352" text-anchor="end" font-family="Arial" font-size="12">80-90</text>
+<rect x="150" y="335" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="335" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="335" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="360" y="335" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="430" y="335" width="66" height="23" fill="rgb(223,223,223)" stroke="white"/>
+<text x="463.0" y="352" text-anchor="middle" font-family="Arial" font-size="12" fill="black">10</text>
+<rect x="500" y="335" width="66" height="23" fill="rgb(141,141,141)" stroke="white"/>
+<text x="533.0" y="352" text-anchor="middle" font-family="Arial" font-size="12" fill="black">35</text>
+<rect x="570" y="335" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="640" y="335" width="66" height="23" fill="rgb(252,252,252)" stroke="white"/>
+<text x="673.0" y="352" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<text x="135" y="378" text-anchor="end" font-family="Arial" font-size="12">90-100</text>
+<rect x="150" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="220" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="290" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="360" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="430" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="500" y="361" width="66" height="23" fill="rgb(55,55,55)" stroke="white"/>
+<text x="533.0" y="378" text-anchor="middle" font-family="Arial" font-size="12" fill="white">61</text>
+<rect x="570" y="361" width="66" height="23" fill="rgb(255,255,255)" stroke="white"/>
+<rect x="640" y="361" width="66" height="23" fill="rgb(252,252,252)" stroke="white"/>
+<text x="673.0" y="378" text-anchor="middle" font-family="Arial" font-size="12" fill="black">1</text>
+<text x="64" y="257.0" transform="rotate(-90 64,257.0)" text-anchor="middle" font-family="Arial" font-size="14">cM interval</text>
+<text x="765" y="85" font-family="Arial" font-size="13">n markers</text>
+<rect x="765" y="100" width="25" height="18" fill="rgb(255,255,255)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="114" font-family="Arial" font-size="12">0</text>
+<rect x="765" y="124" width="25" height="18" fill="rgb(216,216,216)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="138" font-family="Arial" font-size="12">12</text>
+<rect x="765" y="148" width="25" height="18" fill="rgb(177,177,177)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="162" font-family="Arial" font-size="12">24</text>
+<rect x="765" y="172" width="25" height="18" fill="rgb(134,134,134)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="186" font-family="Arial" font-size="12">37</text>
+<rect x="765" y="196" width="25" height="18" fill="rgb(95,95,95)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="210" font-family="Arial" font-size="12">49</text>
+<rect x="765" y="220" width="25" height="18" fill="rgb(55,55,55)" stroke="black" stroke-width="0.5"/>
+<text x="800" y="234" font-family="Arial" font-size="12">61</text>
+
+</svg>

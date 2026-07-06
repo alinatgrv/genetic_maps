@@ -1,0 +1,29 @@
+Chickpea (Cicer arietinum) genetic map — collinearity QC summary
+==============================================================
+Reference: GCF_000331145.1 (ASM33114v1, CDC Frontier), chromosomes Ca1-Ca8
+Source:    Gaur et al. 2015, Sci Rep 5:13387 (SNP flanks + interspecific cM)
+
+Candidate map (all uniquely placed SNPs): 3702 markers
+Strict collinear final map:               941 markers
+Strict map: every chromosome monotonic (monotonic_fraction==1.0): True
+Strict map: median |Spearman| over chromosomes: 0.9997
+
+Candidate map per-chromosome |Spearman| (assembly-vs-map agreement):
+  Ca1: n= 520  spearman=-0.052  monotonic_fraction=0.553
+  Ca2: n= 348  spearman=-0.415  monotonic_fraction=0.524
+  Ca3: n= 457  spearman=-0.905  monotonic_fraction=0.612
+  Ca4: n= 575  spearman=-0.933  monotonic_fraction=0.605
+  Ca5: n= 518  spearman=+0.607  monotonic_fraction=0.542
+  Ca6: n= 636  spearman=+0.703  monotonic_fraction=0.532
+  Ca7: n= 455  spearman=-0.861  monotonic_fraction=0.507
+  Ca8: n= 193  spearman=+0.895  monotonic_fraction=0.5
+
+Strict final map markers per chromosome:
+  Ca1: 102
+  Ca2: 63
+  Ca3: 187
+  Ca4: 186
+  Ca5: 120
+  Ca6: 149
+  Ca7: 84
+  Ca8: 50

@@ -13,3 +13,4 @@ dependencies:
   - samtools
   - blast
   - ncbi-datasets-cli
+  - pypdf

@@ -1,0 +1,9 @@
+Start: Mon Jul  6 15:02:23 MSK 2026
+Reference: species/cicer_arietinum/data/ref/GCF_000331145.1_genomic.fna
+Query: species/cicer_arietinum/data/markers/cicer_snp_probes.fasta
+BLAST database already present: species/cicer_arietinum/data/ref/GCF_000331145.1_blastdb
+Running blastn (megablast)...
+Done: Mon Jul  6 15:02:27 MSK 2026
+Hits file: species/cicer_arietinum/results/intermediate/cicer_snp_probes.blastn.tsv
+Total HSP rows:     8215
+Probes with at least one hit:     4925
